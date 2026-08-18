@@ -21,7 +21,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://predictive-model-student-dropout-ri-one.vercel.app/",
+      "https://predictive-model-student-dropout-ri-one.vercel.app",
     ],
   }),
 );
