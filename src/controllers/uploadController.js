@@ -17,14 +17,17 @@ const uploadExcel = async (req, res) => {
 
     for (const student of data) {
       try {
-        const prediction = await axios.post("http://127.0.0.1:5000/predict", {
-          level: student.level,
-          age: student.age,
-          cgpa: student.cgpa,
-          attendance: student.attendance,
-          carryovers: student.carryovers,
-          fees_paid: student.fees_paid,
-        });
+        const prediction = await axios.post(
+          "https://ai-model-prediction.onrender.com/predict",
+          {
+            level: student.level,
+            age: student.age,
+            cgpa: student.cgpa,
+            attendance: student.attendance,
+            carryovers: student.carryovers,
+            fees_paid: student.fees_paid,
+          },
+        );
 
         await Student.create({
           matricNo: student.student_id,

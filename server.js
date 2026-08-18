@@ -17,6 +17,17 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+const cors = require("cors");
+
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",
+      "https://predictive-model-student-dropout-ri-one.vercel.app/",
+    ],
+  }),
+);
+
 app.use("/api/students", studentRoutes);
 app.use("/api/uploads", uploadRoutes);
 app.use("/api/dashboard", dashboardRoutes);
