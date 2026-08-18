@@ -1,0 +1,3001 @@
+student_id,faculty,department,level,gender,age,cgpa,attendance,carryovers,fees_paid,dropout
+STD0001,Education,Education Mathematics,400,M,29,4.11,41,5,0,1
+STD0002,Arts,History,100,F,23,1.04,65,3,0,1
+STD0003,Management Sciences,Business Administration,200,F,23,3.83,52,7,1,0
+STD0004,Arts,History,100,F,30,0.93,55,1,1,0
+STD0005,Science,Chemistry,100,M,17,3.81,89,6,0,0
+STD0006,Arts,English,300,F,26,3.72,66,2,0,0
+STD0007,Management Sciences,Business Administration,400,F,20,1.61,35,0,1,1
+STD0008,Education,Education Mathematics,100,F,25,2.58,80,4,1,0
+STD0009,Science,Biology,100,M,24,1.32,94,2,1,0
+STD0010,Arts,History,400,M,24,0.89,68,7,1,1
+STD0011,Education,Education Mathematics,200,M,30,3.71,31,2,0,1
+STD0012,Management Sciences,Accounting,100,F,23,4.46,68,6,1,0
+STD0013,Arts,History,400,F,21,3.13,79,5,0,0
+STD0014,Science,Computer Science,400,M,27,2.64,70,8,0,0
+STD0015,Arts,History,300,F,19,3.43,70,8,1,0
+STD0016,Arts,English,400,M,17,2.96,25,8,0,1
+STD0017,Management Sciences,Accounting,400,M,24,3.83,96,6,0,0
+STD0018,Education,Education Mathematics,400,F,22,4.46,48,5,1,1
+STD0019,Arts,English,400,M,29,2.84,97,8,1,0
+STD0020,Management Sciences,Accounting,100,M,27,1.56,41,4,0,1
+STD0021,Arts,English,200,M,26,3.55,92,2,0,0
+STD0022,Science,Chemistry,300,F,27,1.03,21,2,1,1
+STD0023,Arts,English,300,F,20,3.55,52,5,1,0
+STD0024,Social Sciences,Economics,400,M,25,2.66,48,1,0,1
+STD0025,Education,Education Mathematics,400,M,17,4.53,21,8,1,1
+STD0026,Social Sciences,Economics,100,M,17,2.93,60,0,0,0
+STD0027,Social Sciences,Economics,200,M,30,2.66,51,7,1,0
+STD0028,Science,Biology,300,F,26,0.89,88,1,0,1
+STD0029,Science,Computer Science,400,F,29,4.15,62,2,1,0
+STD0030,Arts,English,300,M,23,4.15,87,5,1,0
+STD0031,Arts,English,200,M,24,3.28,65,6,1,0
+STD0032,Social Sciences,Economics,300,M,24,0.95,31,6,1,1
+STD0033,Science,Computer Science,200,M,26,2.77,87,8,1,0
+STD0034,Management Sciences,Business Administration,400,F,27,4.05,92,1,1,0
+STD0035,Science,Biology,100,F,27,1.11,34,0,0,1
+STD0036,Science,Mathematics,100,M,29,1.1,35,2,0,1
+STD0037,Science,Chemistry,100,M,23,1.41,64,5,0,1
+STD0038,Arts,English,100,F,19,3.1,23,8,1,1
+STD0039,Management Sciences,Business Administration,400,F,23,1.82,48,2,0,1
+STD0040,Management Sciences,Business Administration,400,F,29,1.98,43,7,0,1
+STD0041,Education,Education Mathematics,200,M,17,2.92,65,2,0,0
+STD0042,Arts,English,300,M,19,3.5,48,4,0,1
+STD0043,Management Sciences,Accounting,200,M,26,3.99,79,5,0,0
+STD0044,Arts,English,300,M,27,3.93,89,4,0,0
+STD0045,Management Sciences,Business Administration,200,M,22,2.89,51,7,1,0
+STD0046,Science,Mathematics,400,F,24,3.05,47,1,0,1
+STD0047,Science,Mathematics,300,F,21,3.2,57,8,0,0
+STD0048,Science,Biology,400,M,28,3.33,23,6,1,1
+STD0049,Arts,History,100,F,21,2.88,66,7,0,0
+STD0050,Arts,English,100,M,30,0.8,96,7,1,1
+STD0051,Arts,English,300,F,21,1.77,55,3,0,1
+STD0052,Education,Education Biology,200,M,17,4.9,70,3,0,0
+STD0053,Management Sciences,Business Administration,100,M,22,4.4,58,6,0,0
+STD0054,Science,Biology,400,F,27,1.18,36,4,1,1
+STD0055,Arts,History,200,F,23,3.28,41,7,0,1
+STD0056,Education,Education Mathematics,400,M,24,3.41,82,1,0,0
+STD0057,Social Sciences,Economics,300,F,22,2.47,44,5,1,1
+STD0058,Arts,English,300,M,22,0.52,44,2,0,1
+STD0059,Education,Education Mathematics,400,M,20,4.3,86,3,0,0
+STD0060,Social Sciences,Political Science,300,M,29,2.44,38,3,1,0
+STD0061,Social Sciences,Political Science,300,F,22,4.78,37,8,1,1
+STD0062,Arts,English,100,M,21,3.56,82,6,1,0
+STD0063,Arts,English,100,M,17,1.35,60,2,1,0
+STD0064,Social Sciences,Economics,400,M,17,2.37,31,1,0,1
+STD0065,Management Sciences,Business Administration,200,F,21,3.56,85,3,0,0
+STD0066,Science,Biology,200,M,19,2.35,49,0,0,1
+STD0067,Arts,History,100,F,20,0.69,22,6,0,1
+STD0068,Arts,History,200,M,20,0.69,97,5,0,1
+STD0069,Arts,English,400,F,20,4.16,45,5,1,1
+STD0070,Social Sciences,Economics,300,F,18,2.74,79,6,1,0
+STD0071,Management Sciences,Accounting,100,F,23,2.16,85,1,1,0
+STD0072,Management Sciences,Business Administration,100,M,21,1.18,26,0,0,1
+STD0073,Social Sciences,Economics,200,M,17,2.37,72,6,1,0
+STD0074,Education,Education Mathematics,100,F,26,2.23,67,7,1,0
+STD0075,Management Sciences,Business Administration,100,M,23,4.11,25,8,1,1
+STD0076,Science,Mathematics,200,F,25,0.86,45,4,0,1
+STD0077,Management Sciences,Accounting,400,F,24,1.88,38,5,1,1
+STD0078,Science,Mathematics,400,F,30,2.11,76,4,0,0
+STD0079,Education,Education Biology,200,F,23,2.18,68,4,0,0
+STD0080,Arts,History,400,M,22,4.63,71,3,0,0
+STD0081,Management Sciences,Business Administration,100,M,29,3.56,60,4,0,0
+STD0082,Management Sciences,Accounting,400,M,24,4.49,91,7,0,0
+STD0083,Social Sciences,Political Science,200,M,19,0.64,57,4,0,1
+STD0084,Science,Mathematics,300,F,30,1.2,72,5,1,1
+STD0085,Science,Chemistry,100,F,25,1.81,92,4,0,1
+STD0086,Arts,English,400,F,25,1.07,22,5,1,1
+STD0087,Science,Biology,100,F,24,3.61,54,1,0,0
+STD0088,Management Sciences,Accounting,300,F,29,0.68,21,3,1,1
+STD0089,Education,Education Mathematics,100,M,24,4.49,98,2,0,0
+STD0090,Education,Education Mathematics,100,M,29,3.77,20,1,1,0
+STD0091,Education,Education Mathematics,100,F,29,4.64,63,3,1,0
+STD0092,Education,Education Biology,300,M,25,1.68,33,4,1,1
+STD0093,Management Sciences,Accounting,400,M,18,4.35,87,0,0,0
+STD0094,Science,Biology,200,M,27,2.16,99,2,1,0
+STD0095,Education,Education Biology,300,F,24,3.48,42,0,0,1
+STD0096,Education,Education Biology,400,F,27,3.7,78,4,1,0
+STD0097,Education,Education Mathematics,200,F,25,2.0,20,8,0,1
+STD0098,Science,Computer Science,400,M,28,1.9,96,2,1,0
+STD0099,Social Sciences,Political Science,200,M,28,3.5,70,4,0,0
+STD0100,Education,Education Mathematics,400,F,25,2.51,75,4,1,0
+STD0101,Social Sciences,Political Science,100,M,21,4.5,51,6,1,0
+STD0102,Arts,English,100,F,19,4.61,77,3,0,0
+STD0103,Management Sciences,Accounting,300,F,26,2.34,84,3,1,0
+STD0104,Arts,History,200,M,25,3.94,93,5,0,0
+STD0105,Social Sciences,Political Science,300,M,20,0.78,23,5,1,1
+STD0106,Social Sciences,Political Science,100,M,22,0.7,80,4,0,1
+STD0107,Social Sciences,Political Science,400,M,21,4.93,45,4,1,1
+STD0108,Education,Education Mathematics,300,F,21,1.0,53,6,0,1
+STD0109,Arts,English,300,F,19,2.12,61,3,1,0
+STD0110,Science,Biology,200,F,18,4.31,36,0,0,1
+STD0111,Social Sciences,Political Science,200,F,20,1.26,70,5,0,1
+STD0112,Social Sciences,Political Science,100,F,27,4.0,45,4,1,1
+STD0113,Arts,English,300,M,24,1.82,45,5,1,1
+STD0114,Social Sciences,Political Science,100,M,25,4.84,72,5,1,0
+STD0115,Arts,History,400,F,22,4.38,22,8,1,1
+STD0116,Education,Education Mathematics,200,F,19,4.58,78,2,1,0
+STD0117,Management Sciences,Accounting,400,F,24,2.28,25,8,0,1
+STD0118,Social Sciences,Political Science,300,F,20,0.73,73,5,0,1
+STD0119,Social Sciences,Economics,400,F,28,3.8,59,7,1,0
+STD0120,Science,Mathematics,400,F,20,3.98,98,6,1,0
+STD0121,Arts,English,400,M,29,0.81,46,6,0,1
+STD0122,Management Sciences,Business Administration,400,F,19,4.34,28,2,1,0
+STD0123,Science,Mathematics,300,M,24,2.81,27,3,1,0
+STD0124,Science,Computer Science,400,F,25,1.58,93,0,0,1
+STD0125,Science,Mathematics,200,M,27,3.49,30,6,1,1
+STD0126,Management Sciences,Business Administration,300,F,27,3.33,49,6,0,1
+STD0127,Management Sciences,Accounting,400,F,21,1.59,37,4,1,1
+STD0128,Arts,English,100,F,17,4.17,64,6,1,0
+STD0129,Education,Education Mathematics,300,M,21,3.72,65,6,0,0
+STD0130,Arts,English,100,F,21,1.67,47,3,0,1
+STD0131,Science,Mathematics,400,F,17,2.49,22,7,1,1
+STD0132,Arts,English,400,F,25,1.51,63,4,0,1
+STD0133,Management Sciences,Business Administration,300,F,18,1.28,86,7,1,1
+STD0134,Management Sciences,Business Administration,200,M,18,4.35,20,7,0,1
+STD0135,Education,Education Biology,300,M,29,4.16,52,7,1,0
+STD0136,Arts,History,400,F,28,0.93,92,8,1,1
+STD0137,Arts,English,400,M,19,2.97,28,6,1,1
+STD0138,Education,Education Biology,100,M,20,4.27,36,6,0,1
+STD0139,Management Sciences,Business Administration,100,F,23,0.79,58,2,0,1
+STD0140,Science,Biology,400,F,19,3.96,74,6,1,0
+STD0141,Management Sciences,Business Administration,200,M,21,3.3,69,5,0,0
+STD0142,Social Sciences,Political Science,300,M,29,4.24,53,4,1,0
+STD0143,Science,Computer Science,400,M,24,2.58,46,7,0,1
+STD0144,Management Sciences,Accounting,100,M,28,0.74,66,2,0,1
+STD0145,Arts,English,300,F,25,1.97,69,7,1,1
+STD0146,Arts,English,100,M,29,3.79,28,8,0,1
+STD0147,Science,Computer Science,400,F,19,2.23,22,7,0,1
+STD0148,Management Sciences,Business Administration,100,M,30,0.52,42,3,0,1
+STD0149,Management Sciences,Accounting,300,F,19,1.06,34,2,0,1
+STD0150,Science,Chemistry,200,M,30,2.94,22,1,1,0
+STD0151,Science,Mathematics,100,F,20,2.5,73,5,0,0
+STD0152,Science,Chemistry,200,F,27,2.2,68,1,0,0
+STD0153,Science,Chemistry,400,M,23,3.0,83,8,1,0
+STD0154,Social Sciences,Economics,200,M,30,4.48,56,1,1,0
+STD0155,Science,Mathematics,100,F,18,3.9,22,0,1,0
+STD0156,Social Sciences,Political Science,400,M,26,4.62,67,6,0,0
+STD0157,Management Sciences,Accounting,100,F,22,3.11,27,3,0,1
+STD0158,Education,Education Mathematics,200,M,17,1.49,51,5,1,1
+STD0159,Arts,History,200,M,18,3.81,77,7,0,0
+STD0160,Management Sciences,Accounting,200,M,30,4.56,29,2,1,0
+STD0161,Education,Education Biology,400,F,17,0.94,30,0,0,1
+STD0162,Science,Mathematics,100,F,29,2.55,76,6,1,0
+STD0163,Social Sciences,Economics,100,F,29,0.77,69,1,0,1
+STD0164,Arts,History,100,M,28,4.66,26,1,0,1
+STD0165,Social Sciences,Political Science,100,F,18,4.81,94,1,0,0
+STD0166,Social Sciences,Political Science,100,F,28,4.29,53,1,0,0
+STD0167,Science,Mathematics,100,M,25,2.96,26,5,0,1
+STD0168,Social Sciences,Political Science,400,M,23,4.26,50,7,1,0
+STD0169,Social Sciences,Political Science,200,M,30,2.14,83,8,0,0
+STD0170,Education,Education Biology,300,M,26,4.44,59,2,1,0
+STD0171,Arts,English,400,F,17,1.03,51,5,0,1
+STD0172,Social Sciences,Economics,300,M,28,4.4,61,2,1,0
+STD0173,Social Sciences,Economics,300,F,24,1.14,34,0,0,1
+STD0174,Education,Education Mathematics,300,F,28,0.5,52,8,0,1
+STD0175,Management Sciences,Business Administration,200,F,17,2.16,46,3,1,0
+STD0176,Social Sciences,Political Science,400,F,23,0.55,33,2,0,1
+STD0177,Arts,History,300,M,20,4.5,40,6,1,1
+STD0178,Arts,English,400,M,20,2.4,77,0,1,0
+STD0179,Social Sciences,Political Science,400,F,21,1.88,64,4,0,1
+STD0180,Science,Mathematics,400,M,23,1.61,28,8,1,1
+STD0181,Management Sciences,Business Administration,300,F,18,3.41,57,0,1,0
+STD0182,Management Sciences,Accounting,200,M,24,2.01,63,2,1,0
+STD0183,Social Sciences,Economics,300,F,24,0.83,79,8,1,1
+STD0184,Management Sciences,Accounting,200,F,21,1.64,82,6,0,1
+STD0185,Education,Education Mathematics,100,M,19,2.52,86,4,0,0
+STD0186,Arts,History,100,F,22,4.36,62,4,0,0
+STD0187,Arts,History,400,M,23,4.59,25,4,0,1
+STD0188,Science,Computer Science,100,M,25,1.51,58,7,1,1
+STD0189,Management Sciences,Accounting,200,M,21,0.77,55,1,0,1
+STD0190,Management Sciences,Business Administration,400,F,19,2.24,93,2,1,0
+STD0191,Management Sciences,Business Administration,200,M,23,2.16,84,5,1,0
+STD0192,Arts,English,200,M,27,1.85,27,8,0,1
+STD0193,Social Sciences,Political Science,400,M,30,1.23,41,7,0,1
+STD0194,Arts,English,200,M,17,2.66,57,6,1,0
+STD0195,Arts,English,100,F,26,2.61,30,4,1,1
+STD0196,Management Sciences,Business Administration,200,M,28,1.98,84,2,0,1
+STD0197,Arts,English,400,M,30,0.78,97,2,0,1
+STD0198,Arts,History,400,F,22,3.46,45,0,1,0
+STD0199,Management Sciences,Business Administration,100,F,18,4.67,94,8,0,0
+STD0200,Education,Education Mathematics,400,F,27,1.08,29,7,1,1
+STD0201,Arts,English,100,F,29,2.68,20,1,1,0
+STD0202,Management Sciences,Accounting,100,M,28,2.86,78,4,1,0
+STD0203,Education,Education Mathematics,400,M,18,3.92,40,3,1,0
+STD0204,Management Sciences,Accounting,400,M,21,2.38,64,6,0,0
+STD0205,Science,Biology,400,F,17,4.08,94,1,0,0
+STD0206,Science,Computer Science,200,M,29,1.52,69,2,1,0
+STD0207,Education,Education Biology,300,M,24,4.63,91,8,0,0
+STD0208,Education,Education Mathematics,100,F,28,0.67,50,8,1,1
+STD0209,Arts,History,400,F,29,2.87,62,3,0,0
+STD0210,Arts,History,100,M,20,3.31,38,7,0,1
+STD0211,Social Sciences,Political Science,400,F,29,4.92,90,4,1,0
+STD0212,Science,Chemistry,400,F,23,4.07,46,8,0,1
+STD0213,Management Sciences,Accounting,200,F,29,2.9,26,0,1,0
+STD0214,Management Sciences,Business Administration,400,F,29,1.7,98,1,1,0
+STD0215,Social Sciences,Economics,300,F,21,3.19,47,2,0,1
+STD0216,Social Sciences,Political Science,100,F,28,0.52,87,2,1,0
+STD0217,Education,Education Biology,300,F,29,4.99,56,7,1,0
+STD0218,Education,Education Mathematics,300,F,29,2.39,63,2,1,0
+STD0219,Management Sciences,Business Administration,200,M,18,1.84,26,7,0,1
+STD0220,Education,Education Mathematics,400,F,20,4.09,50,1,1,0
+STD0221,Social Sciences,Economics,100,F,27,3.02,21,1,0,1
+STD0222,Education,Education Mathematics,100,F,25,2.1,30,5,1,1
+STD0223,Social Sciences,Political Science,300,M,18,3.74,25,7,1,1
+STD0224,Science,Mathematics,300,F,22,2.42,88,4,1,0
+STD0225,Social Sciences,Economics,400,F,28,4.82,51,4,0,0
+STD0226,Education,Education Biology,200,F,22,1.79,56,6,1,1
+STD0227,Education,Education Biology,300,F,30,2.78,89,3,0,0
+STD0228,Education,Education Biology,300,M,28,1.23,60,3,1,0
+STD0229,Arts,English,300,M,29,3.65,50,7,1,0
+STD0230,Management Sciences,Business Administration,200,M,21,0.83,79,7,0,1
+STD0231,Science,Biology,100,M,18,1.77,82,8,1,1
+STD0232,Science,Chemistry,300,F,23,1.71,44,4,1,1
+STD0233,Arts,English,300,M,26,3.37,74,3,1,0
+STD0234,Arts,English,200,M,27,2.73,74,6,1,0
+STD0235,Education,Education Mathematics,400,F,21,1.53,21,1,0,1
+STD0236,Management Sciences,Accounting,400,F,17,4.6,74,4,1,0
+STD0237,Social Sciences,Political Science,400,M,23,2.88,71,3,0,0
+STD0238,Arts,History,400,M,30,4.56,39,8,0,1
+STD0239,Social Sciences,Economics,300,M,21,3.12,46,8,1,1
+STD0240,Education,Education Mathematics,200,F,24,1.95,51,3,0,1
+STD0241,Science,Computer Science,100,M,23,2.96,64,0,1,0
+STD0242,Arts,History,400,M,20,1.28,38,6,1,1
+STD0243,Management Sciences,Business Administration,100,F,19,1.74,59,5,0,1
+STD0244,Management Sciences,Accounting,300,M,28,3.99,61,3,0,0
+STD0245,Social Sciences,Political Science,100,M,18,4.62,56,0,1,0
+STD0246,Education,Education Mathematics,300,M,29,3.43,77,8,0,0
+STD0247,Management Sciences,Accounting,200,M,29,3.04,41,1,1,0
+STD0248,Education,Education Mathematics,400,F,25,1.25,80,2,1,0
+STD0249,Education,Education Biology,300,F,20,2.88,78,7,1,0
+STD0250,Education,Education Biology,400,F,20,3.21,91,3,1,0
+STD0251,Science,Biology,300,M,26,3.77,31,4,0,1
+STD0252,Social Sciences,Political Science,300,M,22,4.0,95,6,0,0
+STD0253,Social Sciences,Political Science,200,F,28,1.71,100,4,1,1
+STD0254,Education,Education Biology,100,F,30,1.69,38,3,0,1
+STD0255,Arts,History,200,M,21,1.07,25,3,1,1
+STD0256,Education,Education Biology,200,M,23,4.96,91,0,0,0
+STD0257,Management Sciences,Business Administration,300,F,19,1.78,88,5,1,1
+STD0258,Management Sciences,Business Administration,300,M,26,3.24,45,2,0,1
+STD0259,Arts,English,100,F,24,3.2,82,3,0,0
+STD0260,Arts,History,300,M,25,1.74,27,8,1,1
+STD0261,Arts,English,200,F,28,1.59,99,8,0,1
+STD0262,Science,Mathematics,200,M,23,4.72,74,0,1,0
+STD0263,Arts,English,200,F,25,4.33,27,7,0,1
+STD0264,Management Sciences,Accounting,400,M,29,2.75,97,7,0,0
+STD0265,Management Sciences,Accounting,200,M,17,4.36,44,2,0,1
+STD0266,Social Sciences,Economics,100,M,17,3.23,66,2,1,0
+STD0267,Management Sciences,Accounting,400,F,17,3.15,66,5,0,0
+STD0268,Arts,History,400,F,19,3.47,99,5,1,0
+STD0269,Social Sciences,Political Science,200,F,20,0.79,34,6,0,1
+STD0270,Science,Mathematics,200,F,23,2.2,40,3,0,1
+STD0271,Science,Computer Science,200,M,23,0.94,31,6,1,1
+STD0272,Social Sciences,Economics,100,M,19,4.36,31,4,0,1
+STD0273,Science,Chemistry,100,F,23,1.29,57,2,0,1
+STD0274,Arts,History,300,M,23,2.17,81,7,1,0
+STD0275,Science,Mathematics,200,M,26,2.57,29,4,1,1
+STD0276,Management Sciences,Accounting,400,F,28,1.42,82,1,0,1
+STD0277,Science,Biology,400,M,29,3.44,59,7,1,0
+STD0278,Social Sciences,Economics,200,F,17,3.32,34,0,0,1
+STD0279,Social Sciences,Political Science,200,M,19,2.57,52,1,0,0
+STD0280,Social Sciences,Economics,100,F,25,3.14,76,6,0,0
+STD0281,Science,Computer Science,200,F,24,0.98,84,6,0,1
+STD0282,Social Sciences,Economics,200,M,28,3.18,30,8,1,1
+STD0283,Education,Education Mathematics,100,M,22,2.57,55,3,0,0
+STD0284,Social Sciences,Economics,300,F,25,3.33,50,6,0,0
+STD0285,Arts,History,100,F,17,4.17,94,5,0,0
+STD0286,Education,Education Biology,300,M,26,4.52,88,2,1,0
+STD0287,Arts,English,200,M,21,1.93,85,4,1,1
+STD0288,Social Sciences,Political Science,100,F,17,2.26,24,6,0,1
+STD0289,Science,Computer Science,300,M,21,1.47,70,0,0,1
+STD0290,Management Sciences,Accounting,300,F,24,3.25,94,1,1,0
+STD0291,Education,Education Biology,300,M,25,4.08,72,5,1,0
+STD0292,Science,Chemistry,300,F,23,2.45,76,5,0,0
+STD0293,Management Sciences,Accounting,400,F,21,0.77,45,0,1,1
+STD0294,Education,Education Biology,300,M,25,1.4,92,1,1,0
+STD0295,Science,Mathematics,100,M,17,3.08,45,0,0,1
+STD0296,Management Sciences,Accounting,400,M,20,3.1,86,0,1,0
+STD0297,Social Sciences,Political Science,200,F,22,2.67,58,1,1,0
+STD0298,Arts,English,200,F,30,1.88,87,0,1,0
+STD0299,Social Sciences,Economics,200,F,17,1.75,68,4,1,1
+STD0300,Social Sciences,Economics,400,M,17,2.11,32,1,0,1
+STD0301,Management Sciences,Accounting,300,F,19,1.78,36,4,1,1
+STD0302,Management Sciences,Business Administration,400,F,19,2.82,57,2,1,0
+STD0303,Arts,English,400,M,24,2.25,36,4,0,1
+STD0304,Education,Education Biology,100,M,21,3.22,55,6,1,0
+STD0305,Education,Education Biology,300,F,22,2.35,87,6,1,0
+STD0306,Arts,English,400,M,21,4.73,73,4,1,0
+STD0307,Arts,History,200,F,23,4.15,77,8,0,0
+STD0308,Management Sciences,Business Administration,100,F,21,0.63,60,5,1,1
+STD0309,Social Sciences,Political Science,200,M,25,2.15,66,8,0,0
+STD0310,Social Sciences,Economics,300,F,29,2.26,86,1,1,0
+STD0311,Management Sciences,Accounting,300,M,17,1.02,88,1,1,0
+STD0312,Social Sciences,Political Science,400,M,22,2.51,51,5,0,0
+STD0313,Science,Computer Science,300,M,27,4.76,84,5,0,0
+STD0314,Management Sciences,Accounting,300,F,18,2.84,80,5,1,0
+STD0315,Education,Education Biology,300,F,30,2.12,43,8,1,1
+STD0316,Education,Education Biology,400,F,19,3.01,71,2,1,0
+STD0317,Education,Education Biology,100,F,24,2.39,96,3,0,0
+STD0318,Arts,History,300,F,27,3.83,38,7,0,1
+STD0319,Social Sciences,Political Science,100,M,30,2.26,72,5,0,0
+STD0320,Social Sciences,Political Science,200,M,20,4.96,73,2,0,0
+STD0321,Arts,History,300,F,21,3.92,63,5,0,0
+STD0322,Management Sciences,Accounting,200,M,20,4.5,55,4,1,0
+STD0323,Arts,History,300,F,30,1.46,59,6,1,1
+STD0324,Arts,English,100,F,26,3.63,77,1,1,0
+STD0325,Social Sciences,Economics,100,F,17,4.16,34,2,0,1
+STD0326,Social Sciences,Political Science,100,M,26,4.22,61,3,1,0
+STD0327,Management Sciences,Business Administration,200,F,24,0.51,35,4,1,1
+STD0328,Arts,History,300,M,25,4.08,55,6,1,0
+STD0329,Management Sciences,Accounting,300,M,25,3.87,46,4,0,1
+STD0330,Social Sciences,Economics,400,M,25,4.95,44,5,0,1
+STD0331,Science,Biology,300,F,18,2.12,39,5,0,1
+STD0332,Management Sciences,Accounting,200,M,30,4.59,51,3,0,0
+STD0333,Social Sciences,Political Science,200,F,21,3.17,74,8,1,0
+STD0334,Management Sciences,Business Administration,100,F,28,1.87,63,2,1,0
+STD0335,Science,Computer Science,100,F,20,2.64,72,1,0,0
+STD0336,Science,Mathematics,300,F,20,3.97,29,5,0,1
+STD0337,Social Sciences,Political Science,400,M,20,2.1,41,4,1,1
+STD0338,Management Sciences,Business Administration,400,M,22,3.26,77,5,0,0
+STD0339,Arts,English,200,F,29,2.05,70,7,1,0
+STD0340,Social Sciences,Political Science,300,M,22,2.96,65,8,0,0
+STD0341,Arts,English,200,F,23,1.85,54,0,0,1
+STD0342,Social Sciences,Economics,200,M,22,4.84,89,1,0,0
+STD0343,Arts,History,400,M,17,3.24,60,2,1,0
+STD0344,Education,Education Biology,300,F,23,4.57,87,8,1,0
+STD0345,Arts,English,300,F,24,4.37,59,4,1,0
+STD0346,Social Sciences,Political Science,100,M,25,0.73,64,1,1,0
+STD0347,Education,Education Biology,300,F,22,4.98,74,3,1,0
+STD0348,Arts,History,100,M,29,1.87,34,2,0,1
+STD0349,Arts,English,300,M,29,3.44,59,8,0,0
+STD0350,Management Sciences,Business Administration,400,F,23,3.95,98,7,1,0
+STD0351,Science,Biology,400,M,21,1.08,32,8,0,1
+STD0352,Science,Chemistry,100,F,24,1.14,25,1,0,1
+STD0353,Arts,History,200,F,17,4.47,43,6,1,1
+STD0354,Science,Mathematics,100,F,27,1.62,42,7,0,1
+STD0355,Social Sciences,Political Science,400,M,21,2.86,86,7,1,0
+STD0356,Management Sciences,Business Administration,400,M,21,0.69,22,0,0,1
+STD0357,Education,Education Biology,100,M,30,1.36,88,5,1,1
+STD0358,Arts,English,400,F,27,2.06,60,4,0,0
+STD0359,Arts,English,100,F,27,3.93,83,8,1,0
+STD0360,Arts,English,400,M,21,4.66,22,5,0,1
+STD0361,Management Sciences,Accounting,300,M,19,2.63,56,8,0,0
+STD0362,Arts,History,300,M,27,1.4,55,7,0,1
+STD0363,Social Sciences,Economics,300,M,23,2.02,45,8,0,1
+STD0364,Social Sciences,Political Science,100,M,18,1.63,59,1,1,0
+STD0365,Science,Biology,300,F,25,2.33,88,7,1,0
+STD0366,Education,Education Biology,400,M,28,0.98,100,2,1,0
+STD0367,Social Sciences,Political Science,200,F,30,4.88,21,8,1,1
+STD0368,Science,Computer Science,300,M,18,4.38,37,3,0,1
+STD0369,Arts,English,400,M,19,3.54,97,0,1,0
+STD0370,Management Sciences,Accounting,100,F,30,3.67,42,5,0,1
+STD0371,Science,Biology,100,M,21,0.98,52,6,0,1
+STD0372,Education,Education Mathematics,400,M,30,4.88,61,7,1,0
+STD0373,Management Sciences,Business Administration,300,M,19,2.38,47,3,0,1
+STD0374,Social Sciences,Political Science,400,F,26,2.67,76,5,0,0
+STD0375,Social Sciences,Economics,400,F,26,0.87,79,6,1,1
+STD0376,Education,Education Biology,200,M,27,4.02,41,0,1,0
+STD0377,Social Sciences,Political Science,100,M,29,3.67,87,0,0,0
+STD0378,Social Sciences,Political Science,100,F,20,2.83,98,4,0,0
+STD0379,Education,Education Mathematics,100,M,25,1.12,24,5,0,1
+STD0380,Management Sciences,Business Administration,400,M,17,2.92,66,3,1,0
+STD0381,Arts,English,100,F,20,2.13,30,4,1,1
+STD0382,Arts,History,400,F,26,2.14,69,8,1,0
+STD0383,Arts,English,400,F,17,2.21,41,0,1,0
+STD0384,Education,Education Biology,100,M,20,3.86,43,0,1,0
+STD0385,Management Sciences,Accounting,200,F,20,2.71,37,4,1,1
+STD0386,Management Sciences,Business Administration,200,M,24,4.47,36,1,0,1
+STD0387,Management Sciences,Accounting,400,M,24,4.17,60,3,0,0
+STD0388,Science,Chemistry,300,M,30,1.33,75,5,1,1
+STD0389,Science,Chemistry,300,F,28,3.43,70,0,1,0
+STD0390,Science,Biology,300,F,22,0.74,33,7,0,1
+STD0391,Social Sciences,Political Science,400,M,30,2.53,74,3,1,0
+STD0392,Science,Mathematics,300,F,27,1.1,44,8,1,1
+STD0393,Arts,History,200,F,28,1.91,98,3,1,0
+STD0394,Management Sciences,Accounting,300,F,25,3.84,71,6,1,0
+STD0395,Management Sciences,Business Administration,200,F,17,4.66,63,0,0,0
+STD0396,Education,Education Mathematics,100,F,18,2.21,32,6,1,1
+STD0397,Arts,English,200,M,19,1.46,87,4,1,1
+STD0398,Social Sciences,Political Science,100,F,28,3.35,41,2,1,0
+STD0399,Social Sciences,Economics,200,M,17,4.74,54,7,1,0
+STD0400,Social Sciences,Economics,400,F,29,4.45,94,5,1,0
+STD0401,Education,Education Biology,300,F,25,4.84,27,4,1,1
+STD0402,Science,Computer Science,100,M,23,4.37,56,1,1,0
+STD0403,Management Sciences,Business Administration,100,M,22,4.11,87,1,0,0
+STD0404,Education,Education Biology,300,F,29,1.59,89,2,0,1
+STD0405,Management Sciences,Business Administration,300,M,23,4.14,45,2,0,1
+STD0406,Education,Education Biology,400,F,23,2.73,58,3,0,0
+STD0407,Science,Mathematics,100,M,21,4.77,93,4,0,0
+STD0408,Education,Education Biology,400,F,17,2.84,54,4,0,0
+STD0409,Science,Biology,300,M,18,1.51,50,2,0,1
+STD0410,Arts,History,100,F,30,3.7,57,6,1,0
+STD0411,Arts,English,100,F,17,3.55,22,4,0,1
+STD0412,Education,Education Biology,100,F,17,2.73,35,1,0,1
+STD0413,Education,Education Biology,100,F,18,4.18,69,6,0,0
+STD0414,Social Sciences,Economics,400,M,17,4.26,83,4,1,0
+STD0415,Arts,English,100,M,17,4.67,39,6,0,1
+STD0416,Education,Education Biology,400,F,18,2.05,89,6,0,0
+STD0417,Social Sciences,Economics,300,M,20,4.71,45,7,0,1
+STD0418,Science,Computer Science,100,F,19,3.28,33,5,1,1
+STD0419,Science,Computer Science,200,M,17,2.27,94,6,0,0
+STD0420,Education,Education Biology,300,M,20,0.6,45,1,0,1
+STD0421,Arts,History,200,F,24,3.53,91,7,0,0
+STD0422,Arts,History,100,M,29,2.14,52,5,1,0
+STD0423,Arts,History,300,F,20,4.39,67,0,0,0
+STD0424,Education,Education Biology,300,F,22,3.08,75,2,0,0
+STD0425,Social Sciences,Political Science,200,M,22,1.66,85,0,1,0
+STD0426,Management Sciences,Business Administration,200,M,19,0.85,93,0,1,0
+STD0427,Science,Computer Science,100,F,28,2.84,62,3,0,0
+STD0428,Arts,History,300,F,21,2.87,36,2,0,1
+STD0429,Education,Education Mathematics,400,F,18,1.22,22,8,1,1
+STD0430,Science,Mathematics,300,F,30,3.51,46,7,0,1
+STD0431,Science,Mathematics,200,F,24,1.68,60,0,0,1
+STD0432,Social Sciences,Political Science,400,F,24,1.87,46,3,0,1
+STD0433,Science,Computer Science,400,F,21,0.85,72,2,0,1
+STD0434,Social Sciences,Economics,400,M,28,4.0,66,6,1,0
+STD0435,Social Sciences,Political Science,100,M,28,4.68,58,5,0,0
+STD0436,Education,Education Mathematics,100,M,19,2.37,24,6,1,1
+STD0437,Science,Mathematics,400,M,25,3.76,43,5,0,1
+STD0438,Social Sciences,Economics,300,M,22,4.15,85,6,0,0
+STD0439,Social Sciences,Economics,200,M,26,2.74,41,5,1,1
+STD0440,Education,Education Biology,100,M,20,2.79,86,6,1,0
+STD0441,Science,Biology,400,F,18,4.79,78,5,0,0
+STD0442,Social Sciences,Political Science,200,M,20,3.89,76,1,1,0
+STD0443,Arts,English,200,M,17,3.35,55,6,1,0
+STD0444,Arts,English,300,M,19,2.67,22,3,1,0
+STD0445,Management Sciences,Business Administration,300,M,25,0.97,90,6,1,1
+STD0446,Management Sciences,Accounting,300,F,27,4.55,60,8,0,0
+STD0447,Science,Biology,200,M,20,2.49,21,8,0,1
+STD0448,Arts,English,200,F,19,3.02,58,4,1,0
+STD0449,Science,Biology,400,M,29,0.99,41,6,1,1
+STD0450,Social Sciences,Political Science,200,M,18,1.83,25,8,0,1
+STD0451,Arts,History,300,F,28,4.79,49,1,0,1
+STD0452,Education,Education Biology,100,M,26,1.35,95,2,1,0
+STD0453,Management Sciences,Accounting,200,M,30,1.43,26,8,1,1
+STD0454,Management Sciences,Business Administration,300,F,24,1.86,90,7,0,1
+STD0455,Arts,History,300,M,27,3.07,74,0,1,0
+STD0456,Arts,History,400,F,30,1.2,80,8,1,1
+STD0457,Management Sciences,Business Administration,400,F,27,3.24,91,1,1,0
+STD0458,Arts,English,100,F,17,3.66,34,4,0,1
+STD0459,Science,Chemistry,200,M,25,2.27,76,3,1,0
+STD0460,Science,Chemistry,400,F,29,3.54,96,3,1,0
+STD0461,Management Sciences,Business Administration,400,M,26,0.72,67,1,1,0
+STD0462,Social Sciences,Economics,400,F,30,3.07,81,2,0,0
+STD0463,Science,Computer Science,200,M,22,0.57,49,4,0,1
+STD0464,Arts,English,200,M,20,1.55,42,0,0,1
+STD0465,Social Sciences,Political Science,100,M,27,0.62,56,8,1,1
+STD0466,Education,Education Mathematics,100,F,29,4.7,83,1,0,0
+STD0467,Science,Chemistry,200,F,30,1.04,48,8,0,1
+STD0468,Science,Biology,300,F,24,1.83,41,5,0,1
+STD0469,Management Sciences,Business Administration,400,M,24,4.45,49,8,1,1
+STD0470,Education,Education Biology,100,F,18,1.85,23,3,0,1
+STD0471,Arts,History,300,F,21,1.41,63,8,1,1
+STD0472,Education,Education Mathematics,400,M,22,4.21,92,8,1,0
+STD0473,Arts,English,100,F,30,2.91,92,8,1,0
+STD0474,Education,Education Biology,200,M,23,3.27,23,8,1,1
+STD0475,Science,Chemistry,400,F,18,3.68,43,3,0,1
+STD0476,Management Sciences,Business Administration,400,M,28,0.67,99,4,0,1
+STD0477,Science,Mathematics,200,F,26,1.65,29,2,1,1
+STD0478,Education,Education Biology,400,F,17,2.52,100,4,1,0
+STD0479,Management Sciences,Accounting,200,M,20,3.86,51,7,0,0
+STD0480,Science,Computer Science,400,F,26,1.99,44,4,1,1
+STD0481,Science,Chemistry,300,F,18,4.8,93,6,1,0
+STD0482,Management Sciences,Accounting,200,F,26,2.56,30,6,1,1
+STD0483,Management Sciences,Accounting,200,F,28,3.26,56,5,1,0
+STD0484,Management Sciences,Business Administration,200,F,30,0.97,45,3,1,1
+STD0485,Science,Computer Science,300,M,25,4.82,24,2,0,1
+STD0486,Science,Chemistry,200,M,17,4.75,66,8,1,0
+STD0487,Education,Education Biology,100,M,18,2.52,46,6,0,1
+STD0488,Education,Education Biology,400,F,20,1.43,42,5,1,1
+STD0489,Social Sciences,Economics,400,M,22,1.93,33,5,0,1
+STD0490,Arts,History,400,M,21,4.54,82,2,0,0
+STD0491,Science,Chemistry,200,F,21,3.48,64,0,1,0
+STD0492,Social Sciences,Economics,400,F,21,2.24,90,7,1,0
+STD0493,Arts,English,100,M,29,0.94,77,0,0,1
+STD0494,Arts,English,200,M,19,4.32,78,3,0,0
+STD0495,Education,Education Mathematics,400,F,29,0.72,45,5,0,1
+STD0496,Social Sciences,Economics,100,F,29,3.46,46,2,1,0
+STD0497,Science,Computer Science,200,F,29,1.13,53,6,1,1
+STD0498,Arts,History,400,M,22,3.25,80,1,0,0
+STD0499,Education,Education Mathematics,100,M,23,1.86,53,6,0,1
+STD0500,Social Sciences,Political Science,200,F,20,0.65,44,5,1,1
+STD0501,Arts,English,400,F,24,3.63,51,2,0,0
+STD0502,Science,Chemistry,400,F,17,4.69,48,0,0,1
+STD0503,Science,Chemistry,100,M,19,4.69,65,5,0,0
+STD0504,Education,Education Biology,100,F,18,2.02,79,5,1,0
+STD0505,Arts,English,100,M,22,3.85,33,4,0,1
+STD0506,Management Sciences,Accounting,300,F,26,2.29,97,2,1,0
+STD0507,Science,Computer Science,100,F,25,1.47,52,3,1,0
+STD0508,Science,Mathematics,100,M,26,2.43,55,0,1,0
+STD0509,Social Sciences,Political Science,100,M,19,2.13,97,2,0,0
+STD0510,Science,Mathematics,100,M,25,1.68,21,7,1,1
+STD0511,Education,Education Mathematics,300,M,26,4.74,46,3,0,1
+STD0512,Arts,English,400,F,27,2.67,24,6,1,1
+STD0513,Management Sciences,Business Administration,400,F,27,3.82,86,0,0,0
+STD0514,Social Sciences,Economics,300,M,20,4.4,41,0,1,0
+STD0515,Management Sciences,Accounting,400,M,26,4.51,74,1,1,0
+STD0516,Social Sciences,Political Science,300,F,29,1.56,71,2,1,0
+STD0517,Arts,History,100,F,28,3.57,85,7,0,0
+STD0518,Education,Education Mathematics,300,M,21,4.99,61,1,0,0
+STD0519,Education,Education Biology,300,M,27,0.93,84,6,1,1
+STD0520,Science,Mathematics,100,F,25,1.54,98,3,1,0
+STD0521,Science,Biology,200,M,30,3.66,87,0,1,0
+STD0522,Arts,English,300,F,28,0.99,23,7,1,1
+STD0523,Management Sciences,Business Administration,300,F,30,3.25,99,2,1,0
+STD0524,Education,Education Mathematics,200,M,29,3.57,30,3,1,0
+STD0525,Education,Education Mathematics,200,F,17,2.25,48,3,0,1
+STD0526,Education,Education Biology,400,F,18,0.8,68,1,1,0
+STD0527,Education,Education Biology,300,M,24,2.32,82,3,0,0
+STD0528,Science,Biology,100,F,27,3.98,65,3,1,0
+STD0529,Arts,History,100,M,23,2.62,82,3,1,0
+STD0530,Science,Chemistry,300,M,29,2.1,52,5,0,0
+STD0531,Social Sciences,Economics,400,F,26,0.76,88,3,1,0
+STD0532,Arts,History,200,F,26,0.98,37,0,0,1
+STD0533,Arts,History,200,M,17,2.53,58,0,0,0
+STD0534,Science,Chemistry,200,F,20,2.33,45,3,1,0
+STD0535,Social Sciences,Political Science,300,M,17,3.84,72,6,1,0
+STD0536,Arts,English,100,F,17,2.77,78,8,0,0
+STD0537,Management Sciences,Accounting,300,M,22,3.19,46,7,1,1
+STD0538,Management Sciences,Business Administration,300,F,21,1.21,23,1,1,1
+STD0539,Science,Chemistry,300,M,29,3.27,44,7,0,1
+STD0540,Education,Education Mathematics,400,M,24,2.87,66,7,1,0
+STD0541,Arts,English,100,F,18,3.64,55,2,0,0
+STD0542,Science,Biology,200,F,27,1.84,47,6,0,1
+STD0543,Social Sciences,Political Science,100,F,24,3.43,62,8,0,0
+STD0544,Education,Education Mathematics,100,F,18,1.29,53,1,0,1
+STD0545,Science,Chemistry,400,F,27,3.5,22,3,0,1
+STD0546,Education,Education Biology,200,F,26,3.39,33,2,1,0
+STD0547,Arts,English,200,M,23,4.95,80,3,1,0
+STD0548,Management Sciences,Accounting,100,M,20,3.29,94,4,1,0
+STD0549,Science,Chemistry,200,F,29,2.44,79,8,1,0
+STD0550,Science,Biology,400,F,19,0.62,25,2,0,1
+STD0551,Science,Chemistry,100,F,28,2.41,75,6,1,0
+STD0552,Arts,English,100,F,22,1.82,88,0,0,1
+STD0553,Science,Chemistry,100,F,24,4.31,53,3,0,0
+STD0554,Science,Computer Science,400,F,29,3.7,72,6,1,0
+STD0555,Management Sciences,Business Administration,100,F,21,1.39,91,7,1,1
+STD0556,Education,Education Mathematics,200,F,27,3.43,76,1,0,0
+STD0557,Education,Education Mathematics,400,F,22,0.93,77,2,1,0
+STD0558,Science,Biology,200,F,23,1.51,50,6,1,1
+STD0559,Science,Biology,200,M,21,1.65,21,3,1,1
+STD0560,Management Sciences,Business Administration,400,F,22,0.97,78,5,0,1
+STD0561,Science,Computer Science,100,M,29,4.97,38,3,0,1
+STD0562,Education,Education Mathematics,300,M,20,0.72,57,0,0,1
+STD0563,Management Sciences,Accounting,200,F,22,0.83,84,4,0,1
+STD0564,Management Sciences,Accounting,200,F,29,0.92,94,3,0,1
+STD0565,Social Sciences,Political Science,200,F,21,4.26,40,4,1,1
+STD0566,Arts,English,200,F,28,2.54,90,2,0,0
+STD0567,Education,Education Mathematics,300,F,22,2.1,50,5,1,0
+STD0568,Education,Education Mathematics,300,F,23,4.21,31,2,1,0
+STD0569,Social Sciences,Economics,200,F,28,2.93,23,3,1,0
+STD0570,Social Sciences,Political Science,300,M,21,4.64,38,8,0,1
+STD0571,Arts,English,300,M,29,3.58,46,7,1,1
+STD0572,Social Sciences,Political Science,400,M,30,2.18,48,1,0,1
+STD0573,Science,Computer Science,300,M,30,1.99,39,2,1,1
+STD0574,Arts,English,300,M,26,1.4,75,2,1,0
+STD0575,Education,Education Biology,300,F,19,0.57,82,4,0,1
+STD0576,Arts,History,400,M,24,4.14,32,3,1,0
+STD0577,Arts,English,400,M,20,3.69,95,0,1,0
+STD0578,Arts,English,200,F,22,2.32,42,0,1,0
+STD0579,Education,Education Mathematics,300,F,27,0.52,25,1,0,1
+STD0580,Education,Education Biology,300,M,20,4.65,22,6,0,1
+STD0581,Science,Computer Science,300,F,17,1.23,61,3,1,0
+STD0582,Education,Education Biology,200,M,21,3.35,20,3,0,1
+STD0583,Social Sciences,Economics,200,F,23,3.04,36,4,0,1
+STD0584,Science,Mathematics,400,F,25,3.71,62,1,1,0
+STD0585,Social Sciences,Economics,100,M,28,3.48,38,3,1,0
+STD0586,Science,Chemistry,300,F,23,2.1,87,5,0,0
+STD0587,Social Sciences,Political Science,200,M,20,4.23,47,1,1,0
+STD0588,Social Sciences,Economics,300,F,18,2.74,54,6,1,0
+STD0589,Science,Biology,400,M,30,4.12,87,3,0,0
+STD0590,Management Sciences,Accounting,100,F,25,0.86,52,0,0,1
+STD0591,Education,Education Biology,100,M,27,2.77,26,1,0,1
+STD0592,Social Sciences,Economics,400,F,24,4.2,92,1,1,0
+STD0593,Management Sciences,Business Administration,100,F,21,4.68,60,6,1,0
+STD0594,Arts,History,300,M,23,2.19,94,6,0,0
+STD0595,Science,Chemistry,300,M,21,3.69,71,3,0,0
+STD0596,Social Sciences,Economics,400,M,22,1.94,20,3,1,1
+STD0597,Management Sciences,Business Administration,400,F,21,0.54,54,8,0,1
+STD0598,Management Sciences,Accounting,200,M,26,1.95,93,6,0,1
+STD0599,Education,Education Mathematics,200,F,30,1.58,100,1,0,1
+STD0600,Education,Education Biology,400,M,24,3.87,53,7,0,0
+STD0601,Science,Biology,400,M,26,1.54,63,6,0,1
+STD0602,Social Sciences,Political Science,400,F,23,4.23,66,8,1,0
+STD0603,Science,Computer Science,200,M,30,1.42,83,5,1,1
+STD0604,Arts,English,100,F,25,3.18,50,3,1,0
+STD0605,Arts,English,300,M,20,4.47,51,1,0,0
+STD0606,Arts,English,300,M,30,3.7,58,3,1,0
+STD0607,Education,Education Biology,300,F,20,1.27,98,7,1,1
+STD0608,Education,Education Mathematics,200,F,28,1.09,37,3,0,1
+STD0609,Management Sciences,Business Administration,400,M,18,4.46,22,2,0,1
+STD0610,Arts,English,100,M,28,2.68,53,6,0,0
+STD0611,Arts,English,300,F,21,3.18,39,2,0,1
+STD0612,Education,Education Biology,300,F,17,4.48,20,7,1,1
+STD0613,Education,Education Mathematics,400,M,28,2.97,56,1,1,0
+STD0614,Social Sciences,Economics,100,M,26,1.96,52,6,1,1
+STD0615,Social Sciences,Political Science,400,F,26,0.68,62,1,1,0
+STD0616,Education,Education Mathematics,300,M,30,1.78,54,6,1,1
+STD0617,Arts,English,400,F,18,4.85,21,2,1,0
+STD0618,Social Sciences,Economics,300,F,27,0.95,82,5,1,1
+STD0619,Arts,English,300,F,26,3.13,62,7,0,0
+STD0620,Education,Education Biology,100,M,21,0.93,58,0,0,1
+STD0621,Arts,History,200,M,27,1.99,27,6,0,1
+STD0622,Science,Computer Science,100,M,22,1.84,24,1,0,1
+STD0623,Arts,History,300,F,22,1.82,70,7,1,1
+STD0624,Arts,English,300,M,19,0.76,52,1,0,1
+STD0625,Social Sciences,Economics,100,F,26,1.43,72,3,1,0
+STD0626,Arts,English,200,M,19,3.32,55,0,1,0
+STD0627,Education,Education Biology,300,M,20,1.53,87,8,1,1
+STD0628,Education,Education Mathematics,400,M,19,3.56,44,8,0,1
+STD0629,Science,Computer Science,100,M,26,0.97,89,0,1,0
+STD0630,Social Sciences,Political Science,300,F,26,2.83,50,2,1,0
+STD0631,Social Sciences,Political Science,100,M,25,0.55,71,6,1,1
+STD0632,Science,Computer Science,400,F,27,1.64,89,7,0,1
+STD0633,Education,Education Biology,100,M,27,2.86,69,6,1,0
+STD0634,Social Sciences,Political Science,300,M,23,2.02,26,3,1,0
+STD0635,Social Sciences,Political Science,400,F,26,2.63,61,1,1,0
+STD0636,Science,Biology,200,F,23,0.62,91,1,0,1
+STD0637,Education,Education Biology,200,M,19,0.64,91,5,1,1
+STD0638,Social Sciences,Political Science,200,M,29,2.91,27,4,1,1
+STD0639,Science,Biology,300,M,26,2.15,31,3,1,0
+STD0640,Arts,History,400,F,22,1.92,25,5,1,1
+STD0641,Social Sciences,Political Science,100,F,29,2.65,75,1,1,0
+STD0642,Social Sciences,Economics,400,M,27,1.37,64,5,0,1
+STD0643,Social Sciences,Political Science,300,F,26,2.89,53,6,0,0
+STD0644,Arts,English,300,M,27,1.05,96,5,1,1
+STD0645,Social Sciences,Political Science,400,F,18,1.26,76,5,0,1
+STD0646,Arts,History,300,M,20,2.85,97,7,1,0
+STD0647,Management Sciences,Business Administration,400,M,25,4.23,79,2,1,0
+STD0648,Science,Chemistry,300,F,18,2.98,46,4,1,1
+STD0649,Science,Biology,200,F,23,3.64,73,1,0,0
+STD0650,Science,Biology,300,F,21,2.65,92,4,0,0
+STD0651,Arts,English,300,M,19,2.84,54,7,0,0
+STD0652,Management Sciences,Accounting,400,F,30,1.87,21,2,1,1
+STD0653,Management Sciences,Accounting,400,M,22,1.44,100,4,0,1
+STD0654,Education,Education Biology,300,M,27,1.26,94,7,1,1
+STD0655,Education,Education Mathematics,100,F,19,2.7,33,8,0,1
+STD0656,Science,Biology,300,M,25,3.8,39,8,0,1
+STD0657,Management Sciences,Business Administration,400,F,21,2.55,49,7,0,1
+STD0658,Management Sciences,Accounting,300,F,19,2.41,27,0,0,1
+STD0659,Social Sciences,Political Science,100,M,19,3.8,58,6,1,0
+STD0660,Management Sciences,Accounting,200,M,24,0.58,53,8,1,1
+STD0661,Education,Education Mathematics,100,F,22,1.09,21,8,0,1
+STD0662,Arts,History,100,F,26,1.72,38,0,0,1
+STD0663,Social Sciences,Political Science,100,M,28,2.72,85,2,1,0
+STD0664,Science,Chemistry,100,F,29,4.57,97,8,1,0
+STD0665,Education,Education Mathematics,200,M,27,1.98,69,2,1,0
+STD0666,Social Sciences,Economics,300,F,18,1.88,23,1,0,1
+STD0667,Arts,History,100,M,30,3.0,86,1,1,0
+STD0668,Arts,English,300,M,25,3.84,94,6,1,0
+STD0669,Management Sciences,Business Administration,300,F,17,2.6,72,0,1,0
+STD0670,Arts,English,400,F,23,4.35,31,8,1,1
+STD0671,Science,Mathematics,300,M,25,3.08,74,6,0,0
+STD0672,Education,Education Biology,200,F,20,0.95,81,3,0,1
+STD0673,Arts,History,200,M,30,4.56,88,8,1,0
+STD0674,Education,Education Biology,300,F,20,1.95,80,8,0,1
+STD0675,Arts,History,300,F,26,2.8,87,7,1,0
+STD0676,Education,Education Mathematics,100,M,19,2.72,83,5,1,0
+STD0677,Education,Education Mathematics,200,F,23,4.3,25,7,1,1
+STD0678,Social Sciences,Economics,100,M,30,1.12,56,0,0,1
+STD0679,Arts,History,100,F,19,1.05,95,8,1,1
+STD0680,Education,Education Mathematics,200,F,24,4.44,85,8,1,0
+STD0681,Science,Chemistry,200,M,19,1.0,74,6,0,1
+STD0682,Management Sciences,Accounting,200,F,30,4.96,55,5,0,0
+STD0683,Education,Education Mathematics,200,F,24,3.42,29,7,0,1
+STD0684,Arts,English,200,F,22,3.21,28,2,1,0
+STD0685,Education,Education Biology,100,M,30,4.99,86,8,1,0
+STD0686,Education,Education Biology,400,F,25,4.8,31,3,1,0
+STD0687,Social Sciences,Political Science,300,M,22,0.55,79,4,1,1
+STD0688,Science,Computer Science,200,M,23,3.68,40,5,1,1
+STD0689,Arts,English,400,F,28,2.97,88,5,0,0
+STD0690,Management Sciences,Business Administration,300,F,21,4.02,62,8,0,0
+STD0691,Social Sciences,Economics,400,F,28,3.27,78,0,0,0
+STD0692,Education,Education Biology,200,M,21,2.73,95,8,1,0
+STD0693,Management Sciences,Business Administration,300,M,24,1.87,46,7,0,1
+STD0694,Education,Education Biology,400,M,30,0.93,32,4,1,1
+STD0695,Science,Biology,200,M,26,2.24,47,0,0,1
+STD0696,Social Sciences,Political Science,100,M,24,0.59,44,6,0,1
+STD0697,Management Sciences,Business Administration,200,M,29,0.63,27,3,1,1
+STD0698,Arts,English,400,F,19,1.72,66,8,1,1
+STD0699,Management Sciences,Accounting,100,M,24,0.52,68,0,1,0
+STD0700,Science,Mathematics,200,M,24,0.75,82,5,0,1
+STD0701,Social Sciences,Economics,300,M,25,0.72,35,0,0,1
+STD0702,Arts,English,100,F,19,3.91,29,1,0,1
+STD0703,Arts,History,300,M,20,2.88,94,5,1,0
+STD0704,Management Sciences,Business Administration,400,F,19,4.24,95,3,0,0
+STD0705,Management Sciences,Business Administration,100,F,27,1.14,99,0,0,1
+STD0706,Social Sciences,Political Science,100,F,17,1.23,30,1,0,1
+STD0707,Arts,History,400,F,29,4.75,25,1,1,0
+STD0708,Management Sciences,Accounting,200,M,18,2.72,38,3,1,0
+STD0709,Social Sciences,Economics,400,F,27,4.62,75,7,1,0
+STD0710,Science,Chemistry,300,F,26,0.85,75,3,1,0
+STD0711,Management Sciences,Accounting,300,M,26,1.97,58,0,0,1
+STD0712,Education,Education Biology,400,M,25,4.33,86,4,0,0
+STD0713,Science,Mathematics,400,M,27,3.35,65,4,0,0
+STD0714,Management Sciences,Accounting,100,F,20,1.45,94,0,1,0
+STD0715,Science,Chemistry,100,F,22,0.78,82,3,1,0
+STD0716,Arts,History,200,M,20,4.35,76,3,1,0
+STD0717,Education,Education Biology,200,F,29,4.44,61,3,0,0
+STD0718,Management Sciences,Business Administration,300,F,18,4.73,87,2,0,0
+STD0719,Arts,History,400,F,23,1.56,69,7,1,1
+STD0720,Arts,History,300,F,19,3.12,21,1,1,0
+STD0721,Arts,English,200,F,29,2.17,49,4,1,1
+STD0722,Education,Education Biology,400,M,25,0.68,34,2,1,1
+STD0723,Science,Computer Science,200,F,23,4.15,100,7,1,0
+STD0724,Science,Chemistry,200,M,19,3.51,25,1,1,0
+STD0725,Science,Biology,200,F,29,2.59,40,5,0,1
+STD0726,Arts,History,100,F,26,4.2,84,2,1,0
+STD0727,Social Sciences,Economics,300,M,24,3.06,71,8,1,0
+STD0728,Arts,History,400,F,17,2.06,70,0,1,0
+STD0729,Arts,English,200,M,24,1.71,89,4,1,1
+STD0730,Management Sciences,Accounting,200,M,22,3.96,43,0,1,0
+STD0731,Education,Education Mathematics,300,M,19,3.0,21,0,0,1
+STD0732,Arts,History,200,M,28,0.84,78,8,0,1
+STD0733,Arts,English,400,M,30,3.89,52,6,1,0
+STD0734,Management Sciences,Business Administration,400,F,18,0.98,40,6,0,1
+STD0735,Education,Education Biology,100,F,27,1.45,96,1,0,1
+STD0736,Arts,History,100,M,28,4.04,80,5,0,0
+STD0737,Arts,History,300,F,21,4.75,50,5,0,0
+STD0738,Arts,History,200,M,28,3.33,54,4,0,0
+STD0739,Arts,English,300,F,30,1.05,63,6,0,1
+STD0740,Social Sciences,Economics,100,M,18,3.16,49,3,1,0
+STD0741,Arts,History,200,F,25,0.66,39,4,0,1
+STD0742,Education,Education Mathematics,100,F,25,4.05,37,8,1,1
+STD0743,Arts,History,300,M,22,2.64,88,0,0,0
+STD0744,Management Sciences,Accounting,300,F,20,1.57,96,4,1,1
+STD0745,Social Sciences,Political Science,100,M,20,3.01,52,4,0,0
+STD0746,Education,Education Mathematics,100,F,18,2.2,98,5,1,0
+STD0747,Social Sciences,Economics,100,F,28,0.9,45,1,1,1
+STD0748,Social Sciences,Economics,200,F,21,1.41,21,4,0,1
+STD0749,Management Sciences,Business Administration,100,F,23,2.98,31,5,0,1
+STD0750,Social Sciences,Political Science,400,M,21,2.6,57,0,1,0
+STD0751,Management Sciences,Business Administration,100,F,19,1.2,31,0,1,1
+STD0752,Education,Education Biology,100,F,26,0.53,58,2,0,1
+STD0753,Social Sciences,Economics,100,M,29,3.44,50,8,0,0
+STD0754,Education,Education Mathematics,200,M,23,3.67,25,0,1,0
+STD0755,Management Sciences,Business Administration,300,M,25,1.44,27,0,0,1
+STD0756,Science,Chemistry,100,F,29,1.42,45,3,0,1
+STD0757,Social Sciences,Economics,200,F,25,4.4,41,7,0,1
+STD0758,Social Sciences,Economics,400,F,25,4.36,82,2,0,0
+STD0759,Management Sciences,Business Administration,300,M,23,4.41,68,0,1,0
+STD0760,Management Sciences,Business Administration,400,F,21,1.25,58,5,0,1
+STD0761,Management Sciences,Business Administration,300,M,25,1.87,49,3,0,1
+STD0762,Social Sciences,Political Science,400,M,18,2.3,60,6,0,0
+STD0763,Science,Computer Science,200,F,21,0.66,96,6,0,1
+STD0764,Science,Computer Science,400,M,20,2.4,80,7,1,0
+STD0765,Education,Education Biology,200,F,23,4.55,50,3,0,0
+STD0766,Arts,English,400,F,17,0.84,81,6,1,1
+STD0767,Social Sciences,Economics,300,M,24,0.74,20,8,0,1
+STD0768,Management Sciences,Business Administration,100,F,18,3.89,37,2,0,1
+STD0769,Social Sciences,Political Science,200,M,22,4.86,37,7,0,1
+STD0770,Social Sciences,Political Science,100,M,25,2.84,38,6,0,1
+STD0771,Management Sciences,Business Administration,100,F,27,2.79,52,1,1,0
+STD0772,Education,Education Mathematics,300,F,25,1.69,43,8,1,1
+STD0773,Arts,History,100,F,22,1.06,21,4,1,1
+STD0774,Science,Computer Science,400,F,21,1.57,42,2,0,1
+STD0775,Social Sciences,Economics,200,M,18,3.96,37,5,0,1
+STD0776,Science,Biology,300,M,21,4.82,27,1,1,0
+STD0777,Science,Mathematics,200,M,17,4.85,99,3,1,0
+STD0778,Science,Biology,200,F,30,4.52,58,2,1,0
+STD0779,Management Sciences,Business Administration,400,M,19,2.73,80,7,0,0
+STD0780,Education,Education Mathematics,200,M,20,3.14,96,4,0,0
+STD0781,Management Sciences,Accounting,100,M,30,1.45,71,6,1,1
+STD0782,Social Sciences,Economics,200,F,27,3.36,21,2,1,0
+STD0783,Management Sciences,Accounting,100,F,28,1.6,25,1,0,1
+STD0784,Management Sciences,Accounting,100,M,24,2.13,70,5,1,0
+STD0785,Management Sciences,Business Administration,100,F,21,2.76,92,4,1,0
+STD0786,Arts,English,300,F,25,1.0,81,5,0,1
+STD0787,Social Sciences,Economics,300,M,18,0.83,43,5,1,1
+STD0788,Education,Education Biology,100,F,21,0.99,90,6,0,1
+STD0789,Social Sciences,Political Science,400,F,27,4.71,46,7,0,1
+STD0790,Science,Computer Science,100,M,20,2.53,74,4,1,0
+STD0791,Social Sciences,Political Science,300,F,27,4.32,78,6,0,0
+STD0792,Management Sciences,Business Administration,100,M,28,2.94,90,1,1,0
+STD0793,Arts,English,300,F,23,3.78,43,0,1,0
+STD0794,Education,Education Biology,300,F,26,3.91,96,7,1,0
+STD0795,Management Sciences,Business Administration,400,F,30,1.87,28,0,1,1
+STD0796,Science,Computer Science,100,M,22,1.57,48,0,0,1
+STD0797,Arts,History,100,M,23,4.2,83,3,0,0
+STD0798,Education,Education Biology,300,F,25,1.32,92,5,1,1
+STD0799,Arts,History,400,M,22,3.5,77,4,1,0
+STD0800,Science,Computer Science,200,M,24,3.14,40,0,1,0
+STD0801,Science,Chemistry,100,F,28,1.95,68,5,0,1
+STD0802,Arts,English,300,F,18,4.02,26,3,0,1
+STD0803,Science,Chemistry,300,M,25,2.9,100,3,0,0
+STD0804,Social Sciences,Economics,200,F,20,1.8,55,1,1,0
+STD0805,Arts,English,400,M,21,4.26,88,5,1,0
+STD0806,Arts,English,400,F,22,1.62,79,5,0,1
+STD0807,Education,Education Biology,300,M,30,4.67,79,0,1,0
+STD0808,Science,Mathematics,400,F,21,3.02,73,7,0,0
+STD0809,Education,Education Mathematics,300,M,27,2.43,32,2,1,0
+STD0810,Arts,History,100,M,29,2.3,33,8,0,1
+STD0811,Education,Education Biology,300,M,28,2.76,30,8,0,1
+STD0812,Arts,English,400,M,25,4.94,80,8,0,0
+STD0813,Management Sciences,Business Administration,400,F,25,4.0,54,6,1,0
+STD0814,Arts,English,400,M,17,2.47,40,3,1,0
+STD0815,Management Sciences,Business Administration,100,F,30,4.35,90,5,0,0
+STD0816,Education,Education Biology,300,F,19,4.85,51,1,0,0
+STD0817,Arts,English,300,M,17,1.06,62,2,0,1
+STD0818,Education,Education Mathematics,300,M,19,3.64,53,1,1,0
+STD0819,Social Sciences,Economics,400,M,22,3.55,74,1,0,0
+STD0820,Management Sciences,Accounting,300,M,19,2.2,99,5,1,0
+STD0821,Social Sciences,Economics,300,M,29,2.66,24,6,0,1
+STD0822,Science,Computer Science,100,F,22,2.02,29,3,0,1
+STD0823,Education,Education Mathematics,100,F,18,0.5,42,8,0,1
+STD0824,Arts,English,200,F,27,3.55,39,3,0,1
+STD0825,Education,Education Biology,400,F,24,4.13,61,5,1,0
+STD0826,Education,Education Mathematics,400,F,30,4.0,57,7,1,0
+STD0827,Science,Biology,400,M,20,2.47,39,1,1,0
+STD0828,Management Sciences,Accounting,400,M,22,0.93,88,3,1,0
+STD0829,Arts,English,200,M,25,2.01,79,0,1,0
+STD0830,Management Sciences,Business Administration,300,M,21,1.66,20,3,1,1
+STD0831,Social Sciences,Political Science,100,F,24,3.84,94,4,1,0
+STD0832,Science,Biology,400,M,22,0.99,92,7,0,1
+STD0833,Education,Education Biology,400,F,23,0.58,42,7,1,1
+STD0834,Education,Education Mathematics,200,F,18,4.86,69,1,0,0
+STD0835,Social Sciences,Economics,200,M,17,3.37,65,7,0,0
+STD0836,Science,Biology,200,M,25,1.8,22,1,0,1
+STD0837,Education,Education Mathematics,100,F,20,2.15,22,4,1,1
+STD0838,Management Sciences,Business Administration,400,M,28,4.8,44,7,0,1
+STD0839,Management Sciences,Accounting,200,M,24,3.73,92,7,0,0
+STD0840,Management Sciences,Accounting,300,M,24,0.78,80,7,0,1
+STD0841,Social Sciences,Economics,300,M,29,0.6,74,4,0,1
+STD0842,Education,Education Biology,400,F,22,3.87,82,8,1,0
+STD0843,Arts,History,400,F,30,4.97,71,2,1,0
+STD0844,Management Sciences,Accounting,100,F,22,3.1,78,2,1,0
+STD0845,Arts,English,300,F,29,0.56,54,3,0,1
+STD0846,Arts,English,200,M,29,2.68,43,5,1,1
+STD0847,Education,Education Mathematics,400,M,29,3.12,32,2,1,0
+STD0848,Social Sciences,Political Science,300,F,19,2.98,54,1,0,0
+STD0849,Education,Education Mathematics,200,F,23,2.61,20,5,1,1
+STD0850,Arts,History,200,F,29,4.61,38,2,1,0
+STD0851,Arts,History,200,F,22,2.36,33,4,0,1
+STD0852,Education,Education Biology,100,F,30,3.6,63,7,0,0
+STD0853,Social Sciences,Economics,200,F,17,3.97,71,6,0,0
+STD0854,Education,Education Biology,100,M,18,4.87,21,4,0,1
+STD0855,Management Sciences,Accounting,200,F,27,4.87,46,6,1,1
+STD0856,Social Sciences,Economics,100,M,29,0.56,68,7,1,1
+STD0857,Arts,English,200,F,26,2.46,57,4,0,0
+STD0858,Education,Education Mathematics,200,M,19,3.7,20,5,0,1
+STD0859,Arts,History,100,M,27,1.13,33,8,0,1
+STD0860,Science,Mathematics,300,M,23,2.66,70,5,1,0
+STD0861,Science,Chemistry,300,F,20,2.66,90,0,0,0
+STD0862,Education,Education Biology,300,M,23,4.28,92,0,1,0
+STD0863,Education,Education Biology,300,F,28,3.93,40,2,0,1
+STD0864,Management Sciences,Business Administration,100,M,17,3.23,76,7,0,0
+STD0865,Social Sciences,Economics,400,M,25,4.94,99,2,0,0
+STD0866,Education,Education Mathematics,400,F,26,2.75,63,8,0,0
+STD0867,Science,Mathematics,300,F,23,4.78,47,8,0,1
+STD0868,Arts,History,100,M,28,3.34,34,6,0,1
+STD0869,Social Sciences,Economics,100,M,22,1.64,59,1,1,0
+STD0870,Management Sciences,Business Administration,400,F,28,2.4,32,2,1,0
+STD0871,Education,Education Mathematics,300,M,27,2.44,83,1,0,0
+STD0872,Science,Chemistry,100,F,26,2.5,27,4,0,1
+STD0873,Management Sciences,Accounting,100,M,21,1.63,78,4,1,1
+STD0874,Social Sciences,Economics,400,M,22,4.43,75,8,0,0
+STD0875,Science,Mathematics,200,M,22,2.62,60,4,0,0
+STD0876,Arts,History,200,F,25,1.49,52,8,0,1
+STD0877,Science,Biology,400,M,20,1.01,64,6,1,1
+STD0878,Social Sciences,Economics,200,M,19,4.17,62,0,1,0
+STD0879,Arts,English,300,M,26,1.63,77,5,1,1
+STD0880,Management Sciences,Accounting,200,M,25,3.75,23,0,1,0
+STD0881,Management Sciences,Accounting,200,M,28,2.95,84,2,0,0
+STD0882,Science,Computer Science,400,F,24,2.98,39,1,1,0
+STD0883,Education,Education Mathematics,200,F,17,4.34,97,3,0,0
+STD0884,Social Sciences,Economics,200,F,23,3.39,26,2,1,0
+STD0885,Education,Education Mathematics,200,F,25,0.85,34,6,0,1
+STD0886,Arts,English,200,F,18,3.21,87,2,0,0
+STD0887,Management Sciences,Business Administration,100,M,17,1.14,89,4,0,1
+STD0888,Arts,History,300,M,28,4.48,50,4,0,0
+STD0889,Social Sciences,Economics,400,M,25,2.44,75,3,0,0
+STD0890,Social Sciences,Economics,100,F,22,2.16,93,1,1,0
+STD0891,Management Sciences,Accounting,200,F,20,3.23,24,5,0,1
+STD0892,Science,Mathematics,200,F,20,4.72,99,5,1,0
+STD0893,Social Sciences,Economics,200,M,23,3.52,25,5,0,1
+STD0894,Education,Education Mathematics,400,F,28,1.84,94,3,1,0
+STD0895,Education,Education Mathematics,300,F,27,1.11,68,6,0,1
+STD0896,Arts,English,400,F,18,2.67,44,5,1,1
+STD0897,Management Sciences,Business Administration,400,M,24,4.17,54,0,1,0
+STD0898,Arts,History,400,F,24,3.5,81,4,1,0
+STD0899,Arts,English,300,M,26,4.44,86,8,0,0
+STD0900,Social Sciences,Political Science,400,M,28,3.35,67,8,0,0
+STD0901,Science,Computer Science,400,M,20,2.28,100,7,1,0
+STD0902,Management Sciences,Business Administration,200,F,24,2.28,49,5,0,1
+STD0903,Science,Computer Science,200,F,27,2.61,36,4,0,1
+STD0904,Science,Computer Science,400,M,25,1.56,30,7,1,1
+STD0905,Management Sciences,Business Administration,100,M,23,3.9,46,5,0,1
+STD0906,Education,Education Mathematics,300,M,26,1.95,100,1,1,0
+STD0907,Management Sciences,Business Administration,100,F,18,4.09,41,7,0,1
+STD0908,Social Sciences,Economics,100,M,29,2.07,40,1,1,0
+STD0909,Social Sciences,Economics,100,M,23,4.29,81,3,1,0
+STD0910,Science,Chemistry,300,F,29,4.3,85,0,0,0
+STD0911,Science,Chemistry,100,F,30,3.16,50,3,0,0
+STD0912,Arts,English,400,F,18,2.73,84,1,0,0
+STD0913,Education,Education Mathematics,100,M,28,0.57,55,1,0,1
+STD0914,Management Sciences,Accounting,300,F,19,3.99,52,5,1,0
+STD0915,Social Sciences,Political Science,200,F,29,1.41,86,4,0,1
+STD0916,Arts,History,400,M,21,4.49,38,8,1,1
+STD0917,Social Sciences,Economics,300,F,19,3.2,23,2,1,0
+STD0918,Education,Education Biology,300,F,30,2.04,22,2,1,0
+STD0919,Social Sciences,Economics,300,F,25,2.92,24,0,0,1
+STD0920,Social Sciences,Economics,200,M,25,4.55,30,8,0,1
+STD0921,Arts,English,100,M,26,2.54,39,8,0,1
+STD0922,Arts,History,100,F,25,1.66,79,0,0,1
+STD0923,Management Sciences,Accounting,100,M,30,4.91,56,0,0,0
+STD0924,Arts,History,100,F,27,2.77,71,1,0,0
+STD0925,Management Sciences,Accounting,400,M,20,3.83,35,8,0,1
+STD0926,Science,Chemistry,200,M,30,0.85,64,0,0,1
+STD0927,Education,Education Mathematics,300,F,23,2.27,26,2,1,0
+STD0928,Education,Education Mathematics,200,F,18,1.56,28,6,1,1
+STD0929,Management Sciences,Accounting,200,F,28,0.77,42,4,1,1
+STD0930,Social Sciences,Economics,100,M,24,1.08,62,5,0,1
+STD0931,Social Sciences,Political Science,300,F,20,4.35,99,4,0,0
+STD0932,Social Sciences,Economics,200,F,21,3.07,45,5,0,1
+STD0933,Social Sciences,Economics,100,M,18,1.8,46,1,1,1
+STD0934,Science,Chemistry,300,M,28,1.2,40,3,0,1
+STD0935,Education,Education Biology,200,F,27,1.89,43,7,1,1
+STD0936,Science,Mathematics,100,M,19,1.71,21,8,0,1
+STD0937,Science,Computer Science,100,M,17,1.15,49,7,1,1
+STD0938,Education,Education Mathematics,400,F,23,3.67,34,6,0,1
+STD0939,Management Sciences,Accounting,400,F,20,1.64,43,8,1,1
+STD0940,Education,Education Biology,200,M,21,1.35,98,2,1,0
+STD0941,Management Sciences,Business Administration,400,F,22,2.16,93,6,1,0
+STD0942,Science,Mathematics,200,M,26,3.19,25,7,1,1
+STD0943,Science,Mathematics,400,F,30,4.7,24,4,0,1
+STD0944,Education,Education Biology,100,F,22,3.85,73,7,1,0
+STD0945,Social Sciences,Political Science,200,F,18,4.06,99,1,0,0
+STD0946,Social Sciences,Economics,100,M,17,2.65,37,7,1,1
+STD0947,Management Sciences,Accounting,200,M,27,1.38,31,3,1,1
+STD0948,Management Sciences,Business Administration,200,M,27,0.94,81,7,1,1
+STD0949,Education,Education Mathematics,300,M,18,4.81,60,8,1,0
+STD0950,Arts,English,400,M,20,4.41,54,3,0,0
+STD0951,Arts,English,300,M,21,4.01,74,0,1,0
+STD0952,Education,Education Biology,200,M,30,1.1,56,8,1,1
+STD0953,Management Sciences,Business Administration,400,F,21,2.82,46,5,0,1
+STD0954,Science,Mathematics,400,F,20,1.28,40,1,1,1
+STD0955,Management Sciences,Accounting,300,M,18,3.49,93,2,0,0
+STD0956,Education,Education Biology,100,M,21,2.3,59,4,0,0
+STD0957,Social Sciences,Political Science,300,M,29,3.45,90,6,0,0
+STD0958,Science,Mathematics,400,M,24,2.57,29,0,0,1
+STD0959,Arts,English,300,F,17,3.29,29,3,1,0
+STD0960,Education,Education Mathematics,400,M,23,2.28,53,2,0,0
+STD0961,Science,Chemistry,100,M,27,3.74,72,5,1,0
+STD0962,Management Sciences,Accounting,200,M,19,1.74,39,3,1,1
+STD0963,Social Sciences,Political Science,200,M,28,2.97,64,5,1,0
+STD0964,Science,Chemistry,200,M,26,2.68,86,2,0,0
+STD0965,Management Sciences,Accounting,300,F,26,2.24,60,2,1,0
+STD0966,Arts,History,200,M,26,1.58,47,1,1,1
+STD0967,Social Sciences,Economics,400,M,22,4.93,39,4,1,1
+STD0968,Management Sciences,Business Administration,200,F,17,4.3,92,6,1,0
+STD0969,Education,Education Mathematics,100,M,24,0.61,53,7,0,1
+STD0970,Science,Computer Science,400,F,27,3.64,43,5,0,1
+STD0971,Education,Education Mathematics,200,M,20,3.04,26,5,0,1
+STD0972,Social Sciences,Political Science,400,F,28,1.67,77,1,0,1
+STD0973,Science,Chemistry,400,F,26,4.55,55,7,0,0
+STD0974,Management Sciences,Business Administration,300,F,27,4.98,58,1,0,0
+STD0975,Education,Education Mathematics,100,M,22,3.36,37,7,0,1
+STD0976,Arts,English,400,F,17,4.86,39,5,1,1
+STD0977,Education,Education Biology,400,M,20,3.19,70,3,1,0
+STD0978,Education,Education Mathematics,200,M,24,4.32,68,3,0,0
+STD0979,Arts,History,100,M,30,4.85,43,2,0,1
+STD0980,Education,Education Mathematics,100,M,21,1.23,67,2,0,1
+STD0981,Management Sciences,Accounting,200,F,18,2.06,22,8,0,1
+STD0982,Education,Education Mathematics,200,M,27,3.19,36,0,0,1
+STD0983,Management Sciences,Business Administration,300,F,22,2.84,96,8,0,0
+STD0984,Arts,History,300,F,25,4.4,62,7,1,0
+STD0985,Science,Computer Science,400,M,30,1.46,92,8,1,1
+STD0986,Social Sciences,Economics,100,M,18,3.03,68,4,0,0
+STD0987,Social Sciences,Economics,300,M,25,4.85,74,2,0,0
+STD0988,Science,Mathematics,300,M,17,4.74,30,8,1,1
+STD0989,Science,Mathematics,300,F,23,4.97,58,7,0,0
+STD0990,Education,Education Biology,400,F,23,4.49,87,6,0,0
+STD0991,Arts,English,100,F,19,4.27,67,6,1,0
+STD0992,Management Sciences,Business Administration,300,M,18,4.71,42,7,1,1
+STD0993,Education,Education Biology,100,M,20,4.47,74,7,1,0
+STD0994,Arts,English,300,M,22,4.16,84,4,0,0
+STD0995,Social Sciences,Political Science,200,F,29,2.19,77,3,0,0
+STD0996,Social Sciences,Political Science,300,M,28,3.01,55,4,0,0
+STD0997,Science,Biology,200,F,23,1.31,65,8,1,1
+STD0998,Social Sciences,Political Science,400,M,26,4.76,83,6,1,0
+STD0999,Education,Education Biology,400,F,25,4.14,39,5,0,1
+STD1000,Science,Computer Science,200,F,24,4.97,83,0,1,0
+STD1001,Education,Education Mathematics,200,M,22,1.64,85,4,1,1
+STD1002,Science,Chemistry,200,F,22,2.13,95,4,0,0
+STD1003,Science,Computer Science,200,M,26,0.7,94,2,1,0
+STD1004,Education,Education Biology,400,F,27,4.13,50,1,1,0
+STD1005,Management Sciences,Business Administration,400,M,29,3.3,50,3,0,0
+STD1006,Science,Biology,200,M,18,1.73,66,1,0,1
+STD1007,Management Sciences,Accounting,100,M,25,1.45,92,5,0,1
+STD1008,Management Sciences,Accounting,200,M,21,0.89,98,0,0,1
+STD1009,Education,Education Biology,400,M,24,1.9,39,1,1,1
+STD1010,Social Sciences,Economics,300,F,26,2.06,81,1,1,0
+STD1011,Science,Mathematics,200,M,29,1.17,30,0,1,1
+STD1012,Social Sciences,Economics,100,M,29,2.02,50,6,1,0
+STD1013,Arts,English,400,F,27,4.28,33,5,0,1
+STD1014,Education,Education Mathematics,200,M,23,3.32,24,7,1,1
+STD1015,Science,Chemistry,200,F,17,3.51,42,0,0,1
+STD1016,Science,Chemistry,100,M,21,4.93,65,8,0,0
+STD1017,Management Sciences,Business Administration,200,F,29,1.16,22,3,1,1
+STD1018,Management Sciences,Accounting,300,M,21,1.3,22,0,1,1
+STD1019,Arts,History,100,F,30,4.77,34,1,0,1
+STD1020,Management Sciences,Business Administration,300,M,23,4.69,42,8,0,1
+STD1021,Social Sciences,Political Science,100,M,19,4.14,24,2,1,0
+STD1022,Social Sciences,Economics,200,M,29,4.01,37,5,0,1
+STD1023,Arts,English,400,M,23,2.18,71,1,0,0
+STD1024,Science,Computer Science,300,M,21,4.23,96,3,0,0
+STD1025,Science,Biology,100,F,19,2.82,59,5,1,0
+STD1026,Management Sciences,Business Administration,300,M,29,3.78,97,2,0,0
+STD1027,Arts,History,300,F,29,0.68,31,5,0,1
+STD1028,Education,Education Biology,100,M,25,2.14,56,0,0,0
+STD1029,Science,Computer Science,400,F,17,3.74,81,7,0,0
+STD1030,Social Sciences,Economics,400,F,23,1.39,79,3,0,1
+STD1031,Social Sciences,Political Science,200,M,21,2.77,70,5,1,0
+STD1032,Science,Mathematics,400,F,30,4.67,51,0,0,0
+STD1033,Science,Computer Science,400,F,27,3.09,33,7,1,1
+STD1034,Science,Chemistry,300,M,24,3.02,59,0,0,0
+STD1035,Education,Education Biology,200,F,20,4.17,93,1,0,0
+STD1036,Social Sciences,Political Science,200,M,17,2.08,34,8,1,1
+STD1037,Arts,History,300,F,28,2.09,39,5,0,1
+STD1038,Education,Education Biology,400,M,21,4.62,88,1,1,0
+STD1039,Social Sciences,Political Science,100,M,22,1.46,45,7,1,1
+STD1040,Education,Education Mathematics,400,F,20,3.1,89,2,1,0
+STD1041,Science,Chemistry,200,F,22,0.5,50,1,0,1
+STD1042,Education,Education Mathematics,300,F,23,4.03,77,5,1,0
+STD1043,Science,Biology,300,F,30,2.65,30,5,1,1
+STD1044,Social Sciences,Economics,200,M,24,2.16,97,0,1,0
+STD1045,Education,Education Mathematics,200,M,30,2.55,93,1,0,0
+STD1046,Education,Education Mathematics,200,M,24,4.11,52,1,1,0
+STD1047,Management Sciences,Accounting,300,F,24,4.11,100,1,0,0
+STD1048,Social Sciences,Economics,100,M,21,1.07,73,0,0,1
+STD1049,Education,Education Biology,100,F,26,3.01,86,6,1,0
+STD1050,Arts,History,100,F,22,1.87,30,8,0,1
+STD1051,Social Sciences,Political Science,300,M,17,4.79,23,4,0,1
+STD1052,Science,Mathematics,200,M,17,4.84,53,0,0,0
+STD1053,Social Sciences,Political Science,200,M,17,3.71,94,0,1,0
+STD1054,Social Sciences,Economics,300,F,25,4.39,96,7,1,0
+STD1055,Social Sciences,Political Science,200,F,18,0.93,89,8,0,1
+STD1056,Science,Chemistry,400,F,21,1.11,50,4,1,1
+STD1057,Science,Computer Science,300,F,17,1.13,54,8,0,1
+STD1058,Education,Education Biology,300,F,27,1.74,40,4,0,1
+STD1059,Science,Chemistry,200,M,27,2.03,52,5,1,0
+STD1060,Arts,History,200,F,20,2.86,29,8,0,1
+STD1061,Social Sciences,Economics,300,M,29,3.67,58,2,1,0
+STD1062,Social Sciences,Political Science,300,M,30,0.92,59,3,0,1
+STD1063,Social Sciences,Political Science,400,M,18,1.3,48,5,1,1
+STD1064,Social Sciences,Political Science,400,F,21,4.14,64,2,1,0
+STD1065,Social Sciences,Political Science,300,M,27,3.84,99,1,1,0
+STD1066,Arts,History,400,M,27,2.73,27,3,1,0
+STD1067,Management Sciences,Accounting,400,M,18,1.73,43,1,0,1
+STD1068,Education,Education Biology,100,M,20,1.09,62,6,1,1
+STD1069,Arts,History,200,F,20,3.12,92,3,1,0
+STD1070,Management Sciences,Business Administration,200,M,23,4.78,91,1,1,0
+STD1071,Science,Chemistry,100,M,29,0.76,56,7,1,1
+STD1072,Social Sciences,Political Science,100,M,23,4.88,63,2,1,0
+STD1073,Social Sciences,Economics,100,F,19,3.68,44,5,1,1
+STD1074,Management Sciences,Business Administration,100,F,30,2.66,30,1,1,0
+STD1075,Management Sciences,Accounting,400,F,19,4.44,21,6,1,1
+STD1076,Arts,English,400,F,17,4.85,56,3,1,0
+STD1077,Arts,History,200,M,28,1.21,20,2,0,1
+STD1078,Education,Education Mathematics,300,F,18,1.26,41,3,0,1
+STD1079,Science,Biology,100,F,19,1.65,23,6,1,1
+STD1080,Science,Mathematics,400,F,25,3.84,84,6,0,0
+STD1081,Education,Education Biology,200,F,21,4.42,41,1,0,1
+STD1082,Arts,History,400,F,29,2.02,37,7,0,1
+STD1083,Arts,History,100,F,21,4.58,62,3,0,0
+STD1084,Arts,English,100,F,25,1.55,84,0,0,1
+STD1085,Education,Education Mathematics,200,M,20,3.13,32,8,0,1
+STD1086,Management Sciences,Business Administration,200,F,27,0.63,30,5,1,1
+STD1087,Social Sciences,Economics,300,F,21,1.91,38,7,1,1
+STD1088,Management Sciences,Business Administration,100,F,17,1.16,45,6,1,1
+STD1089,Management Sciences,Business Administration,300,F,18,2.0,70,3,1,0
+STD1090,Arts,English,300,F,21,3.01,94,5,0,0
+STD1091,Education,Education Mathematics,200,M,19,3.75,23,2,1,0
+STD1092,Arts,History,400,F,27,1.89,25,0,1,1
+STD1093,Science,Computer Science,200,M,22,2.37,31,6,1,1
+STD1094,Management Sciences,Business Administration,300,F,26,3.67,80,1,1,0
+STD1095,Management Sciences,Accounting,400,F,23,3.57,48,5,0,1
+STD1096,Education,Education Mathematics,100,M,28,1.16,96,6,1,1
+STD1097,Management Sciences,Business Administration,300,F,20,0.56,44,0,1,1
+STD1098,Education,Education Biology,300,F,27,2.62,20,3,1,0
+STD1099,Science,Computer Science,300,M,22,3.95,95,7,0,0
+STD1100,Science,Computer Science,400,F,20,4.23,56,2,1,0
+STD1101,Management Sciences,Business Administration,100,F,25,2.69,67,6,0,0
+STD1102,Social Sciences,Political Science,200,M,30,4.19,27,2,0,1
+STD1103,Education,Education Biology,200,F,19,0.76,66,6,1,1
+STD1104,Science,Computer Science,400,F,30,1.32,36,5,0,1
+STD1105,Management Sciences,Business Administration,300,M,29,4.18,91,1,0,0
+STD1106,Arts,History,400,F,29,4.78,25,6,0,1
+STD1107,Education,Education Biology,100,F,20,1.51,91,0,1,0
+STD1108,Education,Education Biology,300,F,18,2.42,47,8,1,1
+STD1109,Arts,English,200,F,27,2.76,95,2,1,0
+STD1110,Social Sciences,Political Science,400,F,28,0.5,85,2,0,1
+STD1111,Management Sciences,Accounting,100,M,27,2.71,28,3,0,1
+STD1112,Science,Chemistry,100,F,30,4.17,94,4,0,0
+STD1113,Science,Computer Science,400,F,20,1.6,39,5,1,1
+STD1114,Education,Education Mathematics,400,F,19,4.1,41,1,1,0
+STD1115,Social Sciences,Economics,100,M,17,1.27,60,1,1,0
+STD1116,Social Sciences,Economics,200,F,21,4.47,92,2,0,0
+STD1117,Management Sciences,Accounting,200,M,28,4.63,64,3,1,0
+STD1118,Science,Mathematics,400,F,19,1.05,100,8,1,1
+STD1119,Education,Education Mathematics,200,F,19,3.39,89,1,1,0
+STD1120,Science,Computer Science,300,F,24,1.12,82,3,1,0
+STD1121,Management Sciences,Business Administration,100,F,25,2.57,75,8,1,0
+STD1122,Science,Biology,300,F,27,1.73,96,2,1,0
+STD1123,Social Sciences,Economics,400,F,27,1.66,29,0,0,1
+STD1124,Education,Education Biology,400,M,17,2.62,68,6,1,0
+STD1125,Science,Chemistry,100,F,30,3.1,67,4,1,0
+STD1126,Social Sciences,Political Science,200,M,18,4.22,23,2,1,0
+STD1127,Science,Computer Science,400,M,19,0.58,91,3,1,0
+STD1128,Science,Computer Science,100,F,24,2.8,40,1,0,1
+STD1129,Arts,English,200,F,23,4.92,88,3,0,0
+STD1130,Science,Mathematics,100,F,18,4.24,69,6,1,0
+STD1131,Education,Education Biology,100,M,27,4.78,83,3,1,0
+STD1132,Education,Education Mathematics,200,M,29,4.24,21,2,1,0
+STD1133,Management Sciences,Accounting,200,F,28,3.29,93,5,0,0
+STD1134,Social Sciences,Economics,300,F,25,2.79,78,2,1,0
+STD1135,Science,Chemistry,100,M,30,2.46,42,1,1,0
+STD1136,Science,Biology,100,F,17,1.51,29,0,0,1
+STD1137,Management Sciences,Business Administration,200,F,18,4.71,83,6,1,0
+STD1138,Social Sciences,Economics,100,M,26,2.12,59,4,0,0
+STD1139,Education,Education Biology,100,M,29,0.79,67,0,0,1
+STD1140,Education,Education Mathematics,200,F,30,3.6,82,5,1,0
+STD1141,Management Sciences,Accounting,100,F,21,3.26,68,8,0,0
+STD1142,Social Sciences,Economics,400,F,27,3.81,24,3,0,1
+STD1143,Education,Education Mathematics,400,M,20,4.98,50,2,0,0
+STD1144,Social Sciences,Political Science,100,M,25,4.11,52,1,0,0
+STD1145,Management Sciences,Business Administration,400,M,29,3.05,61,4,0,0
+STD1146,Science,Chemistry,300,F,22,4.92,46,5,0,1
+STD1147,Science,Chemistry,300,M,23,3.1,90,0,0,0
+STD1148,Arts,History,400,F,25,3.18,81,8,0,0
+STD1149,Science,Chemistry,200,M,22,1.83,56,8,1,1
+STD1150,Arts,English,400,M,19,3.49,78,0,1,0
+STD1151,Arts,History,400,F,17,3.43,29,0,0,1
+STD1152,Education,Education Mathematics,200,F,25,0.95,37,1,0,1
+STD1153,Science,Mathematics,200,F,22,3.53,95,3,0,0
+STD1154,Science,Chemistry,400,M,28,4.66,32,2,0,1
+STD1155,Arts,History,300,M,24,4.61,97,2,1,0
+STD1156,Education,Education Biology,400,M,30,1.49,45,2,1,1
+STD1157,Education,Education Biology,400,F,26,1.61,26,0,1,1
+STD1158,Science,Biology,200,F,19,1.83,39,6,1,1
+STD1159,Arts,History,200,F,23,4.07,66,1,1,0
+STD1160,Science,Chemistry,100,M,28,1.7,97,7,0,1
+STD1161,Education,Education Mathematics,200,M,23,1.58,69,6,1,1
+STD1162,Arts,History,200,F,20,3.39,74,3,1,0
+STD1163,Social Sciences,Economics,200,F,20,3.69,36,4,1,1
+STD1164,Education,Education Biology,200,F,26,1.64,37,7,0,1
+STD1165,Education,Education Biology,100,M,19,1.06,38,6,1,1
+STD1166,Management Sciences,Business Administration,400,M,21,3.42,76,6,0,0
+STD1167,Arts,English,100,F,24,1.25,33,1,0,1
+STD1168,Social Sciences,Political Science,300,F,22,1.46,85,0,1,0
+STD1169,Management Sciences,Business Administration,300,M,19,4.34,63,1,0,0
+STD1170,Education,Education Mathematics,200,M,18,4.3,95,3,1,0
+STD1171,Education,Education Mathematics,400,F,23,0.94,38,3,0,1
+STD1172,Education,Education Biology,200,F,22,3.13,49,5,0,1
+STD1173,Arts,History,400,M,28,3.67,45,0,0,1
+STD1174,Science,Computer Science,300,M,27,3.39,98,8,0,0
+STD1175,Social Sciences,Political Science,300,M,19,1.14,49,7,0,1
+STD1176,Social Sciences,Economics,200,M,23,2.89,71,5,1,0
+STD1177,Social Sciences,Political Science,400,M,28,1.16,78,7,0,1
+STD1178,Science,Mathematics,300,F,18,2.51,58,3,1,0
+STD1179,Arts,History,400,F,30,3.12,64,0,0,0
+STD1180,Social Sciences,Political Science,300,F,19,2.77,65,1,1,0
+STD1181,Science,Biology,100,M,20,1.12,32,4,0,1
+STD1182,Arts,History,100,F,26,4.02,52,5,1,0
+STD1183,Social Sciences,Economics,400,F,23,4.08,94,3,0,0
+STD1184,Social Sciences,Economics,100,F,19,4.74,34,2,0,1
+STD1185,Science,Computer Science,300,F,23,4.18,47,4,0,1
+STD1186,Social Sciences,Economics,100,M,18,2.58,43,7,0,1
+STD1187,Education,Education Biology,100,F,18,3.24,53,1,1,0
+STD1188,Science,Biology,300,M,24,2.1,97,3,0,0
+STD1189,Science,Biology,300,F,22,3.46,23,7,0,1
+STD1190,Arts,History,400,M,21,1.79,90,6,1,1
+STD1191,Management Sciences,Business Administration,100,F,25,3.82,30,7,1,1
+STD1192,Science,Mathematics,400,F,22,4.91,98,2,0,0
+STD1193,Management Sciences,Business Administration,400,M,19,3.3,62,3,1,0
+STD1194,Management Sciences,Business Administration,100,M,25,4.51,20,8,0,1
+STD1195,Education,Education Biology,400,M,20,3.42,67,0,0,0
+STD1196,Social Sciences,Political Science,200,M,18,2.62,53,4,1,0
+STD1197,Arts,English,100,F,29,1.88,62,8,1,1
+STD1198,Science,Mathematics,100,F,23,1.53,75,4,1,1
+STD1199,Management Sciences,Business Administration,300,F,24,3.32,98,2,0,0
+STD1200,Science,Chemistry,100,F,30,4.26,70,1,0,0
+STD1201,Social Sciences,Political Science,400,F,18,2.69,39,7,1,1
+STD1202,Education,Education Biology,100,F,30,2.14,24,5,1,1
+STD1203,Management Sciences,Accounting,300,M,30,2.03,58,5,0,0
+STD1204,Science,Biology,200,F,23,3.28,90,0,1,0
+STD1205,Arts,History,300,F,19,3.66,50,2,0,0
+STD1206,Education,Education Mathematics,100,M,17,1.14,29,4,0,1
+STD1207,Arts,History,100,M,27,3.41,39,1,0,1
+STD1208,Management Sciences,Accounting,400,M,23,1.38,25,5,0,1
+STD1209,Social Sciences,Economics,400,M,26,1.64,99,6,1,1
+STD1210,Management Sciences,Business Administration,300,M,22,4.6,92,3,1,0
+STD1211,Management Sciences,Business Administration,200,F,23,0.62,84,8,1,1
+STD1212,Social Sciences,Political Science,100,M,21,1.01,69,5,0,1
+STD1213,Social Sciences,Economics,200,F,27,0.73,100,3,1,0
+STD1214,Science,Chemistry,400,F,30,1.59,69,1,0,1
+STD1215,Management Sciences,Accounting,200,F,21,1.64,54,7,0,1
+STD1216,Education,Education Biology,200,F,28,2.87,98,2,0,0
+STD1217,Education,Education Biology,200,F,19,3.73,72,7,1,0
+STD1218,Science,Mathematics,300,M,20,4.23,78,2,0,0
+STD1219,Education,Education Biology,400,F,20,1.89,84,3,0,1
+STD1220,Science,Biology,300,F,30,2.04,51,2,0,0
+STD1221,Management Sciences,Accounting,300,M,21,0.57,73,6,1,1
+STD1222,Social Sciences,Political Science,300,F,20,1.92,89,7,0,1
+STD1223,Management Sciences,Accounting,200,F,26,1.53,62,2,0,1
+STD1224,Arts,English,100,M,30,3.84,98,7,0,0
+STD1225,Management Sciences,Business Administration,200,M,30,2.77,61,2,1,0
+STD1226,Science,Computer Science,200,M,26,0.79,77,4,0,1
+STD1227,Education,Education Mathematics,100,F,30,4.09,27,2,1,0
+STD1228,Science,Computer Science,100,F,19,1.65,87,0,1,0
+STD1229,Education,Education Mathematics,400,F,28,3.09,50,5,1,0
+STD1230,Education,Education Biology,300,M,20,0.69,26,5,1,1
+STD1231,Social Sciences,Political Science,400,M,29,4.66,21,4,0,1
+STD1232,Arts,History,100,F,28,2.46,75,3,0,0
+STD1233,Arts,English,200,F,17,1.47,77,0,0,1
+STD1234,Management Sciences,Business Administration,100,M,18,3.41,49,4,0,1
+STD1235,Education,Education Biology,300,F,18,1.92,60,6,1,1
+STD1236,Social Sciences,Economics,100,F,21,4.27,31,4,0,1
+STD1237,Science,Chemistry,400,F,26,4.58,62,3,1,0
+STD1238,Social Sciences,Political Science,100,M,19,3.15,59,0,1,0
+STD1239,Management Sciences,Business Administration,400,M,22,3.02,89,3,0,0
+STD1240,Education,Education Biology,400,F,22,0.82,45,0,0,1
+STD1241,Arts,History,400,M,26,0.6,89,3,1,0
+STD1242,Education,Education Mathematics,200,M,22,3.92,23,8,1,1
+STD1243,Education,Education Biology,200,M,18,2.77,47,1,1,0
+STD1244,Arts,History,100,M,28,4.36,37,2,0,1
+STD1245,Management Sciences,Business Administration,200,F,24,1.83,43,1,1,1
+STD1246,Science,Mathematics,400,F,27,1.08,86,1,1,0
+STD1247,Science,Computer Science,300,M,22,2.26,68,8,1,0
+STD1248,Education,Education Mathematics,300,M,28,3.99,74,6,0,0
+STD1249,Science,Computer Science,400,M,20,3.05,39,1,0,1
+STD1250,Education,Education Biology,200,M,27,1.72,33,7,0,1
+STD1251,Education,Education Biology,200,F,30,2.26,28,3,0,1
+STD1252,Arts,English,200,F,18,4.6,51,7,0,0
+STD1253,Education,Education Mathematics,300,M,22,3.51,79,0,1,0
+STD1254,Social Sciences,Political Science,300,F,17,2.44,70,5,0,0
+STD1255,Social Sciences,Economics,200,M,29,3.11,58,8,1,0
+STD1256,Education,Education Mathematics,400,F,18,3.54,48,7,1,1
+STD1257,Science,Biology,400,F,21,2.57,31,7,0,1
+STD1258,Education,Education Biology,400,F,25,1.01,45,3,1,1
+STD1259,Social Sciences,Political Science,200,M,20,2.89,28,2,1,0
+STD1260,Arts,English,200,F,26,1.42,52,7,1,1
+STD1261,Social Sciences,Economics,200,M,28,3.48,94,0,0,0
+STD1262,Education,Education Mathematics,300,M,22,1.87,97,2,0,1
+STD1263,Social Sciences,Political Science,300,M,26,3.43,76,6,0,0
+STD1264,Science,Chemistry,400,F,21,0.72,86,5,1,1
+STD1265,Science,Mathematics,300,F,26,3.93,73,2,0,0
+STD1266,Social Sciences,Political Science,200,F,26,0.58,56,1,1,0
+STD1267,Science,Computer Science,400,F,25,2.59,51,4,1,0
+STD1268,Education,Education Mathematics,200,F,30,4.38,25,5,0,1
+STD1269,Education,Education Biology,200,F,25,2.15,97,8,0,0
+STD1270,Social Sciences,Political Science,200,F,28,1.49,98,8,0,1
+STD1271,Arts,History,200,F,30,2.77,34,3,1,0
+STD1272,Arts,History,200,M,19,2.26,76,3,0,0
+STD1273,Education,Education Biology,400,M,17,3.8,23,7,1,1
+STD1274,Social Sciences,Economics,100,M,22,2.28,36,7,0,1
+STD1275,Management Sciences,Accounting,300,F,26,2.84,60,0,1,0
+STD1276,Management Sciences,Business Administration,300,F,29,3.6,97,6,1,0
+STD1277,Arts,English,400,M,21,4.13,57,6,1,0
+STD1278,Social Sciences,Economics,200,M,21,1.32,40,7,1,1
+STD1279,Education,Education Biology,100,M,30,1.58,57,5,1,1
+STD1280,Education,Education Biology,400,F,23,3.83,59,7,1,0
+STD1281,Management Sciences,Accounting,100,F,20,3.03,47,3,1,0
+STD1282,Science,Biology,400,M,29,4.55,38,2,0,1
+STD1283,Social Sciences,Economics,100,F,21,4.06,67,2,1,0
+STD1284,Arts,History,400,M,20,4.63,43,4,1,1
+STD1285,Arts,English,200,M,24,0.91,90,0,0,1
+STD1286,Education,Education Biology,300,F,17,2.93,22,8,0,1
+STD1287,Arts,English,400,F,23,3.29,24,2,1,0
+STD1288,Science,Computer Science,200,F,18,2.35,72,0,1,0
+STD1289,Social Sciences,Political Science,300,F,20,3.84,62,1,1,0
+STD1290,Arts,English,300,F,27,3.62,42,4,1,1
+STD1291,Social Sciences,Economics,100,M,25,0.96,82,3,0,1
+STD1292,Science,Biology,300,M,29,1.64,96,1,0,1
+STD1293,Science,Mathematics,300,M,23,2.94,53,0,1,0
+STD1294,Education,Education Biology,100,M,30,3.56,83,1,1,0
+STD1295,Arts,English,300,F,24,4.54,20,8,1,1
+STD1296,Social Sciences,Economics,100,M,21,3.9,81,6,0,0
+STD1297,Education,Education Mathematics,400,M,27,3.03,28,7,1,1
+STD1298,Science,Mathematics,100,M,23,0.53,41,5,1,1
+STD1299,Science,Chemistry,200,M,30,4.33,43,6,1,1
+STD1300,Social Sciences,Political Science,200,F,19,4.36,95,2,1,0
+STD1301,Education,Education Biology,300,M,23,2.9,23,0,1,0
+STD1302,Science,Computer Science,200,F,18,4.76,53,1,0,0
+STD1303,Management Sciences,Accounting,100,M,23,1.42,40,0,0,1
+STD1304,Management Sciences,Accounting,300,F,24,2.02,77,5,0,0
+STD1305,Management Sciences,Business Administration,400,M,29,2.43,58,1,1,0
+STD1306,Arts,English,300,M,20,3.71,89,0,1,0
+STD1307,Social Sciences,Political Science,300,M,30,3.29,83,0,0,0
+STD1308,Management Sciences,Business Administration,200,M,24,4.75,86,0,0,0
+STD1309,Social Sciences,Political Science,400,F,25,4.99,33,4,1,1
+STD1310,Social Sciences,Political Science,300,F,20,0.59,88,7,1,1
+STD1311,Arts,History,300,F,20,3.45,89,7,0,0
+STD1312,Arts,History,200,F,19,3.19,57,2,1,0
+STD1313,Science,Biology,100,F,24,3.69,60,6,1,0
+STD1314,Management Sciences,Accounting,300,F,30,1.76,81,6,0,1
+STD1315,Science,Biology,300,M,22,2.43,21,6,0,1
+STD1316,Management Sciences,Accounting,300,F,20,3.56,21,6,0,1
+STD1317,Science,Computer Science,200,F,24,1.32,81,5,1,1
+STD1318,Education,Education Mathematics,100,F,20,2.78,78,7,0,0
+STD1319,Arts,English,100,M,21,1.0,72,4,0,1
+STD1320,Arts,History,300,F,28,3.68,83,2,0,0
+STD1321,Science,Computer Science,400,M,24,5.0,76,3,0,0
+STD1322,Social Sciences,Political Science,300,F,23,1.16,48,4,1,1
+STD1323,Management Sciences,Business Administration,200,M,30,2.54,27,2,0,1
+STD1324,Education,Education Biology,100,M,27,4.89,76,0,0,0
+STD1325,Arts,English,200,F,26,0.63,21,1,0,1
+STD1326,Science,Biology,300,F,17,1.83,61,2,0,1
+STD1327,Management Sciences,Accounting,100,F,17,1.89,73,0,1,0
+STD1328,Social Sciences,Economics,400,M,27,1.53,89,6,0,1
+STD1329,Science,Chemistry,400,F,21,2.5,22,0,1,0
+STD1330,Education,Education Mathematics,300,M,17,4.11,37,2,0,1
+STD1331,Education,Education Mathematics,400,M,28,2.62,80,8,0,0
+STD1332,Science,Biology,100,M,26,4.74,27,4,0,1
+STD1333,Social Sciences,Economics,100,F,18,1.79,26,8,0,1
+STD1334,Science,Biology,200,F,23,2.89,94,4,0,0
+STD1335,Science,Biology,400,M,17,1.9,90,5,1,1
+STD1336,Social Sciences,Economics,300,M,26,0.56,68,7,0,1
+STD1337,Social Sciences,Economics,400,M,26,1.76,32,3,0,1
+STD1338,Social Sciences,Economics,400,M,22,3.79,74,8,0,0
+STD1339,Education,Education Mathematics,300,F,27,1.06,25,7,0,1
+STD1340,Education,Education Biology,200,M,17,2.59,93,1,1,0
+STD1341,Arts,English,200,F,17,2.12,94,5,0,0
+STD1342,Arts,English,200,M,21,3.08,51,5,1,0
+STD1343,Education,Education Mathematics,200,M,18,3.75,20,2,1,0
+STD1344,Science,Mathematics,400,F,17,1.11,86,5,1,1
+STD1345,Social Sciences,Economics,300,M,20,1.82,59,5,1,1
+STD1346,Science,Biology,300,F,20,3.14,77,7,0,0
+STD1347,Science,Computer Science,100,F,29,3.66,83,3,1,0
+STD1348,Education,Education Biology,300,M,23,2.88,88,8,0,0
+STD1349,Science,Chemistry,100,F,28,3.85,57,8,0,0
+STD1350,Social Sciences,Economics,300,M,30,2.41,39,0,1,0
+STD1351,Management Sciences,Accounting,300,M,22,3.0,84,5,0,0
+STD1352,Arts,History,300,F,28,4.65,67,4,1,0
+STD1353,Management Sciences,Accounting,100,F,26,3.23,91,6,1,0
+STD1354,Social Sciences,Political Science,400,F,21,1.19,20,8,0,1
+STD1355,Arts,English,400,M,20,4.55,49,0,0,1
+STD1356,Management Sciences,Business Administration,300,F,24,1.85,61,2,0,1
+STD1357,Arts,History,400,M,20,4.22,100,8,0,0
+STD1358,Social Sciences,Economics,100,F,29,3.06,99,3,1,0
+STD1359,Management Sciences,Business Administration,200,F,30,4.8,53,0,1,0
+STD1360,Science,Mathematics,100,F,25,1.74,53,4,1,1
+STD1361,Arts,English,100,M,17,1.65,79,2,1,0
+STD1362,Arts,History,400,F,22,1.62,35,0,0,1
+STD1363,Management Sciences,Accounting,100,F,22,3.16,57,3,1,0
+STD1364,Management Sciences,Accounting,100,F,24,1.01,54,6,0,1
+STD1365,Management Sciences,Business Administration,300,M,26,1.82,23,5,0,1
+STD1366,Social Sciences,Political Science,400,F,28,1.16,91,7,0,1
+STD1367,Arts,English,300,F,24,1.37,79,6,0,1
+STD1368,Science,Computer Science,200,F,24,3.05,51,4,0,0
+STD1369,Science,Biology,300,F,30,4.96,28,1,1,0
+STD1370,Education,Education Biology,400,F,17,4.91,40,1,1,0
+STD1371,Management Sciences,Business Administration,100,M,25,4.95,36,0,1,0
+STD1372,Education,Education Mathematics,200,M,25,4.01,82,1,1,0
+STD1373,Arts,English,300,F,28,4.09,82,7,1,0
+STD1374,Social Sciences,Economics,200,F,22,4.76,57,8,1,0
+STD1375,Education,Education Mathematics,400,F,26,4.4,95,6,1,0
+STD1376,Education,Education Biology,400,F,28,3.32,64,4,0,0
+STD1377,Social Sciences,Political Science,200,F,24,3.07,44,7,1,1
+STD1378,Arts,History,200,F,29,3.44,29,4,1,1
+STD1379,Social Sciences,Economics,400,M,23,4.41,39,4,1,1
+STD1380,Science,Computer Science,300,F,22,4.02,34,7,0,1
+STD1381,Science,Chemistry,400,F,26,2.23,72,6,0,0
+STD1382,Arts,History,100,M,22,4.88,62,6,1,0
+STD1383,Education,Education Mathematics,200,F,18,1.44,86,3,0,1
+STD1384,Social Sciences,Political Science,100,F,24,1.39,51,4,1,1
+STD1385,Science,Computer Science,100,F,23,1.71,60,5,0,1
+STD1386,Education,Education Mathematics,100,F,17,4.75,83,6,1,0
+STD1387,Science,Chemistry,300,M,24,3.98,74,4,0,0
+STD1388,Arts,English,200,F,24,2.01,24,2,0,1
+STD1389,Management Sciences,Business Administration,100,M,29,0.72,25,2,1,1
+STD1390,Social Sciences,Economics,400,F,27,4.76,57,6,1,0
+STD1391,Arts,History,200,M,25,3.89,58,2,1,0
+STD1392,Arts,History,400,M,24,3.68,24,0,1,0
+STD1393,Education,Education Biology,300,M,25,0.69,91,5,0,1
+STD1394,Science,Biology,100,F,21,2.23,42,5,1,1
+STD1395,Social Sciences,Economics,400,M,21,2.2,80,5,1,0
+STD1396,Education,Education Biology,400,F,20,0.66,42,3,1,1
+STD1397,Arts,English,200,F,18,1.08,79,6,1,1
+STD1398,Social Sciences,Political Science,200,M,21,0.83,92,5,1,1
+STD1399,Science,Chemistry,400,F,21,1.83,42,0,1,1
+STD1400,Arts,English,400,M,18,0.75,76,3,1,0
+STD1401,Social Sciences,Political Science,400,M,29,0.83,54,5,0,1
+STD1402,Social Sciences,Economics,300,M,24,4.9,100,3,1,0
+STD1403,Education,Education Mathematics,300,F,30,4.06,69,1,1,0
+STD1404,Arts,English,200,M,27,4.88,44,2,1,0
+STD1405,Education,Education Biology,400,M,26,3.36,35,8,1,1
+STD1406,Education,Education Mathematics,200,F,19,1.55,92,1,0,1
+STD1407,Management Sciences,Business Administration,100,M,18,0.91,46,1,1,1
+STD1408,Education,Education Mathematics,300,F,18,3.0,58,5,0,0
+STD1409,Education,Education Mathematics,100,F,27,3.67,20,5,0,1
+STD1410,Management Sciences,Business Administration,100,F,22,4.35,55,6,1,0
+STD1411,Science,Biology,100,F,26,4.72,60,6,0,0
+STD1412,Social Sciences,Economics,100,M,25,0.87,79,6,1,1
+STD1413,Social Sciences,Economics,300,F,20,1.93,39,7,0,1
+STD1414,Education,Education Biology,300,F,23,4.28,65,0,1,0
+STD1415,Arts,English,200,F,23,2.39,70,6,1,0
+STD1416,Education,Education Biology,200,F,27,4.08,100,1,1,0
+STD1417,Management Sciences,Business Administration,100,F,24,3.41,61,4,1,0
+STD1418,Education,Education Biology,300,F,30,4.28,85,4,1,0
+STD1419,Science,Biology,400,F,19,3.65,51,7,1,0
+STD1420,Science,Chemistry,400,F,18,3.38,68,7,1,0
+STD1421,Management Sciences,Business Administration,300,F,25,2.26,92,8,1,0
+STD1422,Arts,History,400,F,29,1.58,44,5,1,1
+STD1423,Science,Chemistry,100,F,21,0.85,40,1,0,1
+STD1424,Science,Mathematics,400,M,25,1.76,92,1,1,0
+STD1425,Science,Chemistry,200,F,20,4.97,97,4,1,0
+STD1426,Arts,English,200,F,22,3.48,83,0,1,0
+STD1427,Management Sciences,Accounting,200,F,24,3.95,72,0,1,0
+STD1428,Management Sciences,Accounting,100,F,17,3.07,62,4,0,0
+STD1429,Arts,English,300,M,27,3.89,64,0,0,0
+STD1430,Science,Biology,200,F,18,2.52,42,1,1,0
+STD1431,Social Sciences,Political Science,300,M,17,0.75,45,0,0,1
+STD1432,Education,Education Mathematics,100,M,22,3.02,43,6,0,1
+STD1433,Social Sciences,Political Science,300,M,28,1.03,79,1,0,1
+STD1434,Arts,History,400,M,29,3.09,68,0,1,0
+STD1435,Science,Biology,400,F,21,2.34,31,3,1,0
+STD1436,Social Sciences,Economics,300,F,20,1.68,100,8,0,1
+STD1437,Social Sciences,Economics,200,M,27,3.39,60,7,0,0
+STD1438,Management Sciences,Business Administration,400,M,28,2.51,89,4,1,0
+STD1439,Management Sciences,Business Administration,100,M,28,4.09,96,7,0,0
+STD1440,Social Sciences,Economics,300,F,21,2.63,65,5,0,0
+STD1441,Social Sciences,Economics,400,M,18,4.07,40,4,1,1
+STD1442,Education,Education Mathematics,300,M,21,3.4,85,1,1,0
+STD1443,Science,Mathematics,100,M,24,1.94,89,0,0,1
+STD1444,Arts,English,400,M,28,0.92,99,5,0,1
+STD1445,Management Sciences,Accounting,400,M,24,1.77,94,5,0,1
+STD1446,Science,Chemistry,100,F,27,4.87,83,4,0,0
+STD1447,Education,Education Mathematics,100,M,30,3.01,49,3,1,0
+STD1448,Social Sciences,Economics,300,M,30,4.95,100,6,0,0
+STD1449,Arts,History,200,F,25,3.3,97,8,1,0
+STD1450,Science,Biology,300,M,19,4.67,85,3,1,0
+STD1451,Science,Mathematics,100,F,21,3.77,86,1,0,0
+STD1452,Science,Computer Science,400,M,24,4.54,43,7,0,1
+STD1453,Arts,English,400,F,19,0.77,64,1,0,1
+STD1454,Management Sciences,Accounting,200,M,30,0.94,68,1,1,0
+STD1455,Education,Education Biology,100,F,17,3.17,51,6,0,0
+STD1456,Education,Education Biology,300,M,30,4.31,59,4,1,0
+STD1457,Social Sciences,Economics,300,F,21,3.37,68,6,1,0
+STD1458,Education,Education Mathematics,400,F,20,2.31,85,1,0,0
+STD1459,Management Sciences,Business Administration,400,M,26,4.41,59,3,1,0
+STD1460,Science,Mathematics,100,F,17,1.78,49,4,1,1
+STD1461,Science,Computer Science,400,F,22,2.0,55,3,0,0
+STD1462,Science,Biology,200,M,27,2.2,32,5,1,1
+STD1463,Arts,History,300,M,22,0.53,55,3,0,1
+STD1464,Science,Chemistry,100,F,29,3.46,28,1,0,1
+STD1465,Management Sciences,Accounting,200,F,20,4.86,83,1,0,0
+STD1466,Arts,History,300,M,18,1.42,74,5,1,1
+STD1467,Education,Education Biology,200,F,25,3.04,44,6,0,1
+STD1468,Education,Education Mathematics,400,F,29,2.15,48,2,1,0
+STD1469,Management Sciences,Business Administration,400,F,17,2.94,49,4,1,1
+STD1470,Education,Education Mathematics,400,F,30,2.57,76,6,0,0
+STD1471,Management Sciences,Business Administration,300,M,30,1.22,84,7,1,1
+STD1472,Science,Mathematics,200,F,18,4.03,21,4,1,1
+STD1473,Education,Education Mathematics,300,F,22,4.32,40,1,1,0
+STD1474,Education,Education Biology,300,M,25,2.89,77,0,1,0
+STD1475,Social Sciences,Political Science,300,F,23,2.02,38,8,0,1
+STD1476,Management Sciences,Accounting,400,M,29,1.75,68,5,1,1
+STD1477,Education,Education Mathematics,300,F,26,3.07,98,5,1,0
+STD1478,Arts,History,300,F,20,3.04,73,4,1,0
+STD1479,Management Sciences,Business Administration,200,M,30,2.07,94,7,0,0
+STD1480,Education,Education Mathematics,400,F,21,2.96,89,4,0,0
+STD1481,Social Sciences,Economics,400,F,18,4.52,60,3,0,0
+STD1482,Arts,History,300,M,19,4.18,94,0,0,0
+STD1483,Arts,History,400,M,19,4.64,65,5,1,0
+STD1484,Education,Education Mathematics,100,F,21,2.46,77,8,0,0
+STD1485,Social Sciences,Political Science,400,F,23,1.8,38,4,1,1
+STD1486,Management Sciences,Accounting,200,F,28,1.38,20,5,1,1
+STD1487,Arts,History,200,M,30,1.42,31,1,1,1
+STD1488,Social Sciences,Political Science,200,F,29,4.73,70,0,1,0
+STD1489,Arts,History,100,F,21,4.06,21,4,1,1
+STD1490,Arts,English,300,F,27,0.66,47,5,0,1
+STD1491,Arts,English,300,F,23,2.53,75,6,1,0
+STD1492,Education,Education Mathematics,100,M,28,3.27,90,2,0,0
+STD1493,Social Sciences,Political Science,100,M,29,2.48,27,5,0,1
+STD1494,Arts,History,400,F,27,2.36,20,5,0,1
+STD1495,Management Sciences,Business Administration,200,M,24,1.72,91,1,0,1
+STD1496,Management Sciences,Business Administration,100,F,18,4.46,39,7,0,1
+STD1497,Management Sciences,Accounting,300,F,22,3.82,27,4,1,1
+STD1498,Social Sciences,Political Science,400,F,28,3.9,84,6,1,0
+STD1499,Social Sciences,Economics,300,F,19,1.47,30,0,1,1
+STD1500,Education,Education Mathematics,100,M,18,1.33,73,3,1,0
+STD1501,Arts,History,300,M,29,1.85,40,3,1,1
+STD1502,Science,Chemistry,300,M,23,3.09,45,4,0,1
+STD1503,Management Sciences,Accounting,300,F,26,1.62,75,2,1,0
+STD1504,Science,Chemistry,300,M,20,1.24,65,5,1,1
+STD1505,Social Sciences,Political Science,200,F,26,2.17,50,4,0,0
+STD1506,Arts,History,300,M,19,4.42,78,8,1,0
+STD1507,Arts,History,400,F,21,1.27,42,0,0,1
+STD1508,Arts,History,400,F,24,4.83,95,0,1,0
+STD1509,Arts,English,100,M,19,3.09,25,6,0,1
+STD1510,Management Sciences,Business Administration,300,F,24,2.09,74,6,1,0
+STD1511,Arts,English,400,F,20,4.56,85,6,1,0
+STD1512,Management Sciences,Business Administration,300,M,17,2.59,21,7,0,1
+STD1513,Science,Biology,400,M,25,4.42,66,3,1,0
+STD1514,Management Sciences,Business Administration,300,F,25,4.68,20,4,1,1
+STD1515,Arts,English,100,M,17,4.35,47,4,1,1
+STD1516,Science,Chemistry,100,F,30,3.18,26,6,1,1
+STD1517,Management Sciences,Accounting,100,F,20,1.17,27,3,0,1
+STD1518,Arts,English,200,M,17,1.19,60,1,0,1
+STD1519,Social Sciences,Economics,100,F,19,2.51,49,4,1,1
+STD1520,Social Sciences,Economics,400,M,21,3.53,26,5,1,1
+STD1521,Management Sciences,Accounting,300,F,30,2.52,34,4,1,1
+STD1522,Education,Education Biology,400,M,24,4.38,24,3,0,1
+STD1523,Arts,English,100,M,25,2.88,87,3,1,0
+STD1524,Science,Computer Science,300,F,24,0.6,49,0,1,1
+STD1525,Arts,History,200,M,27,1.07,46,7,0,1
+STD1526,Arts,English,100,M,21,2.31,30,4,1,1
+STD1527,Science,Chemistry,100,M,29,2.86,34,4,0,1
+STD1528,Arts,History,400,M,24,0.85,87,1,1,0
+STD1529,Education,Education Mathematics,400,F,20,1.69,88,5,1,1
+STD1530,Science,Mathematics,200,F,19,1.56,97,0,1,0
+STD1531,Science,Biology,300,M,27,4.67,69,0,0,0
+STD1532,Management Sciences,Accounting,100,M,17,0.93,42,0,1,1
+STD1533,Science,Computer Science,400,M,29,1.76,91,1,1,0
+STD1534,Social Sciences,Economics,200,M,25,0.53,86,4,1,1
+STD1535,Arts,History,100,F,18,4.84,80,7,1,0
+STD1536,Arts,English,400,M,26,3.27,32,5,0,1
+STD1537,Social Sciences,Economics,200,F,26,4.72,75,1,1,0
+STD1538,Management Sciences,Business Administration,300,F,25,1.86,80,2,1,0
+STD1539,Management Sciences,Accounting,200,F,29,2.88,27,4,0,1
+STD1540,Social Sciences,Political Science,400,M,19,4.92,38,1,0,1
+STD1541,Management Sciences,Business Administration,400,M,24,2.26,26,6,0,1
+STD1542,Science,Biology,200,M,17,1.5,34,4,0,1
+STD1543,Arts,History,100,F,20,1.85,86,5,1,1
+STD1544,Social Sciences,Political Science,100,M,27,1.99,52,6,0,1
+STD1545,Science,Computer Science,400,F,24,4.03,64,1,0,0
+STD1546,Arts,History,200,F,25,1.79,51,6,1,1
+STD1547,Science,Biology,400,F,19,3.48,31,5,0,1
+STD1548,Education,Education Mathematics,300,M,26,1.61,44,5,0,1
+STD1549,Arts,English,400,M,30,4.47,61,3,1,0
+STD1550,Social Sciences,Political Science,200,F,25,3.82,28,0,1,0
+STD1551,Social Sciences,Economics,200,M,20,3.68,67,6,0,0
+STD1552,Science,Computer Science,300,F,26,2.75,61,8,0,0
+STD1553,Education,Education Mathematics,300,F,21,1.57,28,1,1,1
+STD1554,Education,Education Mathematics,400,M,26,1.61,43,8,1,1
+STD1555,Management Sciences,Business Administration,400,F,27,2.27,46,3,1,0
+STD1556,Arts,English,300,F,25,1.35,73,4,0,1
+STD1557,Arts,History,400,M,18,2.23,94,8,1,0
+STD1558,Social Sciences,Economics,300,M,30,1.29,75,7,0,1
+STD1559,Management Sciences,Business Administration,200,M,25,1.17,30,2,0,1
+STD1560,Social Sciences,Economics,400,F,27,1.13,78,3,0,1
+STD1561,Arts,History,400,M,21,3.8,54,6,1,0
+STD1562,Management Sciences,Business Administration,400,M,30,2.76,72,7,0,0
+STD1563,Arts,English,400,F,17,0.59,92,1,0,1
+STD1564,Management Sciences,Accounting,400,M,19,0.82,23,1,0,1
+STD1565,Science,Computer Science,300,F,24,1.85,61,3,1,0
+STD1566,Education,Education Mathematics,400,F,21,3.23,50,5,0,0
+STD1567,Science,Biology,200,M,19,1.55,67,5,0,1
+STD1568,Social Sciences,Political Science,400,M,24,1.58,94,6,1,1
+STD1569,Social Sciences,Political Science,200,F,24,0.94,60,3,0,1
+STD1570,Arts,History,400,M,29,3.14,23,5,0,1
+STD1571,Social Sciences,Economics,300,F,22,3.22,30,5,0,1
+STD1572,Management Sciences,Business Administration,200,M,27,3.99,32,4,0,1
+STD1573,Science,Computer Science,100,M,20,4.52,95,8,1,0
+STD1574,Science,Biology,300,F,29,4.2,63,4,0,0
+STD1575,Arts,English,300,M,23,4.5,77,1,0,0
+STD1576,Management Sciences,Accounting,300,F,20,2.96,100,7,1,0
+STD1577,Arts,English,400,F,26,4.74,88,7,0,0
+STD1578,Education,Education Biology,100,F,28,0.98,35,3,0,1
+STD1579,Management Sciences,Business Administration,100,M,26,2.9,93,7,1,0
+STD1580,Science,Biology,100,M,21,4.61,78,7,0,0
+STD1581,Social Sciences,Economics,300,F,26,2.66,47,4,0,1
+STD1582,Education,Education Biology,200,F,28,4.85,71,5,1,0
+STD1583,Arts,English,100,F,20,3.4,84,8,1,0
+STD1584,Education,Education Biology,300,M,17,3.46,48,8,0,1
+STD1585,Arts,English,100,M,18,4.35,61,4,0,0
+STD1586,Education,Education Mathematics,300,M,20,4.92,55,0,0,0
+STD1587,Arts,History,200,M,22,0.93,47,3,1,1
+STD1588,Education,Education Biology,100,M,25,3.05,66,3,0,0
+STD1589,Social Sciences,Political Science,200,F,27,1.67,78,8,1,1
+STD1590,Social Sciences,Economics,100,F,28,1.15,75,6,1,1
+STD1591,Science,Biology,300,F,22,1.74,71,2,1,0
+STD1592,Management Sciences,Accounting,200,F,18,3.02,79,8,1,0
+STD1593,Management Sciences,Business Administration,100,M,19,1.37,45,8,1,1
+STD1594,Science,Chemistry,200,M,22,0.56,97,4,0,1
+STD1595,Education,Education Mathematics,100,F,30,4.75,61,6,0,0
+STD1596,Arts,English,100,F,29,3.32,67,6,0,0
+STD1597,Education,Education Biology,100,F,30,0.83,42,6,1,1
+STD1598,Science,Biology,400,M,26,0.8,30,2,0,1
+STD1599,Science,Biology,300,M,21,2.69,94,2,1,0
+STD1600,Social Sciences,Political Science,100,F,23,1.03,64,6,1,1
+STD1601,Education,Education Mathematics,100,F,21,2.8,55,1,1,0
+STD1602,Social Sciences,Economics,200,F,19,4.27,35,6,0,1
+STD1603,Arts,English,200,M,28,1.18,34,6,1,1
+STD1604,Education,Education Biology,200,F,21,4.31,90,8,1,0
+STD1605,Arts,History,400,M,21,3.56,95,4,1,0
+STD1606,Science,Computer Science,200,M,27,0.58,24,6,0,1
+STD1607,Management Sciences,Accounting,300,F,19,3.1,80,7,1,0
+STD1608,Education,Education Mathematics,400,F,27,2.99,62,2,1,0
+STD1609,Management Sciences,Accounting,400,F,25,1.5,29,8,1,1
+STD1610,Science,Biology,400,F,28,1.99,85,1,1,0
+STD1611,Arts,English,100,F,20,2.97,27,8,0,1
+STD1612,Management Sciences,Accounting,200,F,30,1.96,94,3,1,0
+STD1613,Management Sciences,Accounting,400,F,25,1.51,39,8,1,1
+STD1614,Social Sciences,Economics,100,F,22,3.8,86,2,0,0
+STD1615,Science,Computer Science,400,F,19,3.74,49,5,0,1
+STD1616,Social Sciences,Political Science,400,M,27,0.77,38,0,1,1
+STD1617,Social Sciences,Economics,100,F,22,3.82,49,6,0,1
+STD1618,Management Sciences,Business Administration,100,M,25,2.02,90,3,1,0
+STD1619,Social Sciences,Economics,100,M,18,1.69,56,6,0,1
+STD1620,Education,Education Mathematics,100,F,24,2.39,97,5,0,0
+STD1621,Social Sciences,Economics,300,F,18,4.79,65,2,0,0
+STD1622,Science,Biology,300,M,23,1.04,26,8,1,1
+STD1623,Management Sciences,Business Administration,100,F,26,0.96,73,2,0,1
+STD1624,Arts,English,300,F,29,2.77,35,7,0,1
+STD1625,Arts,English,400,M,22,0.81,25,7,1,1
+STD1626,Arts,History,100,M,28,2.74,56,3,0,0
+STD1627,Social Sciences,Political Science,400,M,29,2.06,81,7,1,0
+STD1628,Education,Education Mathematics,100,F,26,2.88,64,4,0,0
+STD1629,Social Sciences,Political Science,400,F,22,2.49,74,6,0,0
+STD1630,Education,Education Mathematics,100,M,22,2.7,87,2,0,0
+STD1631,Science,Mathematics,200,F,29,1.7,84,5,0,1
+STD1632,Social Sciences,Economics,300,F,20,3.65,68,5,0,0
+STD1633,Education,Education Mathematics,400,M,27,2.01,39,3,0,1
+STD1634,Arts,English,300,M,25,2.56,49,1,0,1
+STD1635,Social Sciences,Economics,300,M,27,3.94,62,6,0,0
+STD1636,Education,Education Biology,400,F,26,3.26,50,6,1,0
+STD1637,Science,Mathematics,400,M,23,4.23,87,6,0,0
+STD1638,Arts,History,100,M,28,2.42,81,6,0,0
+STD1639,Science,Chemistry,300,F,28,0.65,20,1,0,1
+STD1640,Social Sciences,Political Science,100,M,22,0.64,83,1,0,1
+STD1641,Education,Education Mathematics,300,F,17,2.78,29,6,0,1
+STD1642,Science,Chemistry,400,F,21,4.39,30,4,1,1
+STD1643,Arts,English,400,F,29,4.03,88,8,1,0
+STD1644,Management Sciences,Business Administration,200,M,27,4.67,45,2,1,0
+STD1645,Science,Biology,100,M,29,2.69,92,5,1,0
+STD1646,Science,Mathematics,400,F,23,3.94,72,5,0,0
+STD1647,Social Sciences,Political Science,300,M,20,0.63,77,3,0,1
+STD1648,Social Sciences,Economics,200,M,20,3.11,42,4,1,1
+STD1649,Science,Computer Science,300,M,24,3.48,68,4,0,0
+STD1650,Management Sciences,Accounting,100,M,19,3.63,32,3,0,1
+STD1651,Management Sciences,Accounting,200,F,23,4.73,61,4,1,0
+STD1652,Social Sciences,Economics,300,F,29,1.29,82,5,1,1
+STD1653,Social Sciences,Political Science,200,F,20,0.52,57,5,0,1
+STD1654,Science,Computer Science,400,M,20,2.75,62,8,1,0
+STD1655,Arts,History,200,F,19,3.9,100,3,0,0
+STD1656,Social Sciences,Political Science,200,F,25,1.33,73,6,0,1
+STD1657,Social Sciences,Economics,100,F,28,1.57,96,5,1,1
+STD1658,Arts,English,200,M,27,3.37,57,0,1,0
+STD1659,Social Sciences,Economics,100,M,23,1.26,34,3,0,1
+STD1660,Social Sciences,Political Science,200,F,21,1.37,33,7,0,1
+STD1661,Arts,History,300,F,17,0.63,30,6,1,1
+STD1662,Arts,English,400,F,21,0.68,79,0,1,0
+STD1663,Social Sciences,Political Science,300,M,30,2.02,51,2,1,0
+STD1664,Management Sciences,Business Administration,200,F,29,4.59,39,4,1,1
+STD1665,Arts,History,200,M,21,0.57,44,7,0,1
+STD1666,Arts,History,300,M,20,2.69,22,7,1,1
+STD1667,Education,Education Biology,300,M,21,2.54,87,0,1,0
+STD1668,Education,Education Biology,300,F,25,2.78,94,7,1,0
+STD1669,Arts,English,300,M,21,4.56,37,1,1,0
+STD1670,Social Sciences,Political Science,400,M,23,1.06,52,6,1,1
+STD1671,Social Sciences,Political Science,300,F,26,1.29,24,3,1,1
+STD1672,Arts,History,400,M,25,4.61,74,4,0,0
+STD1673,Arts,English,300,F,18,2.38,74,5,1,0
+STD1674,Arts,History,200,M,20,3.2,66,2,1,0
+STD1675,Education,Education Biology,400,F,19,2.57,34,4,1,1
+STD1676,Education,Education Biology,200,F,26,1.12,83,1,1,0
+STD1677,Management Sciences,Business Administration,200,M,30,3.29,57,5,1,0
+STD1678,Management Sciences,Business Administration,300,M,25,4.98,32,6,0,1
+STD1679,Social Sciences,Political Science,200,M,28,4.55,64,2,0,0
+STD1680,Social Sciences,Economics,200,F,29,2.64,64,0,1,0
+STD1681,Management Sciences,Business Administration,300,F,18,4.03,94,7,0,0
+STD1682,Management Sciences,Business Administration,300,M,25,0.54,59,1,0,1
+STD1683,Arts,History,100,M,27,4.41,52,3,1,0
+STD1684,Social Sciences,Political Science,200,F,24,4.73,57,7,0,0
+STD1685,Education,Education Mathematics,100,M,25,1.23,64,0,1,0
+STD1686,Social Sciences,Political Science,400,F,26,4.56,85,2,0,0
+STD1687,Education,Education Mathematics,300,F,26,3.2,71,2,0,0
+STD1688,Arts,English,200,M,18,1.88,30,5,0,1
+STD1689,Arts,History,300,M,20,3.93,20,2,1,0
+STD1690,Arts,History,300,F,30,1.21,34,3,1,1
+STD1691,Arts,History,400,M,26,3.37,51,6,1,0
+STD1692,Management Sciences,Accounting,400,M,26,2.36,83,0,1,0
+STD1693,Management Sciences,Accounting,400,F,17,2.79,81,2,1,0
+STD1694,Social Sciences,Political Science,100,M,22,4.32,100,2,1,0
+STD1695,Arts,English,100,F,17,2.79,36,3,1,0
+STD1696,Management Sciences,Accounting,100,M,23,2.4,25,5,0,1
+STD1697,Management Sciences,Business Administration,300,F,22,1.4,76,8,0,1
+STD1698,Social Sciences,Political Science,300,F,27,0.71,91,6,0,1
+STD1699,Management Sciences,Business Administration,400,M,18,1.98,70,0,1,0
+STD1700,Arts,History,200,F,27,3.15,70,4,0,0
+STD1701,Management Sciences,Business Administration,300,F,26,2.55,82,7,0,0
+STD1702,Social Sciences,Economics,400,F,22,3.72,33,2,0,1
+STD1703,Management Sciences,Accounting,300,M,19,3.27,86,5,0,0
+STD1704,Science,Mathematics,300,M,30,2.2,90,7,0,0
+STD1705,Social Sciences,Political Science,400,M,24,1.61,67,5,1,1
+STD1706,Education,Education Mathematics,200,M,23,0.69,36,6,0,1
+STD1707,Social Sciences,Economics,100,F,18,4.79,28,3,0,1
+STD1708,Arts,History,300,F,29,4.13,81,3,1,0
+STD1709,Science,Computer Science,200,M,24,2.07,59,7,0,0
+STD1710,Management Sciences,Accounting,100,M,18,0.55,38,2,1,1
+STD1711,Management Sciences,Business Administration,100,F,25,2.94,36,3,0,1
+STD1712,Social Sciences,Political Science,400,M,23,4.3,71,1,0,0
+STD1713,Education,Education Biology,200,M,21,4.27,30,5,1,1
+STD1714,Science,Computer Science,300,F,28,1.46,61,1,1,0
+STD1715,Science,Computer Science,100,M,23,2.34,38,7,0,1
+STD1716,Social Sciences,Economics,300,F,29,1.95,39,7,1,1
+STD1717,Social Sciences,Economics,300,F,25,4.49,60,8,0,0
+STD1718,Science,Computer Science,200,M,23,4.91,61,1,1,0
+STD1719,Social Sciences,Political Science,400,F,22,4.85,36,0,0,1
+STD1720,Arts,History,400,M,28,3.93,77,0,0,0
+STD1721,Management Sciences,Business Administration,400,M,25,0.86,29,3,1,1
+STD1722,Management Sciences,Accounting,200,F,23,1.85,40,3,0,1
+STD1723,Education,Education Biology,400,F,18,3.11,73,2,0,0
+STD1724,Social Sciences,Economics,400,F,28,2.48,33,1,1,0
+STD1725,Social Sciences,Economics,400,M,26,3.2,41,3,0,1
+STD1726,Management Sciences,Business Administration,100,F,25,4.41,38,1,1,0
+STD1727,Education,Education Mathematics,100,F,19,2.69,38,0,0,1
+STD1728,Social Sciences,Economics,100,F,20,1.23,93,6,1,1
+STD1729,Management Sciences,Accounting,400,M,22,0.69,86,6,1,1
+STD1730,Management Sciences,Accounting,200,M,22,2.31,70,0,0,0
+STD1731,Social Sciences,Political Science,200,M,21,4.49,71,1,1,0
+STD1732,Education,Education Biology,200,M,23,1.29,33,8,0,1
+STD1733,Science,Mathematics,200,F,26,1.71,28,0,1,1
+STD1734,Arts,History,200,M,25,4.33,38,7,1,1
+STD1735,Management Sciences,Business Administration,100,F,20,2.85,30,4,0,1
+STD1736,Science,Computer Science,200,F,23,2.74,65,5,1,0
+STD1737,Social Sciences,Economics,400,M,21,1.7,28,4,0,1
+STD1738,Management Sciences,Accounting,200,M,27,1.38,20,2,0,1
+STD1739,Education,Education Biology,300,M,19,4.65,65,2,1,0
+STD1740,Arts,English,200,F,30,4.9,60,3,1,0
+STD1741,Education,Education Mathematics,200,F,24,2.21,22,7,1,1
+STD1742,Management Sciences,Accounting,100,M,23,3.7,94,5,1,0
+STD1743,Education,Education Mathematics,200,M,22,2.15,79,6,0,0
+STD1744,Arts,English,400,F,30,2.74,66,3,1,0
+STD1745,Management Sciences,Business Administration,200,F,22,3.6,96,1,0,0
+STD1746,Social Sciences,Political Science,300,F,27,0.92,25,6,0,1
+STD1747,Management Sciences,Business Administration,400,F,24,2.12,66,2,1,0
+STD1748,Science,Chemistry,100,M,23,3.38,46,2,0,1
+STD1749,Arts,History,300,M,25,1.83,77,4,1,1
+STD1750,Arts,History,100,F,18,3.67,88,8,0,0
+STD1751,Education,Education Biology,400,M,30,2.91,39,1,1,0
+STD1752,Science,Computer Science,100,M,29,2.17,68,3,0,0
+STD1753,Education,Education Biology,200,M,24,2.24,79,6,0,0
+STD1754,Education,Education Mathematics,100,F,17,4.64,81,1,1,0
+STD1755,Social Sciences,Political Science,100,F,24,4.05,49,6,0,1
+STD1756,Social Sciences,Political Science,200,F,17,3.17,48,2,0,1
+STD1757,Science,Chemistry,400,F,30,0.65,88,8,1,1
+STD1758,Education,Education Mathematics,300,F,30,4.62,20,0,0,1
+STD1759,Social Sciences,Political Science,200,F,24,1.85,100,6,1,1
+STD1760,Management Sciences,Accounting,200,F,17,3.99,75,5,0,0
+STD1761,Education,Education Biology,200,F,27,0.95,94,6,1,1
+STD1762,Science,Biology,400,F,21,3.86,54,1,1,0
+STD1763,Science,Computer Science,100,M,19,2.05,82,3,0,0
+STD1764,Management Sciences,Business Administration,300,F,25,1.55,78,0,1,0
+STD1765,Science,Biology,200,M,19,2.61,40,0,0,1
+STD1766,Science,Biology,400,M,28,0.9,65,0,1,0
+STD1767,Science,Computer Science,100,F,17,3.15,47,6,1,1
+STD1768,Management Sciences,Business Administration,100,M,18,3.42,25,8,1,1
+STD1769,Social Sciences,Political Science,200,M,18,4.95,50,4,0,0
+STD1770,Arts,English,100,F,29,4.9,41,2,0,1
+STD1771,Education,Education Biology,100,M,17,2.86,69,2,1,0
+STD1772,Social Sciences,Political Science,200,F,22,0.57,30,1,0,1
+STD1773,Education,Education Biology,200,M,19,1.95,48,3,0,1
+STD1774,Management Sciences,Accounting,200,F,23,3.27,97,2,0,0
+STD1775,Science,Mathematics,200,M,25,2.97,34,1,1,0
+STD1776,Education,Education Biology,400,M,18,4.81,64,5,1,0
+STD1777,Management Sciences,Business Administration,200,M,24,2.55,21,5,0,1
+STD1778,Social Sciences,Economics,400,M,26,4.22,54,3,1,0
+STD1779,Science,Computer Science,300,M,28,1.36,43,0,1,1
+STD1780,Science,Chemistry,100,M,30,2.63,61,6,1,0
+STD1781,Social Sciences,Political Science,400,M,17,0.8,45,1,1,1
+STD1782,Arts,English,300,M,18,3.19,28,6,0,1
+STD1783,Social Sciences,Political Science,400,M,21,1.43,43,6,0,1
+STD1784,Arts,History,300,M,26,3.31,83,1,0,0
+STD1785,Social Sciences,Economics,100,M,24,2.97,23,0,1,0
+STD1786,Management Sciences,Business Administration,100,M,29,2.78,62,3,1,0
+STD1787,Science,Chemistry,100,M,23,0.72,39,4,0,1
+STD1788,Management Sciences,Accounting,400,F,29,2.67,47,5,0,1
+STD1789,Arts,History,400,F,27,1.38,77,8,1,1
+STD1790,Social Sciences,Economics,400,M,21,2.72,45,6,0,1
+STD1791,Management Sciences,Business Administration,400,M,28,3.01,54,0,1,0
+STD1792,Social Sciences,Political Science,300,M,29,4.41,47,2,1,0
+STD1793,Social Sciences,Political Science,400,F,19,2.28,42,0,0,1
+STD1794,Arts,History,400,M,17,2.94,87,7,1,0
+STD1795,Arts,English,400,M,24,2.93,89,7,1,0
+STD1796,Education,Education Mathematics,100,F,20,1.45,62,4,0,1
+STD1797,Science,Chemistry,400,M,26,4.03,55,8,1,0
+STD1798,Social Sciences,Economics,200,M,19,0.94,87,7,0,1
+STD1799,Science,Chemistry,400,M,22,4.9,30,3,1,0
+STD1800,Social Sciences,Political Science,300,M,24,1.04,45,7,1,1
+STD1801,Education,Education Mathematics,400,F,24,3.0,90,6,0,0
+STD1802,Arts,English,200,F,27,2.39,55,0,0,0
+STD1803,Arts,History,100,M,17,1.21,76,4,1,1
+STD1804,Science,Biology,300,M,21,1.63,52,1,0,1
+STD1805,Education,Education Mathematics,200,F,24,1.64,88,5,1,1
+STD1806,Management Sciences,Business Administration,400,M,22,1.81,68,7,0,1
+STD1807,Science,Chemistry,100,F,20,4.64,69,0,0,0
+STD1808,Education,Education Biology,400,M,23,1.94,33,6,1,1
+STD1809,Education,Education Mathematics,100,M,28,2.02,38,5,0,1
+STD1810,Education,Education Mathematics,100,M,25,3.96,23,5,1,1
+STD1811,Science,Mathematics,100,F,20,0.85,93,0,1,0
+STD1812,Management Sciences,Business Administration,300,M,29,3.29,71,4,1,0
+STD1813,Social Sciences,Political Science,400,F,17,4.33,36,0,0,1
+STD1814,Arts,History,100,M,18,1.22,89,2,0,1
+STD1815,Social Sciences,Political Science,400,F,25,2.27,63,2,1,0
+STD1816,Science,Computer Science,300,M,23,1.63,97,6,1,1
+STD1817,Social Sciences,Economics,100,F,22,0.81,23,0,0,1
+STD1818,Education,Education Biology,400,M,26,2.74,67,8,0,0
+STD1819,Arts,English,400,M,26,3.09,20,0,0,1
+STD1820,Education,Education Biology,100,F,23,4.72,89,6,1,0
+STD1821,Education,Education Mathematics,200,F,30,4.82,60,6,0,0
+STD1822,Arts,English,100,M,20,2.78,28,4,0,1
+STD1823,Social Sciences,Economics,400,F,27,0.6,53,2,0,1
+STD1824,Social Sciences,Economics,200,M,25,1.35,51,8,1,1
+STD1825,Social Sciences,Political Science,200,F,26,3.54,65,8,1,0
+STD1826,Education,Education Biology,200,M,25,2.01,49,6,0,1
+STD1827,Education,Education Mathematics,300,F,23,2.89,100,8,1,0
+STD1828,Social Sciences,Political Science,200,M,25,4.55,99,6,1,0
+STD1829,Education,Education Mathematics,200,M,25,4.87,36,2,0,1
+STD1830,Management Sciences,Accounting,400,F,20,3.31,60,2,0,0
+STD1831,Education,Education Mathematics,300,M,30,3.5,72,7,0,0
+STD1832,Arts,English,100,M,17,3.68,26,4,1,1
+STD1833,Arts,English,400,M,27,1.55,74,1,0,1
+STD1834,Education,Education Mathematics,200,M,29,4.51,35,7,0,1
+STD1835,Education,Education Biology,300,M,17,3.44,81,1,1,0
+STD1836,Social Sciences,Economics,300,F,30,3.84,58,5,1,0
+STD1837,Social Sciences,Economics,300,M,23,1.59,74,8,0,1
+STD1838,Arts,History,200,F,26,3.74,45,5,0,1
+STD1839,Arts,English,400,F,24,2.88,46,3,1,0
+STD1840,Education,Education Biology,200,M,25,3.88,43,7,1,1
+STD1841,Science,Mathematics,200,F,19,3.44,78,2,1,0
+STD1842,Education,Education Mathematics,300,F,24,4.53,83,2,0,0
+STD1843,Science,Computer Science,200,M,27,3.47,60,4,1,0
+STD1844,Arts,History,300,M,19,3.76,23,8,1,1
+STD1845,Social Sciences,Economics,300,M,25,2.97,87,6,1,0
+STD1846,Education,Education Biology,200,F,25,0.54,57,8,1,1
+STD1847,Education,Education Mathematics,200,M,21,1.63,22,1,1,1
+STD1848,Social Sciences,Political Science,400,M,23,2.34,33,1,1,0
+STD1849,Management Sciences,Business Administration,300,M,25,1.09,48,4,0,1
+STD1850,Science,Chemistry,300,M,17,4.36,68,1,0,0
+STD1851,Science,Chemistry,300,F,24,3.58,93,5,0,0
+STD1852,Social Sciences,Political Science,100,M,26,1.83,76,5,0,1
+STD1853,Education,Education Biology,400,M,25,4.6,65,4,1,0
+STD1854,Education,Education Mathematics,400,M,28,2.03,69,8,1,0
+STD1855,Arts,History,100,M,23,3.37,37,0,0,1
+STD1856,Social Sciences,Political Science,400,F,18,2.53,24,5,1,1
+STD1857,Education,Education Mathematics,400,M,23,4.76,63,2,1,0
+STD1858,Education,Education Biology,200,F,25,1.57,80,1,0,1
+STD1859,Science,Mathematics,200,F,17,1.41,53,4,1,1
+STD1860,Education,Education Mathematics,100,M,20,2.23,91,7,0,0
+STD1861,Arts,History,200,M,24,4.13,80,4,1,0
+STD1862,Education,Education Mathematics,400,F,21,1.19,94,7,1,1
+STD1863,Education,Education Mathematics,200,M,30,4.38,89,4,0,0
+STD1864,Education,Education Biology,300,M,19,0.61,61,1,1,0
+STD1865,Education,Education Biology,400,M,17,3.68,45,0,0,1
+STD1866,Arts,English,400,F,23,1.84,93,0,0,1
+STD1867,Science,Mathematics,400,M,23,3.31,46,5,1,1
+STD1868,Science,Computer Science,100,M,30,2.34,52,3,1,0
+STD1869,Education,Education Biology,300,M,17,4.01,74,6,0,0
+STD1870,Science,Chemistry,200,F,22,2.02,59,5,0,0
+STD1871,Arts,History,100,M,25,1.73,21,2,0,1
+STD1872,Management Sciences,Business Administration,300,F,18,3.41,89,2,1,0
+STD1873,Education,Education Mathematics,400,F,17,1.68,54,0,1,0
+STD1874,Science,Mathematics,300,M,27,0.65,87,4,0,1
+STD1875,Management Sciences,Accounting,400,M,18,3.47,40,3,0,1
+STD1876,Education,Education Mathematics,200,M,26,1.87,59,5,1,1
+STD1877,Management Sciences,Business Administration,300,M,26,3.16,80,5,1,0
+STD1878,Arts,History,300,F,24,0.97,81,7,1,1
+STD1879,Arts,English,400,F,28,4.51,78,1,1,0
+STD1880,Science,Chemistry,400,M,25,4.01,21,0,0,1
+STD1881,Education,Education Mathematics,100,F,30,3.1,32,1,1,0
+STD1882,Education,Education Mathematics,300,F,21,4.2,77,7,1,0
+STD1883,Arts,English,100,F,19,2.55,60,7,0,0
+STD1884,Education,Education Biology,100,M,22,3.68,83,3,0,0
+STD1885,Education,Education Biology,200,M,28,4.14,29,0,0,1
+STD1886,Social Sciences,Political Science,100,F,28,1.97,64,2,1,0
+STD1887,Science,Chemistry,200,F,27,2.94,54,6,0,0
+STD1888,Arts,English,200,F,17,2.43,79,6,1,0
+STD1889,Arts,English,300,F,20,0.74,46,7,0,1
+STD1890,Management Sciences,Business Administration,400,F,23,3.44,57,6,0,0
+STD1891,Social Sciences,Economics,300,M,30,2.27,25,1,0,1
+STD1892,Management Sciences,Accounting,200,F,20,1.14,31,1,1,1
+STD1893,Science,Chemistry,300,M,28,3.98,26,7,1,1
+STD1894,Arts,English,200,F,20,2.4,40,1,0,1
+STD1895,Management Sciences,Accounting,200,M,18,4.06,85,0,0,0
+STD1896,Science,Computer Science,100,M,29,2.34,29,8,0,1
+STD1897,Arts,History,100,F,30,3.65,35,1,1,0
+STD1898,Arts,English,300,M,27,3.04,55,2,0,0
+STD1899,Arts,History,200,F,28,1.53,67,7,1,1
+STD1900,Social Sciences,Economics,400,M,20,1.61,61,1,1,0
+STD1901,Education,Education Mathematics,100,M,23,1.99,90,4,1,1
+STD1902,Social Sciences,Economics,200,F,17,4.4,73,7,0,0
+STD1903,Education,Education Mathematics,300,F,18,4.0,24,1,1,0
+STD1904,Social Sciences,Political Science,200,M,23,0.98,45,7,0,1
+STD1905,Arts,English,100,M,18,3.28,50,4,0,0
+STD1906,Arts,History,300,F,21,2.25,99,8,0,0
+STD1907,Management Sciences,Business Administration,400,F,21,3.28,69,7,1,0
+STD1908,Science,Mathematics,300,M,27,4.54,35,2,1,0
+STD1909,Science,Chemistry,400,F,25,3.24,54,4,1,0
+STD1910,Education,Education Biology,100,M,28,4.93,36,5,1,1
+STD1911,Arts,English,200,M,30,1.97,98,1,1,0
+STD1912,Arts,History,100,M,21,2.33,55,4,1,0
+STD1913,Management Sciences,Business Administration,200,M,23,1.63,81,3,0,1
+STD1914,Science,Mathematics,200,M,18,0.97,69,2,1,0
+STD1915,Education,Education Biology,300,F,17,1.69,97,0,0,1
+STD1916,Arts,English,200,M,23,4.25,46,1,0,1
+STD1917,Social Sciences,Political Science,100,F,28,3.28,67,6,0,0
+STD1918,Education,Education Mathematics,300,F,23,2.65,69,7,0,0
+STD1919,Management Sciences,Business Administration,100,M,21,1.3,72,2,1,0
+STD1920,Management Sciences,Business Administration,100,M,21,2.43,45,0,0,1
+STD1921,Social Sciences,Political Science,200,F,22,4.59,91,2,1,0
+STD1922,Social Sciences,Political Science,100,M,30,3.18,100,8,0,0
+STD1923,Arts,History,100,F,22,0.63,42,7,0,1
+STD1924,Management Sciences,Business Administration,400,F,22,4.06,87,7,1,0
+STD1925,Social Sciences,Political Science,300,F,21,4.0,62,2,0,0
+STD1926,Arts,History,200,F,26,1.2,55,6,0,1
+STD1927,Science,Computer Science,300,M,27,1.63,22,8,1,1
+STD1928,Social Sciences,Political Science,300,F,26,3.4,30,2,0,1
+STD1929,Management Sciences,Business Administration,100,F,18,0.86,35,5,1,1
+STD1930,Arts,History,300,F,27,4.17,25,8,1,1
+STD1931,Education,Education Biology,200,M,23,2.94,46,7,1,1
+STD1932,Social Sciences,Political Science,400,F,23,2.31,54,5,0,0
+STD1933,Education,Education Biology,200,M,20,0.71,84,8,0,1
+STD1934,Arts,English,400,M,18,2.61,49,4,1,1
+STD1935,Management Sciences,Business Administration,300,F,19,3.07,63,3,1,0
+STD1936,Arts,History,100,F,21,4.16,50,1,0,0
+STD1937,Arts,History,200,F,30,0.52,24,4,0,1
+STD1938,Management Sciences,Accounting,400,F,21,1.0,76,6,1,1
+STD1939,Management Sciences,Accounting,400,M,29,2.12,41,6,1,1
+STD1940,Science,Mathematics,300,M,17,3.37,25,0,0,1
+STD1941,Management Sciences,Accounting,400,M,20,3.03,69,3,0,0
+STD1942,Social Sciences,Political Science,300,M,20,1.04,57,1,0,1
+STD1943,Arts,English,300,F,30,1.84,27,1,1,1
+STD1944,Education,Education Biology,400,M,19,3.47,83,1,0,0
+STD1945,Education,Education Biology,300,M,23,0.7,81,4,1,1
+STD1946,Management Sciences,Business Administration,300,F,18,3.75,28,2,1,0
+STD1947,Social Sciences,Political Science,400,F,28,3.41,85,7,1,0
+STD1948,Education,Education Mathematics,200,F,29,2.99,31,1,0,1
+STD1949,Education,Education Biology,100,M,29,4.81,93,8,0,0
+STD1950,Social Sciences,Political Science,400,F,24,1.64,65,7,1,1
+STD1951,Management Sciences,Business Administration,100,M,28,2.24,53,4,0,0
+STD1952,Social Sciences,Political Science,400,F,23,0.93,51,8,0,1
+STD1953,Science,Biology,400,F,26,2.86,41,6,1,1
+STD1954,Arts,English,300,F,18,4.1,58,6,0,0
+STD1955,Arts,History,200,F,18,1.2,31,6,1,1
+STD1956,Education,Education Biology,400,M,27,4.55,25,6,0,1
+STD1957,Education,Education Mathematics,200,M,25,0.72,39,1,0,1
+STD1958,Management Sciences,Business Administration,400,F,18,3.9,63,6,1,0
+STD1959,Social Sciences,Economics,400,M,27,3.41,54,1,0,0
+STD1960,Education,Education Mathematics,400,F,30,3.74,68,0,1,0
+STD1961,Management Sciences,Accounting,400,F,17,3.41,77,2,1,0
+STD1962,Education,Education Biology,300,M,20,1.59,26,4,0,1
+STD1963,Management Sciences,Accounting,100,M,21,3.25,22,8,1,1
+STD1964,Arts,History,400,F,29,1.52,79,5,0,1
+STD1965,Science,Computer Science,400,M,30,1.34,38,3,0,1
+STD1966,Science,Chemistry,300,F,24,0.6,35,4,1,1
+STD1967,Management Sciences,Business Administration,300,M,22,3.44,61,4,0,0
+STD1968,Management Sciences,Accounting,400,M,24,1.32,60,3,0,1
+STD1969,Management Sciences,Accounting,300,M,27,2.34,43,0,1,0
+STD1970,Management Sciences,Business Administration,400,F,17,1.82,41,7,0,1
+STD1971,Education,Education Biology,100,M,21,3.63,38,5,0,1
+STD1972,Education,Education Mathematics,400,F,22,4.28,70,2,1,0
+STD1973,Management Sciences,Business Administration,300,M,24,0.94,31,7,0,1
+STD1974,Science,Biology,300,F,23,4.22,91,8,0,0
+STD1975,Arts,English,300,F,23,4.08,98,2,0,0
+STD1976,Arts,History,300,F,27,4.47,100,1,1,0
+STD1977,Education,Education Biology,100,M,20,2.22,39,5,0,1
+STD1978,Social Sciences,Political Science,300,F,24,4.0,31,7,1,1
+STD1979,Arts,History,100,M,24,0.61,88,0,0,1
+STD1980,Science,Chemistry,400,F,26,2.63,47,5,1,1
+STD1981,Arts,History,100,M,28,3.5,42,1,1,0
+STD1982,Arts,English,100,M,30,4.37,87,3,1,0
+STD1983,Education,Education Mathematics,100,F,25,0.62,85,3,1,0
+STD1984,Social Sciences,Political Science,300,F,23,4.88,38,8,0,1
+STD1985,Social Sciences,Political Science,400,F,22,1.11,87,6,0,1
+STD1986,Arts,English,200,M,30,0.73,27,4,0,1
+STD1987,Science,Biology,200,F,29,2.42,75,4,1,0
+STD1988,Science,Chemistry,200,M,18,4.97,87,3,0,0
+STD1989,Social Sciences,Economics,300,M,20,3.53,36,0,0,1
+STD1990,Science,Computer Science,400,M,26,4.12,45,8,1,1
+STD1991,Arts,English,200,M,19,4.19,32,3,0,1
+STD1992,Science,Mathematics,100,M,24,0.97,38,8,1,1
+STD1993,Education,Education Biology,200,F,25,1.28,47,8,0,1
+STD1994,Education,Education Biology,400,M,29,1.63,39,3,0,1
+STD1995,Arts,History,200,M,18,3.8,39,7,0,1
+STD1996,Arts,History,200,F,20,3.72,20,6,1,1
+STD1997,Social Sciences,Economics,100,F,25,4.29,62,8,1,0
+STD1998,Science,Computer Science,200,M,17,0.53,56,4,0,1
+STD1999,Arts,English,100,M,25,4.62,83,8,1,0
+STD2000,Education,Education Biology,400,M,30,4.68,95,5,1,0
+STD2001,Social Sciences,Economics,300,M,26,2.27,97,1,0,0
+STD2002,Social Sciences,Economics,100,M,23,3.03,61,5,0,0
+STD2003,Social Sciences,Political Science,200,M,19,1.47,96,7,0,1
+STD2004,Management Sciences,Accounting,100,F,18,4.68,80,2,0,0
+STD2005,Arts,History,200,F,19,4.55,30,6,1,1
+STD2006,Social Sciences,Political Science,200,F,26,2.61,88,6,1,0
+STD2007,Education,Education Mathematics,100,F,18,2.03,55,3,0,0
+STD2008,Education,Education Mathematics,400,F,21,4.34,80,8,1,0
+STD2009,Science,Chemistry,100,F,29,4.95,33,5,0,1
+STD2010,Science,Biology,100,M,24,1.73,71,4,0,1
+STD2011,Arts,English,200,M,27,2.97,77,3,1,0
+STD2012,Arts,History,100,M,29,2.41,88,2,1,0
+STD2013,Management Sciences,Business Administration,100,M,18,2.48,39,4,0,1
+STD2014,Science,Chemistry,100,M,20,4.88,68,7,1,0
+STD2015,Social Sciences,Economics,200,F,23,4.74,25,6,1,1
+STD2016,Science,Computer Science,300,M,28,3.84,56,6,0,0
+STD2017,Social Sciences,Political Science,100,M,17,2.01,63,1,0,0
+STD2018,Science,Biology,200,M,22,0.54,73,7,0,1
+STD2019,Education,Education Biology,200,M,23,3.92,71,1,0,0
+STD2020,Education,Education Mathematics,400,F,20,1.29,86,2,0,1
+STD2021,Management Sciences,Business Administration,400,F,21,0.8,98,3,1,0
+STD2022,Science,Computer Science,200,F,21,3.19,27,6,0,1
+STD2023,Education,Education Biology,400,F,19,0.73,24,5,1,1
+STD2024,Science,Chemistry,200,F,20,3.51,76,6,0,0
+STD2025,Arts,History,200,M,24,2.38,54,2,1,0
+STD2026,Science,Biology,300,F,29,4.29,78,5,0,0
+STD2027,Science,Biology,400,F,19,4.59,63,1,0,0
+STD2028,Arts,English,400,M,21,3.44,44,7,1,1
+STD2029,Science,Mathematics,400,M,17,2.43,79,8,0,0
+STD2030,Arts,English,100,F,24,2.27,69,6,1,0
+STD2031,Education,Education Biology,400,F,28,2.67,68,8,0,0
+STD2032,Arts,History,200,F,22,3.01,41,0,0,1
+STD2033,Education,Education Mathematics,300,M,17,1.13,39,5,1,1
+STD2034,Arts,History,400,F,23,4.89,66,2,0,0
+STD2035,Education,Education Mathematics,200,F,19,4.22,91,7,0,0
+STD2036,Social Sciences,Economics,100,F,28,2.22,53,0,0,0
+STD2037,Social Sciences,Political Science,100,M,19,2.98,47,8,0,1
+STD2038,Arts,English,300,F,28,2.15,53,6,1,0
+STD2039,Management Sciences,Accounting,100,M,27,4.32,69,5,0,0
+STD2040,Science,Chemistry,200,M,20,1.7,86,0,0,1
+STD2041,Education,Education Mathematics,200,M,20,0.63,34,5,0,1
+STD2042,Arts,History,100,F,27,2.16,90,1,1,0
+STD2043,Management Sciences,Accounting,100,F,27,3.31,33,8,1,1
+STD2044,Arts,History,300,F,25,1.6,61,7,0,1
+STD2045,Management Sciences,Business Administration,100,M,21,3.3,60,8,1,0
+STD2046,Social Sciences,Political Science,100,F,29,3.4,54,2,1,0
+STD2047,Arts,History,400,F,21,1.44,99,0,1,0
+STD2048,Social Sciences,Economics,200,F,22,4.16,76,6,0,0
+STD2049,Social Sciences,Economics,100,F,25,4.11,68,0,0,0
+STD2050,Arts,History,200,M,21,2.16,46,5,1,1
+STD2051,Arts,English,300,F,30,1.76,65,7,0,1
+STD2052,Management Sciences,Business Administration,400,F,29,4.44,36,4,0,1
+STD2053,Arts,History,200,M,28,1.8,79,0,0,1
+STD2054,Management Sciences,Business Administration,300,M,19,3.1,65,8,1,0
+STD2055,Education,Education Mathematics,400,M,20,1.5,65,8,1,1
+STD2056,Education,Education Biology,300,F,30,0.88,45,8,1,1
+STD2057,Education,Education Biology,300,M,17,1.57,70,5,0,1
+STD2058,Education,Education Biology,300,M,23,1.73,67,7,1,1
+STD2059,Education,Education Biology,200,M,24,1.07,57,1,1,0
+STD2060,Education,Education Mathematics,300,F,19,3.82,61,5,1,0
+STD2061,Arts,English,300,M,30,2.27,43,6,1,1
+STD2062,Education,Education Mathematics,400,F,27,1.94,81,3,0,1
+STD2063,Social Sciences,Political Science,400,M,17,2.56,67,6,1,0
+STD2064,Education,Education Mathematics,100,F,25,0.87,54,2,0,1
+STD2065,Social Sciences,Political Science,400,F,21,4.22,28,5,1,1
+STD2066,Science,Chemistry,400,M,24,3.57,92,0,0,0
+STD2067,Science,Mathematics,400,F,19,1.42,74,2,1,0
+STD2068,Social Sciences,Political Science,400,M,23,3.08,58,5,0,0
+STD2069,Social Sciences,Economics,400,F,23,2.06,49,2,0,1
+STD2070,Social Sciences,Economics,200,M,25,4.22,44,2,1,0
+STD2071,Management Sciences,Accounting,100,M,30,3.98,91,3,0,0
+STD2072,Arts,English,400,F,29,4.14,50,4,0,0
+STD2073,Management Sciences,Accounting,400,M,27,2.44,84,4,1,0
+STD2074,Science,Computer Science,100,F,18,2.75,44,6,1,1
+STD2075,Arts,History,100,M,23,2.83,25,1,0,1
+STD2076,Science,Mathematics,200,M,20,3.12,96,1,1,0
+STD2077,Science,Biology,400,M,26,4.18,59,4,1,0
+STD2078,Social Sciences,Economics,200,F,28,2.82,49,1,1,0
+STD2079,Science,Mathematics,100,F,19,1.38,99,5,1,1
+STD2080,Social Sciences,Economics,200,F,22,0.86,51,5,1,1
+STD2081,Social Sciences,Economics,400,M,28,4.85,31,6,1,1
+STD2082,Education,Education Biology,400,F,29,3.11,26,0,0,1
+STD2083,Management Sciences,Accounting,300,F,28,1.35,43,3,0,1
+STD2084,Education,Education Mathematics,100,M,17,1.1,24,7,0,1
+STD2085,Management Sciences,Accounting,200,M,20,3.61,40,6,1,1
+STD2086,Science,Biology,300,M,28,1.02,60,6,0,1
+STD2087,Social Sciences,Political Science,100,M,18,4.53,47,3,0,1
+STD2088,Social Sciences,Political Science,100,M,24,3.13,22,0,1,0
+STD2089,Arts,English,100,F,22,3.43,71,2,1,0
+STD2090,Education,Education Biology,100,M,19,0.7,64,3,1,0
+STD2091,Arts,History,100,F,21,2.72,81,0,1,0
+STD2092,Arts,History,400,F,21,4.17,35,4,0,1
+STD2093,Social Sciences,Economics,400,F,27,4.06,50,3,1,0
+STD2094,Management Sciences,Business Administration,100,M,19,1.33,36,0,0,1
+STD2095,Arts,English,100,F,22,3.78,30,5,0,1
+STD2096,Arts,English,200,M,24,3.13,20,1,0,1
+STD2097,Science,Mathematics,200,F,27,4.84,62,3,0,0
+STD2098,Arts,English,100,F,20,2.88,73,8,0,0
+STD2099,Management Sciences,Business Administration,300,F,17,3.63,92,6,1,0
+STD2100,Arts,History,100,F,19,4.96,35,2,0,1
+STD2101,Science,Biology,200,F,21,3.38,68,2,1,0
+STD2102,Arts,English,400,F,21,4.21,70,4,1,0
+STD2103,Arts,History,400,F,25,0.65,84,8,0,1
+STD2104,Science,Computer Science,100,M,18,4.39,67,2,0,0
+STD2105,Science,Chemistry,300,F,30,2.05,28,3,1,0
+STD2106,Management Sciences,Business Administration,200,M,29,4.53,77,7,1,0
+STD2107,Science,Chemistry,100,M,20,4.69,54,8,0,0
+STD2108,Education,Education Mathematics,100,F,24,1.44,67,4,1,1
+STD2109,Management Sciences,Business Administration,100,M,30,4.07,33,6,0,1
+STD2110,Education,Education Mathematics,100,M,22,2.07,73,8,0,0
+STD2111,Science,Biology,300,M,24,3.64,40,5,0,1
+STD2112,Arts,English,200,M,17,4.46,42,3,1,0
+STD2113,Management Sciences,Business Administration,200,M,23,3.76,24,4,0,1
+STD2114,Science,Mathematics,100,M,23,4.16,59,4,1,0
+STD2115,Arts,English,200,M,22,1.14,59,4,1,1
+STD2116,Social Sciences,Political Science,200,M,28,2.32,71,1,0,0
+STD2117,Management Sciences,Accounting,200,F,24,0.8,97,6,0,1
+STD2118,Social Sciences,Economics,100,M,28,3.21,95,7,0,0
+STD2119,Education,Education Biology,400,F,22,1.19,96,1,0,1
+STD2120,Social Sciences,Political Science,400,F,21,4.52,54,5,0,0
+STD2121,Management Sciences,Business Administration,400,M,29,1.91,99,5,1,1
+STD2122,Education,Education Biology,200,F,29,3.79,26,5,0,1
+STD2123,Arts,History,400,M,20,0.97,94,6,1,1
+STD2124,Arts,English,400,M,21,3.57,58,6,1,0
+STD2125,Arts,English,300,M,19,1.35,25,6,1,1
+STD2126,Management Sciences,Accounting,300,F,20,3.75,56,0,0,0
+STD2127,Science,Mathematics,100,M,19,0.84,33,4,0,1
+STD2128,Management Sciences,Business Administration,200,F,21,2.35,59,4,0,0
+STD2129,Social Sciences,Economics,300,M,20,1.18,56,2,0,1
+STD2130,Arts,History,100,F,28,4.47,97,8,1,0
+STD2131,Science,Biology,300,M,18,3.08,38,0,0,1
+STD2132,Social Sciences,Political Science,300,F,26,0.71,42,8,0,1
+STD2133,Social Sciences,Economics,400,M,29,3.18,48,3,1,0
+STD2134,Management Sciences,Business Administration,400,M,25,2.63,86,2,1,0
+STD2135,Science,Computer Science,300,M,17,3.24,41,0,0,1
+STD2136,Education,Education Mathematics,400,M,30,1.25,44,1,1,1
+STD2137,Arts,English,200,M,28,3.62,42,5,1,1
+STD2138,Science,Computer Science,400,F,26,4.31,75,2,1,0
+STD2139,Science,Biology,200,F,23,4.71,99,0,0,0
+STD2140,Arts,English,200,F,18,3.01,60,8,0,0
+STD2141,Education,Education Mathematics,300,F,23,0.55,47,2,1,1
+STD2142,Management Sciences,Business Administration,400,F,27,3.35,82,3,0,0
+STD2143,Social Sciences,Political Science,300,M,18,0.66,45,6,1,1
+STD2144,Management Sciences,Business Administration,400,F,30,2.85,70,2,1,0
+STD2145,Management Sciences,Accounting,200,M,18,3.68,84,4,0,0
+STD2146,Arts,History,100,F,30,4.52,27,4,0,1
+STD2147,Management Sciences,Business Administration,400,F,30,3.2,99,0,1,0
+STD2148,Management Sciences,Accounting,300,F,29,2.01,95,5,0,0
+STD2149,Science,Mathematics,100,F,23,1.28,89,6,0,1
+STD2150,Arts,History,300,M,19,4.63,23,0,0,1
+STD2151,Education,Education Biology,400,M,29,4.76,62,1,1,0
+STD2152,Arts,English,300,F,18,3.41,30,6,1,1
+STD2153,Education,Education Biology,200,M,27,0.68,76,5,1,1
+STD2154,Social Sciences,Economics,400,F,18,4.76,77,5,0,0
+STD2155,Arts,History,100,F,30,2.91,57,0,1,0
+STD2156,Science,Biology,200,M,20,1.9,23,0,0,1
+STD2157,Social Sciences,Political Science,100,M,20,2.55,75,4,0,0
+STD2158,Social Sciences,Political Science,400,M,17,2.39,45,4,0,1
+STD2159,Science,Computer Science,200,F,19,0.51,68,4,0,1
+STD2160,Science,Biology,100,M,20,3.09,93,7,0,0
+STD2161,Arts,English,200,M,20,1.71,39,2,0,1
+STD2162,Social Sciences,Political Science,400,M,28,0.69,51,2,1,0
+STD2163,Arts,English,100,M,25,1.05,45,3,0,1
+STD2164,Education,Education Biology,100,F,22,3.69,55,2,0,0
+STD2165,Management Sciences,Accounting,100,F,28,1.76,41,0,1,1
+STD2166,Management Sciences,Business Administration,200,M,22,4.7,83,3,1,0
+STD2167,Management Sciences,Accounting,400,F,30,3.1,89,2,1,0
+STD2168,Education,Education Mathematics,200,M,21,4.5,43,7,0,1
+STD2169,Education,Education Mathematics,200,M,28,1.55,58,0,1,0
+STD2170,Management Sciences,Accounting,200,M,25,1.06,65,5,1,1
+STD2171,Science,Chemistry,100,M,30,1.98,24,7,1,1
+STD2172,Education,Education Biology,300,F,20,2.5,24,3,0,1
+STD2173,Arts,History,200,F,17,0.54,27,8,0,1
+STD2174,Management Sciences,Business Administration,300,M,18,4.89,52,8,0,0
+STD2175,Management Sciences,Accounting,200,M,27,4.96,64,0,0,0
+STD2176,Science,Computer Science,300,F,17,2.26,54,5,0,0
+STD2177,Science,Mathematics,100,M,19,4.77,86,3,0,0
+STD2178,Arts,History,300,F,26,1.99,66,5,1,1
+STD2179,Education,Education Biology,100,M,22,3.96,64,5,0,0
+STD2180,Social Sciences,Political Science,100,M,19,2.23,32,4,1,1
+STD2181,Social Sciences,Political Science,200,M,26,1.39,41,8,0,1
+STD2182,Science,Biology,100,M,29,4.17,42,4,0,1
+STD2183,Science,Chemistry,300,F,29,1.14,32,2,0,1
+STD2184,Science,Computer Science,300,M,22,1.21,77,8,1,1
+STD2185,Science,Computer Science,200,F,20,1.38,45,4,1,1
+STD2186,Arts,History,400,M,29,2.37,54,1,1,0
+STD2187,Education,Education Biology,200,F,19,1.88,22,8,0,1
+STD2188,Arts,English,300,F,22,4.77,42,7,1,1
+STD2189,Arts,English,100,F,22,3.57,58,8,1,0
+STD2190,Science,Biology,100,F,22,1.81,100,5,0,1
+STD2191,Arts,History,400,F,20,3.55,60,2,0,0
+STD2192,Education,Education Biology,300,M,23,3.39,63,6,0,0
+STD2193,Social Sciences,Economics,300,F,21,4.54,20,3,0,1
+STD2194,Arts,History,300,F,17,3.73,96,4,1,0
+STD2195,Management Sciences,Business Administration,400,F,28,2.18,73,4,0,0
+STD2196,Science,Computer Science,400,M,29,2.95,68,0,0,0
+STD2197,Arts,History,400,M,29,2.36,48,6,0,1
+STD2198,Education,Education Mathematics,200,F,23,2.49,37,8,1,1
+STD2199,Science,Computer Science,100,F,21,3.54,71,1,1,0
+STD2200,Arts,History,400,F,30,1.74,28,8,0,1
+STD2201,Arts,History,400,M,19,0.65,92,4,0,1
+STD2202,Education,Education Biology,400,M,30,2.96,98,5,0,0
+STD2203,Management Sciences,Business Administration,200,M,26,1.42,74,3,1,0
+STD2204,Arts,History,200,M,18,4.55,90,1,0,0
+STD2205,Education,Education Biology,100,F,22,1.77,32,2,1,1
+STD2206,Social Sciences,Economics,200,F,28,3.54,74,1,1,0
+STD2207,Science,Mathematics,300,F,20,1.27,82,7,1,1
+STD2208,Science,Mathematics,100,M,25,1.27,46,6,0,1
+STD2209,Social Sciences,Political Science,100,M,27,4.77,72,5,1,0
+STD2210,Education,Education Mathematics,400,M,23,0.88,36,2,0,1
+STD2211,Arts,English,400,F,24,3.52,58,5,0,0
+STD2212,Social Sciences,Political Science,200,M,19,1.04,50,8,1,1
+STD2213,Science,Mathematics,400,F,20,2.81,97,8,1,0
+STD2214,Education,Education Mathematics,400,F,17,3.41,94,8,1,0
+STD2215,Social Sciences,Political Science,200,F,28,1.6,80,1,1,0
+STD2216,Arts,History,400,M,29,1.79,69,6,0,1
+STD2217,Science,Biology,200,F,20,1.24,83,7,1,1
+STD2218,Management Sciences,Business Administration,400,F,23,3.67,59,0,1,0
+STD2219,Social Sciences,Political Science,300,M,22,4.0,32,0,0,1
+STD2220,Social Sciences,Political Science,300,F,29,4.1,86,8,0,0
+STD2221,Management Sciences,Accounting,200,F,26,2.55,86,1,0,0
+STD2222,Management Sciences,Accounting,300,F,25,1.0,33,1,1,1
+STD2223,Science,Mathematics,200,F,30,2.18,90,1,1,0
+STD2224,Education,Education Mathematics,100,M,23,1.2,66,8,0,1
+STD2225,Science,Mathematics,400,M,23,1.05,56,6,1,1
+STD2226,Education,Education Biology,300,M,29,0.59,65,1,0,1
+STD2227,Education,Education Biology,300,M,26,0.61,97,7,1,1
+STD2228,Arts,History,400,F,23,3.12,76,8,1,0
+STD2229,Education,Education Biology,400,F,18,3.22,61,2,0,0
+STD2230,Social Sciences,Political Science,200,M,29,1.99,59,1,1,0
+STD2231,Education,Education Mathematics,100,F,29,1.22,70,7,1,1
+STD2232,Social Sciences,Economics,100,M,20,1.61,42,0,1,1
+STD2233,Management Sciences,Business Administration,300,M,21,1.26,40,1,1,1
+STD2234,Management Sciences,Accounting,200,F,27,4.24,22,3,0,1
+STD2235,Education,Education Mathematics,400,F,23,4.97,100,2,1,0
+STD2236,Social Sciences,Political Science,400,F,30,4.25,32,5,1,1
+STD2237,Social Sciences,Economics,100,M,30,1.3,93,0,1,0
+STD2238,Social Sciences,Political Science,300,F,24,2.44,51,8,0,0
+STD2239,Management Sciences,Accounting,100,M,24,4.17,35,3,0,1
+STD2240,Education,Education Biology,100,M,20,2.58,90,5,1,0
+STD2241,Management Sciences,Business Administration,400,F,24,3.78,75,6,0,0
+STD2242,Management Sciences,Business Administration,200,M,26,4.02,69,6,0,0
+STD2243,Science,Computer Science,300,M,20,4.32,36,2,0,1
+STD2244,Science,Chemistry,100,M,21,3.87,62,6,0,0
+STD2245,Education,Education Biology,400,F,24,2.88,41,1,1,0
+STD2246,Management Sciences,Business Administration,100,M,20,0.96,44,6,0,1
+STD2247,Social Sciences,Political Science,300,F,18,4.84,84,7,0,0
+STD2248,Arts,English,400,F,18,1.79,23,6,1,1
+STD2249,Science,Chemistry,100,M,18,3.68,30,7,0,1
+STD2250,Science,Mathematics,300,M,23,2.97,27,7,0,1
+STD2251,Arts,History,400,M,23,1.85,88,0,0,1
+STD2252,Management Sciences,Business Administration,300,M,22,2.78,48,4,1,1
+STD2253,Social Sciences,Economics,200,M,30,4.18,74,4,0,0
+STD2254,Arts,English,400,M,19,2.74,33,1,0,1
+STD2255,Social Sciences,Political Science,200,F,24,2.78,27,5,0,1
+STD2256,Education,Education Biology,100,F,27,2.74,51,0,1,0
+STD2257,Science,Chemistry,100,M,29,1.5,53,5,1,1
+STD2258,Science,Computer Science,300,F,29,1.22,36,3,0,1
+STD2259,Social Sciences,Political Science,100,M,19,3.98,30,6,1,1
+STD2260,Science,Chemistry,300,F,27,3.15,44,1,1,0
+STD2261,Management Sciences,Accounting,300,M,17,2.9,27,5,1,1
+STD2262,Social Sciences,Economics,400,M,21,1.67,42,7,0,1
+STD2263,Science,Mathematics,200,M,17,4.42,91,1,1,0
+STD2264,Education,Education Mathematics,100,M,28,2.57,78,0,1,0
+STD2265,Management Sciences,Business Administration,100,F,30,3.47,65,1,0,0
+STD2266,Science,Computer Science,300,M,24,3.58,43,2,0,1
+STD2267,Management Sciences,Business Administration,100,M,22,2.03,30,2,0,1
+STD2268,Management Sciences,Accounting,400,F,21,0.91,86,2,1,0
+STD2269,Science,Mathematics,300,F,17,3.87,71,1,1,0
+STD2270,Education,Education Mathematics,200,M,25,4.4,71,6,0,0
+STD2271,Science,Chemistry,300,F,19,4.54,42,5,1,1
+STD2272,Management Sciences,Business Administration,100,M,30,3.51,63,4,1,0
+STD2273,Management Sciences,Business Administration,300,M,19,3.8,34,8,0,1
+STD2274,Arts,History,400,M,20,2.61,92,6,1,0
+STD2275,Science,Chemistry,200,F,24,3.64,30,4,0,1
+STD2276,Education,Education Biology,400,M,22,4.87,39,0,1,0
+STD2277,Science,Computer Science,100,F,23,2.52,61,4,1,0
+STD2278,Management Sciences,Accounting,200,M,19,2.45,82,3,0,0
+STD2279,Science,Chemistry,300,F,22,3.3,74,0,1,0
+STD2280,Education,Education Mathematics,300,F,25,4.6,26,1,1,0
+STD2281,Science,Mathematics,100,F,19,1.84,88,2,1,0
+STD2282,Arts,English,400,M,20,2.4,76,2,1,0
+STD2283,Education,Education Biology,200,M,25,3.91,61,7,0,0
+STD2284,Management Sciences,Business Administration,300,M,29,0.61,67,2,0,1
+STD2285,Social Sciences,Economics,200,F,19,2.2,87,3,0,0
+STD2286,Social Sciences,Political Science,200,M,20,2.91,99,2,1,0
+STD2287,Education,Education Biology,200,F,26,2.26,97,4,1,0
+STD2288,Social Sciences,Economics,300,M,17,1.33,82,6,1,1
+STD2289,Social Sciences,Economics,200,M,25,4.47,79,6,1,0
+STD2290,Science,Computer Science,100,M,22,2.93,94,6,1,0
+STD2291,Science,Computer Science,200,F,27,2.69,83,6,0,0
+STD2292,Education,Education Mathematics,100,M,19,4.69,64,3,0,0
+STD2293,Education,Education Biology,300,M,26,2.19,55,2,1,0
+STD2294,Education,Education Biology,400,F,17,3.42,22,5,0,1
+STD2295,Management Sciences,Accounting,400,M,29,4.26,56,8,1,0
+STD2296,Management Sciences,Business Administration,200,F,23,2.65,54,0,0,0
+STD2297,Arts,English,200,M,22,1.89,65,8,1,1
+STD2298,Science,Biology,100,F,29,2.7,67,3,1,0
+STD2299,Education,Education Biology,100,M,18,1.56,82,8,0,1
+STD2300,Social Sciences,Political Science,200,F,28,4.49,93,7,0,0
+STD2301,Arts,History,100,F,17,3.1,24,8,0,1
+STD2302,Social Sciences,Political Science,400,F,21,3.61,79,5,0,0
+STD2303,Arts,English,200,M,21,4.37,98,8,1,0
+STD2304,Education,Education Biology,100,F,18,3.39,43,5,1,1
+STD2305,Education,Education Biology,400,M,25,2.84,88,1,0,0
+STD2306,Social Sciences,Economics,300,M,30,1.0,54,2,1,0
+STD2307,Management Sciences,Business Administration,400,M,23,1.8,46,6,0,1
+STD2308,Social Sciences,Political Science,200,M,20,4.29,55,6,0,0
+STD2309,Education,Education Biology,100,M,23,4.68,90,2,0,0
+STD2310,Management Sciences,Accounting,400,F,28,4.03,37,6,1,1
+STD2311,Arts,History,300,F,23,2.38,49,0,0,1
+STD2312,Social Sciences,Economics,300,M,27,1.05,64,7,1,1
+STD2313,Science,Mathematics,300,M,28,0.57,69,0,1,0
+STD2314,Management Sciences,Accounting,200,M,21,2.07,98,7,0,0
+STD2315,Education,Education Mathematics,300,F,29,3.5,46,4,0,1
+STD2316,Science,Mathematics,100,M,17,3.72,58,2,0,0
+STD2317,Arts,History,400,F,18,4.92,54,2,0,0
+STD2318,Management Sciences,Business Administration,200,F,30,4.91,43,7,0,1
+STD2319,Management Sciences,Accounting,200,F,23,0.76,55,8,0,1
+STD2320,Science,Biology,100,F,25,1.11,69,2,0,1
+STD2321,Social Sciences,Economics,300,M,20,3.91,21,4,1,1
+STD2322,Science,Mathematics,200,F,27,2.28,88,6,1,0
+STD2323,Science,Biology,400,F,23,3.85,82,7,1,0
+STD2324,Education,Education Biology,100,F,20,4.33,97,1,0,0
+STD2325,Education,Education Mathematics,400,M,23,1.23,98,3,1,0
+STD2326,Social Sciences,Economics,200,F,29,3.21,34,8,1,1
+STD2327,Social Sciences,Economics,300,F,23,3.0,80,0,1,0
+STD2328,Arts,History,300,F,21,3.08,94,2,0,0
+STD2329,Social Sciences,Economics,100,M,25,3.25,59,7,1,0
+STD2330,Arts,English,100,F,27,2.0,60,8,1,0
+STD2331,Science,Mathematics,300,F,20,3.62,73,6,1,0
+STD2332,Management Sciences,Business Administration,100,F,29,3.9,97,4,0,0
+STD2333,Science,Mathematics,400,M,25,2.67,35,8,1,1
+STD2334,Arts,History,200,M,28,2.16,58,8,1,0
+STD2335,Arts,History,100,F,21,4.82,33,2,1,0
+STD2336,Arts,English,400,F,30,0.59,44,4,1,1
+STD2337,Education,Education Biology,400,F,21,1.49,55,2,1,0
+STD2338,Science,Mathematics,100,F,23,3.08,48,5,1,1
+STD2339,Management Sciences,Business Administration,100,F,23,2.43,22,8,0,1
+STD2340,Education,Education Mathematics,200,M,30,1.69,42,4,0,1
+STD2341,Arts,English,400,M,18,4.22,61,8,0,0
+STD2342,Arts,English,200,F,20,3.66,74,2,1,0
+STD2343,Management Sciences,Business Administration,200,F,29,4.46,49,0,0,1
+STD2344,Education,Education Mathematics,400,M,19,4.04,81,3,1,0
+STD2345,Social Sciences,Political Science,200,F,26,1.71,60,0,1,0
+STD2346,Education,Education Mathematics,100,F,17,1.07,45,6,0,1
+STD2347,Arts,English,200,F,29,2.52,56,2,0,0
+STD2348,Arts,English,400,F,17,0.52,54,7,0,1
+STD2349,Science,Chemistry,300,M,30,2.37,71,4,1,0
+STD2350,Science,Mathematics,300,F,25,0.64,42,0,1,1
+STD2351,Management Sciences,Business Administration,400,F,20,3.44,63,1,0,0
+STD2352,Science,Biology,100,M,30,2.45,70,6,1,0
+STD2353,Social Sciences,Economics,400,F,25,4.36,95,1,1,0
+STD2354,Science,Computer Science,400,M,30,2.92,92,7,1,0
+STD2355,Science,Chemistry,400,F,30,1.27,79,2,0,1
+STD2356,Management Sciences,Accounting,400,M,29,3.78,23,1,1,0
+STD2357,Science,Chemistry,300,F,30,0.98,43,8,1,1
+STD2358,Education,Education Mathematics,400,M,18,1.66,46,0,0,1
+STD2359,Education,Education Biology,200,F,18,2.7,86,6,1,0
+STD2360,Social Sciences,Economics,300,F,21,4.85,96,6,0,0
+STD2361,Education,Education Mathematics,300,M,17,2.12,95,5,0,0
+STD2362,Education,Education Mathematics,200,F,26,0.58,59,3,0,1
+STD2363,Management Sciences,Business Administration,100,F,22,1.54,81,6,1,1
+STD2364,Education,Education Mathematics,400,F,28,2.65,95,2,1,0
+STD2365,Social Sciences,Political Science,100,M,24,3.02,92,8,1,0
+STD2366,Management Sciences,Accounting,300,M,27,2.27,57,6,0,0
+STD2367,Education,Education Mathematics,100,F,17,2.18,77,5,1,0
+STD2368,Education,Education Mathematics,300,F,18,4.14,32,4,1,1
+STD2369,Education,Education Mathematics,400,M,23,0.92,96,8,0,1
+STD2370,Management Sciences,Accounting,400,M,28,4.11,46,5,0,1
+STD2371,Science,Biology,400,M,22,4.23,82,7,0,0
+STD2372,Science,Biology,200,M,21,1.54,46,6,1,1
+STD2373,Social Sciences,Political Science,200,F,27,0.86,81,4,0,1
+STD2374,Management Sciences,Business Administration,200,F,22,2.35,32,5,1,1
+STD2375,Social Sciences,Economics,100,M,29,0.73,71,8,0,1
+STD2376,Education,Education Mathematics,200,F,20,2.77,78,4,1,0
+STD2377,Education,Education Biology,400,M,19,4.69,46,3,1,0
+STD2378,Management Sciences,Accounting,100,F,20,2.42,44,7,1,1
+STD2379,Social Sciences,Political Science,100,M,28,1.79,45,2,0,1
+STD2380,Arts,History,400,M,22,0.79,71,2,0,1
+STD2381,Social Sciences,Economics,100,M,30,3.74,31,7,1,1
+STD2382,Education,Education Biology,400,F,23,2.14,99,7,1,0
+STD2383,Management Sciences,Business Administration,400,M,18,1.66,93,5,0,1
+STD2384,Science,Mathematics,200,F,20,4.08,66,2,1,0
+STD2385,Education,Education Mathematics,200,F,22,1.41,59,7,1,1
+STD2386,Science,Chemistry,400,M,30,1.35,47,3,0,1
+STD2387,Management Sciences,Business Administration,400,F,22,0.81,41,5,0,1
+STD2388,Science,Chemistry,200,M,19,1.97,83,2,0,1
+STD2389,Social Sciences,Economics,300,M,25,0.93,26,5,1,1
+STD2390,Management Sciences,Business Administration,100,M,26,2.45,76,7,0,0
+STD2391,Arts,History,400,M,30,0.92,74,4,1,1
+STD2392,Arts,English,300,M,17,4.94,51,8,0,0
+STD2393,Arts,History,300,F,20,1.46,91,4,0,1
+STD2394,Science,Biology,100,M,17,2.0,89,4,0,0
+STD2395,Arts,English,400,F,26,2.0,29,3,0,1
+STD2396,Social Sciences,Economics,400,M,25,2.03,21,1,1,0
+STD2397,Education,Education Mathematics,400,M,18,4.46,88,4,0,0
+STD2398,Management Sciences,Accounting,300,M,26,4.46,21,5,1,1
+STD2399,Science,Chemistry,300,F,27,3.22,90,1,0,0
+STD2400,Science,Computer Science,200,M,28,2.06,38,3,1,0
+STD2401,Education,Education Biology,400,F,22,0.7,91,0,1,0
+STD2402,Education,Education Mathematics,400,M,29,2.17,56,3,0,0
+STD2403,Education,Education Mathematics,300,M,25,4.76,64,1,1,0
+STD2404,Science,Mathematics,200,F,17,1.29,92,1,1,0
+STD2405,Social Sciences,Economics,300,M,24,3.38,55,7,0,0
+STD2406,Science,Chemistry,200,M,18,1.68,81,1,1,0
+STD2407,Management Sciences,Business Administration,100,F,30,0.8,34,3,1,1
+STD2408,Science,Computer Science,300,M,22,4.49,60,8,1,0
+STD2409,Social Sciences,Economics,300,F,29,2.85,72,1,1,0
+STD2410,Social Sciences,Political Science,200,F,24,3.19,31,5,1,1
+STD2411,Arts,History,300,M,18,3.24,84,3,1,0
+STD2412,Management Sciences,Business Administration,300,F,25,4.28,69,1,1,0
+STD2413,Education,Education Mathematics,300,M,21,2.57,39,2,0,1
+STD2414,Science,Computer Science,400,F,21,4.94,64,0,1,0
+STD2415,Arts,English,100,F,25,1.2,24,6,0,1
+STD2416,Education,Education Mathematics,200,F,27,1.42,63,7,0,1
+STD2417,Arts,English,200,M,25,4.4,39,8,0,1
+STD2418,Science,Chemistry,300,F,29,4.08,69,0,0,0
+STD2419,Management Sciences,Accounting,300,F,30,3.14,27,1,0,1
+STD2420,Science,Mathematics,200,M,17,2.38,91,1,1,0
+STD2421,Education,Education Mathematics,100,F,25,2.47,54,6,0,0
+STD2422,Social Sciences,Economics,300,M,29,1.62,72,3,1,0
+STD2423,Social Sciences,Political Science,100,M,24,3.03,76,0,1,0
+STD2424,Education,Education Mathematics,200,F,24,4.69,63,7,1,0
+STD2425,Education,Education Mathematics,100,F,25,4.64,56,4,0,0
+STD2426,Social Sciences,Economics,400,F,26,1.79,33,7,0,1
+STD2427,Arts,English,300,M,22,3.07,77,0,0,0
+STD2428,Management Sciences,Accounting,400,F,20,2.2,85,3,1,0
+STD2429,Management Sciences,Business Administration,300,F,30,0.91,64,6,0,1
+STD2430,Management Sciences,Business Administration,300,M,27,2.3,36,2,1,0
+STD2431,Education,Education Biology,300,F,28,1.99,67,1,1,0
+STD2432,Education,Education Biology,300,F,21,2.64,21,1,0,1
+STD2433,Arts,English,200,M,25,1.6,59,1,0,1
+STD2434,Education,Education Mathematics,300,F,30,1.23,62,5,1,1
+STD2435,Management Sciences,Business Administration,200,M,19,4.41,88,4,0,0
+STD2436,Arts,English,400,M,26,1.64,37,8,0,1
+STD2437,Science,Mathematics,100,F,24,3.47,49,5,1,1
+STD2438,Management Sciences,Accounting,300,M,17,3.53,88,1,0,0
+STD2439,Education,Education Biology,300,M,19,1.08,86,0,0,1
+STD2440,Arts,English,200,F,17,0.85,70,5,1,1
+STD2441,Arts,History,400,M,29,4.75,59,6,0,0
+STD2442,Science,Biology,200,M,27,3.28,78,2,0,0
+STD2443,Education,Education Mathematics,200,M,21,1.8,20,0,1,1
+STD2444,Science,Mathematics,200,M,23,1.47,80,0,0,1
+STD2445,Social Sciences,Economics,200,F,30,4.78,95,0,1,0
+STD2446,Education,Education Mathematics,200,M,27,3.18,86,2,0,0
+STD2447,Management Sciences,Business Administration,200,F,19,3.44,46,4,0,1
+STD2448,Arts,History,300,M,24,4.96,40,7,0,1
+STD2449,Arts,History,400,M,26,4.7,84,7,0,0
+STD2450,Education,Education Biology,200,M,28,3.96,62,3,1,0
+STD2451,Social Sciences,Economics,400,F,29,2.08,73,3,0,0
+STD2452,Social Sciences,Economics,200,M,19,1.03,86,5,1,1
+STD2453,Management Sciences,Accounting,400,F,27,1.94,87,3,0,1
+STD2454,Education,Education Mathematics,400,F,24,4.31,63,0,1,0
+STD2455,Science,Biology,400,M,26,1.11,48,7,1,1
+STD2456,Social Sciences,Economics,400,M,18,0.69,28,4,1,1
+STD2457,Education,Education Biology,200,F,18,1.17,100,8,0,1
+STD2458,Social Sciences,Economics,400,F,29,1.18,37,8,0,1
+STD2459,Arts,English,100,F,30,2.65,97,4,1,0
+STD2460,Education,Education Mathematics,400,M,23,3.2,64,7,1,0
+STD2461,Arts,English,200,M,30,1.71,67,1,1,0
+STD2462,Science,Computer Science,300,M,18,3.62,59,4,0,0
+STD2463,Education,Education Biology,100,M,25,3.04,42,6,0,1
+STD2464,Management Sciences,Business Administration,300,M,20,1.2,90,0,0,1
+STD2465,Arts,History,400,F,22,3.17,37,5,0,1
+STD2466,Arts,History,300,F,22,3.97,50,5,0,0
+STD2467,Social Sciences,Political Science,200,M,17,2.23,56,1,0,0
+STD2468,Education,Education Biology,300,M,25,4.54,79,7,0,0
+STD2469,Arts,History,200,F,23,0.63,72,7,0,1
+STD2470,Arts,English,100,M,23,2.88,58,3,1,0
+STD2471,Science,Biology,200,F,26,2.0,77,6,1,0
+STD2472,Arts,English,400,F,26,3.31,21,2,1,0
+STD2473,Education,Education Biology,300,F,27,3.07,77,4,1,0
+STD2474,Arts,English,400,F,20,3.02,44,4,0,1
+STD2475,Science,Computer Science,200,M,27,3.82,67,6,1,0
+STD2476,Education,Education Mathematics,300,M,19,3.47,73,0,0,0
+STD2477,Arts,History,400,F,21,4.4,79,4,1,0
+STD2478,Management Sciences,Accounting,300,M,29,2.54,27,1,1,0
+STD2479,Education,Education Mathematics,300,F,27,2.62,91,3,0,0
+STD2480,Science,Computer Science,400,F,25,2.04,57,0,0,0
+STD2481,Social Sciences,Economics,400,M,29,2.45,94,7,1,0
+STD2482,Management Sciences,Business Administration,400,F,27,1.67,40,5,0,1
+STD2483,Management Sciences,Accounting,400,M,29,3.32,69,1,0,0
+STD2484,Arts,History,100,F,17,0.76,95,6,1,1
+STD2485,Arts,History,300,M,18,3.22,81,5,1,0
+STD2486,Education,Education Biology,200,F,20,1.05,23,3,0,1
+STD2487,Management Sciences,Business Administration,200,F,30,4.55,69,4,1,0
+STD2488,Science,Chemistry,200,M,28,3.82,81,2,0,0
+STD2489,Arts,History,200,M,25,3.85,59,5,1,0
+STD2490,Social Sciences,Economics,100,M,18,2.26,27,4,1,1
+STD2491,Social Sciences,Political Science,400,M,21,3.72,49,4,1,1
+STD2492,Social Sciences,Economics,300,M,20,0.95,94,4,0,1
+STD2493,Social Sciences,Economics,200,M,24,0.82,90,4,0,1
+STD2494,Education,Education Mathematics,400,M,25,2.61,35,7,0,1
+STD2495,Arts,History,400,F,21,2.59,53,8,1,0
+STD2496,Management Sciences,Accounting,300,M,21,2.45,49,0,0,1
+STD2497,Education,Education Mathematics,100,M,19,1.21,20,6,1,1
+STD2498,Arts,English,300,F,24,2.31,65,3,0,0
+STD2499,Social Sciences,Political Science,200,F,25,2.82,65,8,0,0
+STD2500,Education,Education Biology,400,F,30,1.45,83,1,1,0
+STD2501,Arts,History,200,M,20,3.31,27,2,1,0
+STD2502,Science,Computer Science,100,M,20,2.32,83,7,1,0
+STD2503,Social Sciences,Economics,200,F,27,3.59,30,8,1,1
+STD2504,Education,Education Mathematics,300,M,22,3.36,100,5,0,0
+STD2505,Management Sciences,Business Administration,400,M,20,1.52,78,1,0,1
+STD2506,Arts,History,100,M,19,0.79,41,3,0,1
+STD2507,Social Sciences,Economics,400,F,20,2.21,30,5,1,1
+STD2508,Arts,English,300,F,25,2.66,20,2,0,1
+STD2509,Science,Biology,300,F,21,1.69,33,3,0,1
+STD2510,Education,Education Biology,400,F,26,1.52,20,2,0,1
+STD2511,Social Sciences,Political Science,400,M,21,4.75,64,8,0,0
+STD2512,Arts,History,400,F,17,3.87,67,8,0,0
+STD2513,Social Sciences,Economics,300,M,19,1.29,54,8,0,1
+STD2514,Management Sciences,Business Administration,300,M,23,3.01,100,5,0,0
+STD2515,Social Sciences,Economics,200,F,24,3.55,53,1,0,0
+STD2516,Education,Education Biology,200,F,27,4.96,29,4,0,1
+STD2517,Management Sciences,Business Administration,300,F,30,4.86,95,1,1,0
+STD2518,Arts,History,200,M,19,4.1,94,1,0,0
+STD2519,Social Sciences,Economics,300,M,28,1.43,94,7,0,1
+STD2520,Arts,History,400,M,26,0.92,59,2,0,1
+STD2521,Management Sciences,Accounting,100,M,26,2.66,29,8,0,1
+STD2522,Social Sciences,Economics,200,M,30,2.08,87,3,1,0
+STD2523,Arts,History,200,F,27,1.92,53,3,1,0
+STD2524,Science,Chemistry,400,M,25,2.53,91,6,1,0
+STD2525,Management Sciences,Accounting,100,F,20,2.25,90,5,0,0
+STD2526,Education,Education Biology,200,F,21,1.49,75,6,1,1
+STD2527,Management Sciences,Accounting,100,F,26,3.7,33,8,1,1
+STD2528,Arts,History,400,F,26,0.76,24,2,0,1
+STD2529,Education,Education Mathematics,100,F,27,4.01,38,8,0,1
+STD2530,Arts,English,400,F,30,3.44,61,5,0,0
+STD2531,Education,Education Biology,300,F,25,2.16,82,8,0,0
+STD2532,Arts,English,200,M,29,4.6,48,4,0,1
+STD2533,Science,Chemistry,200,F,25,4.49,84,3,1,0
+STD2534,Arts,History,200,F,27,2.89,24,5,1,1
+STD2535,Social Sciences,Economics,400,F,22,4.06,28,6,1,1
+STD2536,Social Sciences,Economics,100,M,20,4.01,59,2,0,0
+STD2537,Social Sciences,Political Science,200,M,27,1.71,58,5,1,1
+STD2538,Management Sciences,Business Administration,300,M,23,2.46,33,8,0,1
+STD2539,Education,Education Mathematics,300,F,25,1.88,74,2,1,0
+STD2540,Education,Education Biology,200,M,28,2.23,100,5,0,0
+STD2541,Science,Mathematics,400,F,24,2.87,28,0,0,1
+STD2542,Education,Education Biology,100,M,28,1.51,55,3,1,0
+STD2543,Social Sciences,Economics,300,M,18,3.1,27,4,0,1
+STD2544,Education,Education Mathematics,200,F,17,3.23,41,2,1,0
+STD2545,Management Sciences,Accounting,200,F,19,1.99,37,8,1,1
+STD2546,Social Sciences,Political Science,300,F,27,1.76,70,5,1,1
+STD2547,Management Sciences,Business Administration,400,F,28,2.81,78,2,1,0
+STD2548,Social Sciences,Political Science,200,M,26,3.26,44,4,1,1
+STD2549,Arts,English,300,M,29,2.86,43,1,1,0
+STD2550,Management Sciences,Business Administration,200,M,22,3.25,38,8,0,1
+STD2551,Arts,English,200,F,24,1.15,21,8,1,1
+STD2552,Science,Biology,300,F,27,2.2,41,3,1,0
+STD2553,Arts,History,300,M,18,4.58,99,7,1,0
+STD2554,Arts,History,100,M,30,0.79,76,0,1,0
+STD2555,Education,Education Biology,400,M,20,3.74,73,4,1,0
+STD2556,Management Sciences,Accounting,300,F,26,4.71,49,0,0,1
+STD2557,Education,Education Mathematics,400,F,24,0.5,70,4,1,1
+STD2558,Arts,English,200,F,30,1.65,61,1,1,0
+STD2559,Education,Education Biology,200,F,24,3.1,80,2,1,0
+STD2560,Arts,History,100,M,20,1.74,32,4,1,1
+STD2561,Education,Education Mathematics,200,F,19,2.51,27,8,0,1
+STD2562,Science,Biology,200,M,19,3.69,99,4,1,0
+STD2563,Education,Education Mathematics,300,F,22,4.31,95,6,0,0
+STD2564,Education,Education Mathematics,200,M,20,2.03,69,4,0,0
+STD2565,Education,Education Mathematics,100,M,17,3.4,92,5,1,0
+STD2566,Management Sciences,Accounting,100,M,20,3.5,46,5,1,1
+STD2567,Arts,English,200,F,26,3.98,53,7,1,0
+STD2568,Arts,History,100,F,26,1.17,20,6,0,1
+STD2569,Management Sciences,Business Administration,200,F,17,4.65,40,0,0,1
+STD2570,Arts,History,300,F,29,2.89,100,1,0,0
+STD2571,Social Sciences,Political Science,300,F,17,1.16,23,5,0,1
+STD2572,Education,Education Mathematics,200,M,27,0.98,57,3,1,0
+STD2573,Social Sciences,Economics,100,M,30,4.19,52,1,1,0
+STD2574,Arts,History,300,F,18,3.19,25,6,1,1
+STD2575,Management Sciences,Accounting,300,F,22,4.28,24,3,1,0
+STD2576,Arts,History,200,F,21,2.71,69,3,0,0
+STD2577,Arts,English,100,F,21,4.78,33,5,1,1
+STD2578,Arts,English,100,F,26,4.56,73,4,0,0
+STD2579,Social Sciences,Economics,300,F,22,3.08,88,0,0,0
+STD2580,Science,Chemistry,300,F,28,2.76,34,6,1,1
+STD2581,Social Sciences,Political Science,400,M,27,2.26,75,3,1,0
+STD2582,Education,Education Mathematics,200,F,22,2.96,98,5,0,0
+STD2583,Social Sciences,Economics,200,F,26,2.82,98,7,1,0
+STD2584,Social Sciences,Political Science,100,M,30,4.65,47,5,1,1
+STD2585,Social Sciences,Economics,300,M,23,3.43,57,0,0,0
+STD2586,Management Sciences,Business Administration,400,F,18,1.64,23,7,0,1
+STD2587,Education,Education Biology,300,M,18,1.48,62,1,0,1
+STD2588,Management Sciences,Accounting,200,F,28,4.31,51,1,1,0
+STD2589,Education,Education Biology,100,F,23,1.7,30,8,1,1
+STD2590,Science,Computer Science,400,F,28,0.9,29,2,0,1
+STD2591,Arts,History,300,F,20,1.41,57,4,1,1
+STD2592,Science,Mathematics,400,F,28,2.2,67,4,1,0
+STD2593,Science,Computer Science,300,F,27,3.63,45,2,1,0
+STD2594,Education,Education Mathematics,300,F,19,1.01,52,0,0,1
+STD2595,Social Sciences,Economics,200,F,19,4.54,64,4,1,0
+STD2596,Science,Chemistry,300,M,23,3.46,58,6,0,0
+STD2597,Science,Chemistry,400,F,17,3.32,65,8,0,0
+STD2598,Social Sciences,Economics,300,M,30,4.54,95,4,0,0
+STD2599,Education,Education Mathematics,200,M,27,3.85,57,8,0,0
+STD2600,Management Sciences,Accounting,100,M,19,4.33,23,7,0,1
+STD2601,Education,Education Biology,400,F,24,1.61,84,8,0,1
+STD2602,Science,Mathematics,300,M,17,4.68,23,8,0,1
+STD2603,Science,Chemistry,100,M,27,2.45,44,4,0,1
+STD2604,Management Sciences,Business Administration,200,F,22,3.51,93,7,0,0
+STD2605,Social Sciences,Economics,100,M,28,1.79,85,3,0,1
+STD2606,Education,Education Biology,400,M,25,1.34,59,3,1,0
+STD2607,Management Sciences,Accounting,200,M,20,2.92,21,2,0,1
+STD2608,Science,Chemistry,100,F,17,3.11,72,1,0,0
+STD2609,Education,Education Biology,100,M,28,1.99,60,5,0,1
+STD2610,Arts,History,100,M,22,4.77,65,1,1,0
+STD2611,Science,Mathematics,200,M,22,3.98,74,6,1,0
+STD2612,Arts,English,100,F,24,1.9,60,4,0,1
+STD2613,Management Sciences,Business Administration,400,M,26,1.49,55,1,0,1
+STD2614,Social Sciences,Economics,100,M,28,3.72,30,7,1,1
+STD2615,Arts,History,400,M,30,2.31,34,3,0,1
+STD2616,Social Sciences,Political Science,400,M,28,2.01,56,0,1,0
+STD2617,Management Sciences,Business Administration,400,F,24,2.34,83,8,1,0
+STD2618,Social Sciences,Political Science,400,M,27,1.24,89,6,0,1
+STD2619,Management Sciences,Accounting,200,M,21,0.68,33,3,0,1
+STD2620,Arts,History,300,F,29,0.95,92,2,0,1
+STD2621,Education,Education Biology,300,F,18,1.95,75,4,1,1
+STD2622,Science,Biology,100,M,24,4.62,58,5,1,0
+STD2623,Management Sciences,Business Administration,300,M,24,2.71,36,3,0,1
+STD2624,Management Sciences,Accounting,100,M,30,3.09,21,4,0,1
+STD2625,Social Sciences,Political Science,100,F,26,4.09,59,3,1,0
+STD2626,Science,Chemistry,300,F,24,1.98,80,1,1,0
+STD2627,Social Sciences,Economics,200,F,22,1.36,32,2,0,1
+STD2628,Science,Mathematics,100,F,28,1.24,91,5,0,1
+STD2629,Education,Education Biology,200,F,26,1.76,31,8,0,1
+STD2630,Arts,History,300,M,26,3.66,62,7,1,0
+STD2631,Management Sciences,Accounting,400,M,24,2.74,56,4,0,0
+STD2632,Management Sciences,Business Administration,100,M,28,2.33,49,5,0,1
+STD2633,Social Sciences,Political Science,200,F,19,1.2,34,6,1,1
+STD2634,Science,Computer Science,400,F,21,3.24,65,8,0,0
+STD2635,Education,Education Biology,300,M,24,1.97,72,8,1,1
+STD2636,Science,Biology,200,F,25,0.83,45,1,0,1
+STD2637,Arts,History,200,F,24,4.69,54,8,1,0
+STD2638,Arts,English,200,F,26,4.36,80,6,1,0
+STD2639,Education,Education Mathematics,100,F,25,2.88,68,0,1,0
+STD2640,Social Sciences,Political Science,400,F,23,3.53,62,2,1,0
+STD2641,Education,Education Biology,100,M,21,2.03,96,4,1,0
+STD2642,Social Sciences,Political Science,400,M,21,1.8,80,1,1,0
+STD2643,Education,Education Mathematics,400,F,20,2.7,32,0,1,0
+STD2644,Science,Mathematics,200,M,19,4.96,68,1,0,0
+STD2645,Education,Education Biology,400,F,25,4.42,44,3,1,0
+STD2646,Social Sciences,Political Science,300,M,21,4.7,50,6,0,0
+STD2647,Arts,English,300,F,24,1.15,49,2,1,1
+STD2648,Management Sciences,Business Administration,100,F,29,1.22,97,3,1,0
+STD2649,Science,Computer Science,200,F,27,2.74,58,8,1,0
+STD2650,Education,Education Mathematics,300,F,26,3.7,89,1,0,0
+STD2651,Science,Chemistry,100,M,22,1.9,32,6,0,1
+STD2652,Social Sciences,Political Science,200,F,29,1.14,80,1,0,1
+STD2653,Science,Computer Science,300,F,24,4.61,60,2,1,0
+STD2654,Science,Biology,200,M,25,1.31,98,5,1,1
+STD2655,Arts,History,100,F,25,2.77,94,7,1,0
+STD2656,Science,Biology,100,F,24,0.61,66,3,0,1
+STD2657,Arts,English,100,M,20,3.41,75,3,1,0
+STD2658,Social Sciences,Economics,100,F,18,4.37,31,4,1,1
+STD2659,Education,Education Mathematics,300,F,21,3.24,56,3,1,0
+STD2660,Arts,English,400,F,29,3.64,27,5,0,1
+STD2661,Arts,History,100,M,25,2.8,25,2,1,0
+STD2662,Management Sciences,Business Administration,400,F,25,3.79,54,1,1,0
+STD2663,Science,Computer Science,100,F,22,1.82,31,8,0,1
+STD2664,Management Sciences,Accounting,100,F,27,1.69,22,1,0,1
+STD2665,Science,Biology,400,F,24,2.03,37,2,1,0
+STD2666,Social Sciences,Political Science,300,F,18,1.0,65,6,0,1
+STD2667,Science,Biology,200,F,27,2.11,32,0,1,0
+STD2668,Science,Computer Science,400,F,28,3.31,22,7,0,1
+STD2669,Management Sciences,Accounting,400,M,19,4.35,78,2,0,0
+STD2670,Arts,English,300,M,24,1.65,37,4,1,1
+STD2671,Education,Education Biology,100,F,22,1.49,77,0,0,1
+STD2672,Social Sciences,Political Science,300,F,20,2.23,44,6,1,1
+STD2673,Arts,History,200,F,26,0.73,80,3,1,0
+STD2674,Management Sciences,Business Administration,400,M,18,1.98,52,4,0,1
+STD2675,Education,Education Mathematics,100,F,25,1.93,99,8,1,1
+STD2676,Social Sciences,Political Science,300,F,18,2.3,50,4,1,0
+STD2677,Arts,History,100,M,30,1.08,36,3,0,1
+STD2678,Education,Education Mathematics,300,M,26,3.65,96,3,1,0
+STD2679,Science,Chemistry,300,F,29,4.17,52,6,1,0
+STD2680,Education,Education Mathematics,300,F,19,2.72,94,6,0,0
+STD2681,Arts,English,400,F,17,3.95,74,7,1,0
+STD2682,Management Sciences,Business Administration,100,M,18,1.59,46,3,1,1
+STD2683,Education,Education Mathematics,400,F,20,3.05,85,5,0,0
+STD2684,Science,Chemistry,200,F,17,2.46,94,2,0,0
+STD2685,Arts,History,400,F,19,4.26,99,1,0,0
+STD2686,Science,Computer Science,400,F,24,2.69,81,2,0,0
+STD2687,Education,Education Biology,400,F,26,0.57,31,3,1,1
+STD2688,Arts,History,200,F,17,4.8,77,8,1,0
+STD2689,Social Sciences,Economics,100,M,23,1.02,78,2,1,0
+STD2690,Science,Computer Science,200,F,18,2.45,82,1,1,0
+STD2691,Social Sciences,Political Science,100,M,25,3.46,98,8,0,0
+STD2692,Management Sciences,Accounting,300,F,29,1.4,20,7,0,1
+STD2693,Arts,English,100,M,28,1.84,89,4,0,1
+STD2694,Science,Mathematics,200,M,26,3.59,80,3,0,0
+STD2695,Social Sciences,Political Science,300,M,23,3.88,49,0,0,1
+STD2696,Social Sciences,Economics,300,F,22,4.58,73,7,1,0
+STD2697,Arts,English,300,M,29,4.32,49,8,0,1
+STD2698,Education,Education Mathematics,400,F,18,0.69,81,6,0,1
+STD2699,Education,Education Mathematics,100,F,25,4.02,30,0,1,0
+STD2700,Social Sciences,Economics,100,M,27,4.22,36,6,0,1
+STD2701,Education,Education Mathematics,400,F,17,0.88,88,4,1,1
+STD2702,Science,Chemistry,300,M,25,3.53,29,7,1,1
+STD2703,Management Sciences,Accounting,100,F,27,0.75,24,7,1,1
+STD2704,Education,Education Biology,100,M,26,4.66,38,4,1,1
+STD2705,Science,Computer Science,400,F,18,2.45,77,3,1,0
+STD2706,Social Sciences,Economics,300,F,23,2.84,74,4,0,0
+STD2707,Education,Education Mathematics,100,F,22,4.8,87,6,1,0
+STD2708,Education,Education Biology,300,M,24,1.89,94,3,0,1
+STD2709,Science,Chemistry,200,F,24,1.44,57,0,0,1
+STD2710,Management Sciences,Business Administration,200,M,25,4.7,35,3,1,0
+STD2711,Science,Chemistry,100,M,29,1.39,21,3,1,1
+STD2712,Science,Mathematics,100,M,19,3.03,39,3,1,0
+STD2713,Management Sciences,Accounting,400,M,19,2.57,77,6,0,0
+STD2714,Arts,History,300,M,19,1.52,77,2,0,1
+STD2715,Education,Education Mathematics,400,M,27,0.98,58,7,0,1
+STD2716,Science,Computer Science,200,M,21,3.82,33,2,1,0
+STD2717,Education,Education Mathematics,200,M,22,3.26,34,8,1,1
+STD2718,Education,Education Biology,400,M,21,0.51,83,2,1,0
+STD2719,Social Sciences,Political Science,100,F,30,4.52,94,8,0,0
+STD2720,Social Sciences,Economics,300,M,20,4.27,66,6,1,0
+STD2721,Social Sciences,Economics,100,M,20,2.9,88,0,0,0
+STD2722,Social Sciences,Political Science,300,M,22,3.91,92,7,1,0
+STD2723,Management Sciences,Business Administration,100,M,21,4.96,81,6,1,0
+STD2724,Education,Education Mathematics,100,F,26,4.81,65,1,1,0
+STD2725,Management Sciences,Business Administration,100,F,28,0.54,82,8,0,1
+STD2726,Science,Biology,100,F,21,2.49,72,6,1,0
+STD2727,Science,Mathematics,200,M,23,0.74,100,0,1,0
+STD2728,Social Sciences,Political Science,100,M,18,0.59,62,1,0,1
+STD2729,Management Sciences,Business Administration,100,F,19,4.47,71,7,0,0
+STD2730,Science,Mathematics,300,M,28,3.95,89,3,1,0
+STD2731,Science,Mathematics,400,F,28,3.46,45,8,1,1
+STD2732,Science,Chemistry,200,M,30,1.21,72,2,1,0
+STD2733,Management Sciences,Accounting,200,M,22,3.97,26,5,0,1
+STD2734,Science,Biology,100,F,21,1.17,58,7,0,1
+STD2735,Management Sciences,Accounting,100,M,23,1.22,86,3,1,0
+STD2736,Arts,History,200,F,21,2.15,59,1,0,0
+STD2737,Education,Education Mathematics,200,M,17,1.03,72,3,0,1
+STD2738,Social Sciences,Political Science,400,F,29,0.78,82,8,0,1
+STD2739,Management Sciences,Business Administration,300,F,19,2.77,37,5,1,1
+STD2740,Education,Education Biology,300,F,21,4.75,99,2,1,0
+STD2741,Management Sciences,Accounting,400,M,21,1.91,87,5,1,1
+STD2742,Arts,English,100,M,30,3.29,56,7,1,0
+STD2743,Management Sciences,Business Administration,100,M,22,3.11,95,5,0,0
+STD2744,Science,Computer Science,400,F,28,0.67,22,6,0,1
+STD2745,Management Sciences,Accounting,300,M,17,1.93,80,0,1,0
+STD2746,Social Sciences,Political Science,400,F,21,3.52,21,4,1,1
+STD2747,Science,Biology,300,M,25,0.87,37,2,0,1
+STD2748,Social Sciences,Political Science,300,M,26,4.83,79,3,1,0
+STD2749,Management Sciences,Accounting,300,F,29,4.87,21,0,0,1
+STD2750,Science,Chemistry,200,M,24,4.07,66,5,0,0
+STD2751,Education,Education Biology,200,F,30,3.75,85,6,1,0
+STD2752,Social Sciences,Economics,400,F,28,3.81,81,4,1,0
+STD2753,Arts,History,400,F,21,3.67,41,3,1,0
+STD2754,Social Sciences,Political Science,400,M,28,4.72,100,2,0,0
+STD2755,Science,Chemistry,300,F,22,3.13,70,8,0,0
+STD2756,Social Sciences,Economics,200,M,19,2.17,81,1,1,0
+STD2757,Arts,English,400,F,19,0.64,60,3,1,0
+STD2758,Education,Education Biology,100,F,30,4.11,26,1,0,1
+STD2759,Science,Mathematics,100,M,22,3.55,28,5,1,1
+STD2760,Social Sciences,Political Science,100,M,30,2.06,90,5,1,0
+STD2761,Science,Biology,200,M,27,2.84,32,7,0,1
+STD2762,Arts,English,100,F,24,2.35,49,2,0,1
+STD2763,Education,Education Mathematics,200,F,24,4.46,24,6,1,1
+STD2764,Education,Education Mathematics,300,M,21,3.44,88,0,0,0
+STD2765,Management Sciences,Accounting,100,M,29,4.97,43,4,1,1
+STD2766,Management Sciences,Business Administration,300,F,17,3.95,76,4,0,0
+STD2767,Social Sciences,Economics,100,F,23,4.79,32,1,1,0
+STD2768,Arts,History,300,F,21,1.88,52,6,1,1
+STD2769,Social Sciences,Economics,300,M,18,2.19,27,8,0,1
+STD2770,Education,Education Mathematics,300,M,23,0.87,80,6,0,1
+STD2771,Management Sciences,Business Administration,300,F,27,1.07,99,5,0,1
+STD2772,Science,Biology,200,F,19,2.35,71,2,0,0
+STD2773,Social Sciences,Economics,200,F,25,0.69,97,3,1,0
+STD2774,Management Sciences,Business Administration,400,F,28,3.61,93,1,1,0
+STD2775,Science,Biology,200,M,27,4.41,75,7,1,0
+STD2776,Management Sciences,Accounting,100,M,18,0.91,55,5,1,1
+STD2777,Social Sciences,Political Science,200,M,18,1.12,88,7,1,1
+STD2778,Arts,English,100,F,25,1.38,66,2,1,0
+STD2779,Management Sciences,Business Administration,300,F,26,1.23,93,0,0,1
+STD2780,Science,Mathematics,200,M,24,1.9,22,5,1,1
+STD2781,Education,Education Mathematics,100,M,25,1.18,63,5,0,1
+STD2782,Arts,History,400,M,19,3.75,60,5,1,0
+STD2783,Science,Biology,100,M,30,3.47,29,3,0,1
+STD2784,Education,Education Biology,300,M,22,2.61,82,4,0,0
+STD2785,Science,Chemistry,100,M,30,3.36,87,1,0,0
+STD2786,Education,Education Biology,200,M,23,1.08,66,4,0,1
+STD2787,Science,Computer Science,100,M,21,4.48,90,4,0,0
+STD2788,Science,Mathematics,100,M,22,2.87,81,5,1,0
+STD2789,Management Sciences,Business Administration,400,M,17,2.32,76,5,1,0
+STD2790,Science,Chemistry,200,M,24,4.11,51,7,0,0
+STD2791,Management Sciences,Accounting,200,M,29,3.02,75,4,0,0
+STD2792,Social Sciences,Economics,100,F,19,4.85,69,5,0,0
+STD2793,Social Sciences,Political Science,400,M,28,4.63,34,3,0,1
+STD2794,Arts,History,200,F,22,3.19,39,1,1,0
+STD2795,Social Sciences,Economics,200,F,29,1.79,79,8,0,1
+STD2796,Social Sciences,Economics,300,M,24,3.86,55,8,0,0
+STD2797,Social Sciences,Economics,100,F,29,4.65,32,3,0,1
+STD2798,Social Sciences,Economics,300,M,22,1.07,93,7,0,1
+STD2799,Social Sciences,Political Science,400,F,28,2.63,75,2,0,0
+STD2800,Science,Biology,400,F,30,4.61,75,0,1,0
+STD2801,Arts,English,100,F,19,2.75,90,5,0,0
+STD2802,Management Sciences,Accounting,100,M,29,1.16,98,4,1,1
+STD2803,Education,Education Biology,300,F,18,0.56,81,8,1,1
+STD2804,Management Sciences,Business Administration,400,F,20,1.63,68,5,1,1
+STD2805,Management Sciences,Accounting,400,F,27,2.39,80,7,0,0
+STD2806,Science,Computer Science,200,F,24,2.51,94,8,1,0
+STD2807,Education,Education Biology,400,F,20,1.94,30,6,1,1
+STD2808,Management Sciences,Accounting,100,M,21,2.39,89,1,0,0
+STD2809,Management Sciences,Business Administration,200,M,27,1.46,60,1,1,0
+STD2810,Arts,English,400,M,17,0.51,65,7,0,1
+STD2811,Science,Chemistry,100,M,29,3.43,46,4,1,1
+STD2812,Management Sciences,Accounting,100,M,28,2.38,88,5,0,0
+STD2813,Management Sciences,Business Administration,100,M,30,0.97,24,2,0,1
+STD2814,Management Sciences,Accounting,400,F,27,0.73,31,5,1,1
+STD2815,Science,Biology,400,F,18,3.85,62,5,1,0
+STD2816,Education,Education Biology,300,F,17,2.75,42,6,1,1
+STD2817,Education,Education Mathematics,200,F,22,1.36,37,0,1,1
+STD2818,Science,Mathematics,300,M,17,3.39,78,6,0,0
+STD2819,Social Sciences,Political Science,200,M,21,2.39,90,1,1,0
+STD2820,Social Sciences,Economics,300,F,24,1.16,81,8,0,1
+STD2821,Management Sciences,Accounting,400,F,23,3.66,43,5,1,1
+STD2822,Management Sciences,Accounting,400,M,21,0.95,39,0,1,1
+STD2823,Management Sciences,Accounting,100,F,21,2.38,77,8,1,0
+STD2824,Education,Education Biology,300,M,23,3.01,89,3,0,0
+STD2825,Social Sciences,Economics,400,M,21,4.02,45,8,0,1
+STD2826,Management Sciences,Business Administration,100,M,25,1.01,77,5,1,1
+STD2827,Science,Biology,300,M,24,3.76,30,7,0,1
+STD2828,Science,Chemistry,200,F,21,2.74,58,4,0,0
+STD2829,Social Sciences,Economics,300,F,28,0.79,76,7,0,1
+STD2830,Social Sciences,Economics,100,F,22,1.8,24,2,0,1
+STD2831,Science,Mathematics,300,F,23,3.02,63,3,1,0
+STD2832,Arts,History,100,M,19,2.52,43,0,0,1
+STD2833,Social Sciences,Political Science,100,M,30,1.21,68,2,0,1
+STD2834,Education,Education Biology,100,M,26,1.03,97,5,1,1
+STD2835,Management Sciences,Business Administration,400,F,21,2.69,61,2,0,0
+STD2836,Arts,English,100,F,21,1.45,78,5,0,1
+STD2837,Arts,History,100,F,25,3.29,40,3,1,0
+STD2838,Management Sciences,Business Administration,400,M,26,1.55,73,5,1,1
+STD2839,Education,Education Mathematics,300,M,25,3.38,42,0,0,1
+STD2840,Social Sciences,Economics,200,M,27,4.67,38,7,0,1
+STD2841,Social Sciences,Economics,200,F,30,2.01,68,0,1,0
+STD2842,Education,Education Biology,200,M,30,4.93,77,1,1,0
+STD2843,Social Sciences,Economics,100,M,21,4.39,88,5,1,0
+STD2844,Science,Biology,200,M,18,4.96,70,3,1,0
+STD2845,Science,Biology,100,M,26,0.93,68,4,0,1
+STD2846,Education,Education Mathematics,300,F,28,1.31,40,1,1,1
+STD2847,Arts,English,400,F,18,1.66,43,8,0,1
+STD2848,Science,Computer Science,400,M,24,1.35,40,2,1,1
+STD2849,Education,Education Biology,100,M,22,0.59,71,0,0,1
+STD2850,Science,Biology,100,M,19,2.5,89,3,1,0
+STD2851,Social Sciences,Economics,100,F,21,3.32,46,4,1,1
+STD2852,Science,Chemistry,100,F,27,0.53,70,2,1,0
+STD2853,Management Sciences,Business Administration,400,M,21,2.64,20,7,1,1
+STD2854,Science,Computer Science,200,M,27,1.65,45,7,0,1
+STD2855,Arts,English,300,M,17,3.65,24,5,1,1
+STD2856,Education,Education Mathematics,300,M,18,3.42,47,3,1,0
+STD2857,Social Sciences,Political Science,300,F,29,4.07,51,0,1,0
+STD2858,Arts,English,300,M,21,3.37,24,0,0,1
+STD2859,Management Sciences,Business Administration,200,F,17,2.54,51,3,1,0
+STD2860,Arts,History,300,F,26,3.35,84,8,1,0
+STD2861,Education,Education Mathematics,200,M,28,3.17,20,6,0,1
+STD2862,Arts,English,300,F,28,0.91,91,1,1,0
+STD2863,Social Sciences,Political Science,300,F,25,1.67,99,3,1,0
+STD2864,Social Sciences,Economics,100,M,17,4.93,81,3,1,0
+STD2865,Science,Mathematics,100,F,26,1.15,75,6,1,1
+STD2866,Management Sciences,Business Administration,400,F,18,3.64,80,5,1,0
+STD2867,Social Sciences,Political Science,100,F,20,1.02,90,4,0,1
+STD2868,Management Sciences,Accounting,100,M,24,1.22,23,8,0,1
+STD2869,Social Sciences,Economics,300,F,26,3.68,96,1,0,0
+STD2870,Arts,History,400,M,29,4.58,96,6,1,0
+STD2871,Management Sciences,Business Administration,200,M,27,1.39,87,3,1,0
+STD2872,Management Sciences,Accounting,200,F,22,2.36,65,3,0,0
+STD2873,Social Sciences,Political Science,300,F,30,1.64,96,2,0,1
+STD2874,Education,Education Biology,200,F,23,0.6,41,5,1,1
+STD2875,Management Sciences,Accounting,100,M,17,3.41,89,5,0,0
+STD2876,Science,Chemistry,200,M,20,4.47,41,0,1,0
+STD2877,Education,Education Mathematics,100,M,21,4.46,78,6,0,0
+STD2878,Management Sciences,Accounting,200,M,19,1.24,84,1,1,0
+STD2879,Education,Education Biology,400,M,19,4.82,36,7,1,1
+STD2880,Management Sciences,Accounting,100,F,21,3.9,97,2,1,0
+STD2881,Management Sciences,Accounting,200,F,28,1.33,30,5,1,1
+STD2882,Education,Education Biology,400,F,25,2.11,45,3,0,1
+STD2883,Social Sciences,Economics,400,M,25,0.84,33,8,1,1
+STD2884,Management Sciences,Accounting,200,M,29,1.63,87,2,1,0
+STD2885,Social Sciences,Economics,200,F,30,2.4,47,6,0,1
+STD2886,Arts,History,200,F,19,4.17,57,4,0,0
+STD2887,Education,Education Mathematics,400,M,21,1.99,55,1,0,1
+STD2888,Science,Biology,200,F,17,0.63,29,6,1,1
+STD2889,Management Sciences,Accounting,100,M,21,2.19,91,4,0,0
+STD2890,Arts,History,100,F,18,1.67,100,7,0,1
+STD2891,Arts,English,200,F,22,3.76,81,5,1,0
+STD2892,Social Sciences,Political Science,300,M,23,0.54,77,3,0,1
+STD2893,Management Sciences,Accounting,100,F,17,2.16,39,6,1,1
+STD2894,Arts,History,200,F,22,4.45,66,0,1,0
+STD2895,Social Sciences,Economics,100,F,19,2.17,59,4,0,0
+STD2896,Arts,English,300,M,28,1.38,96,7,0,1
+STD2897,Management Sciences,Accounting,400,M,20,2.8,83,0,1,0
+STD2898,Science,Mathematics,300,F,17,1.69,93,7,1,1
+STD2899,Social Sciences,Political Science,200,M,19,0.63,68,5,0,1
+STD2900,Science,Chemistry,200,F,25,1.17,94,0,1,0
+STD2901,Education,Education Mathematics,200,M,24,1.87,42,5,1,1
+STD2902,Education,Education Mathematics,200,F,26,2.14,92,3,1,0
+STD2903,Education,Education Mathematics,200,M,22,4.56,70,0,0,0
+STD2904,Education,Education Mathematics,200,M,26,3.38,83,0,0,0
+STD2905,Management Sciences,Accounting,100,M,20,0.78,24,8,1,1
+STD2906,Arts,English,400,M,28,3.26,89,1,0,0
+STD2907,Science,Mathematics,200,M,30,2.21,43,2,1,0
+STD2908,Science,Chemistry,200,F,19,2.2,36,4,1,1
+STD2909,Science,Computer Science,400,F,20,3.33,23,1,0,1
+STD2910,Arts,English,300,M,26,2.37,68,2,0,0
+STD2911,Management Sciences,Business Administration,100,M,28,0.89,74,7,0,1
+STD2912,Science,Mathematics,200,M,27,4.83,38,7,0,1
+STD2913,Arts,English,400,M,22,2.36,47,3,1,0
+STD2914,Science,Mathematics,200,F,21,1.73,76,0,1,0
+STD2915,Social Sciences,Political Science,400,F,18,1.04,63,6,1,1
+STD2916,Science,Biology,400,F,28,1.17,24,0,1,1
+STD2917,Management Sciences,Business Administration,100,F,28,3.52,99,7,0,0
+STD2918,Management Sciences,Accounting,200,M,26,2.82,46,6,0,1
+STD2919,Management Sciences,Business Administration,400,F,17,2.44,64,7,0,0
+STD2920,Social Sciences,Economics,200,F,22,2.8,42,4,0,1
+STD2921,Social Sciences,Political Science,100,M,28,3.97,29,6,0,1
+STD2922,Management Sciences,Accounting,400,F,23,3.93,60,7,1,0
+STD2923,Education,Education Biology,200,M,22,0.89,66,6,0,1
+STD2924,Social Sciences,Political Science,100,F,30,2.8,21,7,0,1
+STD2925,Science,Mathematics,200,M,23,0.87,64,0,1,0
+STD2926,Science,Biology,300,M,27,4.38,41,7,0,1
+STD2927,Arts,History,200,M,25,3.01,90,3,1,0
+STD2928,Social Sciences,Political Science,400,M,27,4.88,94,7,1,0
+STD2929,Management Sciences,Accounting,300,M,26,3.92,100,0,1,0
+STD2930,Science,Mathematics,100,M,18,1.58,34,7,0,1
+STD2931,Science,Computer Science,100,M,17,1.83,81,1,0,1
+STD2932,Science,Computer Science,300,M,23,1.06,29,8,1,1
+STD2933,Education,Education Mathematics,200,M,23,1.53,65,5,1,1
+STD2934,Arts,English,100,F,30,2.9,47,7,0,1
+STD2935,Education,Education Mathematics,300,F,24,4.01,75,0,0,0
+STD2936,Management Sciences,Accounting,300,M,22,1.96,33,3,0,1
+STD2937,Arts,English,200,F,28,4.15,81,8,0,0
+STD2938,Science,Computer Science,100,M,24,2.68,58,1,0,0
+STD2939,Management Sciences,Accounting,300,M,23,0.64,67,0,0,1
+STD2940,Education,Education Biology,400,F,17,4.49,84,0,0,0
+STD2941,Arts,History,300,M,18,4.82,52,1,1,0
+STD2942,Social Sciences,Economics,100,M,20,4.67,30,0,0,1
+STD2943,Education,Education Biology,100,M,23,4.91,73,4,1,0
+STD2944,Arts,English,100,F,20,3.81,21,7,0,1
+STD2945,Education,Education Biology,400,M,22,1.35,27,5,1,1
+STD2946,Social Sciences,Political Science,200,F,17,4.54,82,2,0,0
+STD2947,Arts,History,400,M,26,4.15,79,1,0,0
+STD2948,Education,Education Mathematics,300,F,28,0.54,51,5,1,1
+STD2949,Science,Computer Science,200,F,22,3.23,35,5,0,1
+STD2950,Management Sciences,Accounting,400,M,30,0.96,20,4,1,1
+STD2951,Management Sciences,Accounting,100,M,25,1.33,91,4,1,1
+STD2952,Arts,English,400,F,30,4.1,57,0,1,0
+STD2953,Science,Computer Science,100,F,21,3.53,40,3,0,1
+STD2954,Management Sciences,Business Administration,100,F,21,4.77,48,4,0,1
+STD2955,Social Sciences,Economics,100,F,24,2.56,67,6,0,0
+STD2956,Management Sciences,Accounting,100,M,18,1.33,45,8,0,1
+STD2957,Science,Biology,400,F,24,3.89,83,4,1,0
+STD2958,Education,Education Biology,100,M,17,4.04,65,1,1,0
+STD2959,Science,Computer Science,300,F,30,4.39,88,7,1,0
+STD2960,Arts,History,200,M,30,3.13,39,4,1,1
+STD2961,Management Sciences,Accounting,100,F,19,0.75,55,6,1,1
+STD2962,Arts,History,400,M,22,0.89,27,3,1,1
+STD2963,Arts,English,100,M,20,3.97,48,6,1,1
+STD2964,Arts,English,200,F,21,4.83,51,0,0,0
+STD2965,Arts,English,200,F,27,4.37,72,0,0,0
+STD2966,Science,Computer Science,100,M,23,0.64,100,0,1,0
+STD2967,Arts,History,400,F,29,0.74,95,8,1,1
+STD2968,Management Sciences,Accounting,400,M,24,4.78,71,8,1,0
+STD2969,Management Sciences,Accounting,300,M,17,4.01,22,7,0,1
+STD2970,Science,Computer Science,200,F,27,1.02,82,5,0,1
+STD2971,Management Sciences,Accounting,400,M,30,2.48,60,6,1,0
+STD2972,Management Sciences,Accounting,100,M,25,4.04,92,4,0,0
+STD2973,Arts,History,300,F,19,3.56,78,5,1,0
+STD2974,Arts,English,300,F,22,4.66,38,6,1,1
+STD2975,Arts,History,300,M,25,2.96,37,5,1,1
+STD2976,Management Sciences,Business Administration,200,M,19,3.33,54,3,0,0
+STD2977,Arts,English,100,F,20,0.76,74,2,1,0
+STD2978,Arts,English,400,M,24,1.51,88,0,0,1
+STD2979,Management Sciences,Accounting,300,M,23,4.03,86,0,0,0
+STD2980,Education,Education Mathematics,400,F,29,3.63,71,8,0,0
+STD2981,Science,Chemistry,400,M,30,2.39,63,2,1,0
+STD2982,Education,Education Biology,100,M,22,4.93,33,3,1,0
+STD2983,Social Sciences,Political Science,400,F,18,3.85,98,3,1,0
+STD2984,Arts,English,400,F,17,2.17,56,0,1,0
+STD2985,Arts,English,200,F,30,0.56,81,3,1,0
+STD2986,Social Sciences,Economics,100,M,22,1.89,22,7,1,1
+STD2987,Management Sciences,Accounting,200,F,29,3.47,47,0,1,0
+STD2988,Arts,History,400,F,26,4.55,62,5,0,0
+STD2989,Management Sciences,Business Administration,400,M,26,3.6,92,2,1,0
+STD2990,Management Sciences,Business Administration,100,F,19,4.31,39,5,1,1
+STD2991,Arts,English,300,F,27,2.11,68,7,0,0
+STD2992,Management Sciences,Business Administration,200,F,27,3.43,64,5,0,0
+STD2993,Science,Biology,200,F,21,2.66,28,2,1,0
+STD2994,Social Sciences,Economics,300,M,28,1.74,40,3,0,1
+STD2995,Arts,English,200,M,21,1.08,87,7,0,1
+STD2996,Education,Education Mathematics,200,M,22,3.98,20,8,1,1
+STD2997,Management Sciences,Business Administration,100,M,20,0.92,44,0,1,1
+STD2998,Arts,History,100,F,24,0.68,67,1,1,0
+STD2999,Management Sciences,Business Administration,100,F,27,4.18,46,3,1,0
+STD3000,Management Sciences,Business Administration,300,F,17,4.94,63,6,0,0
