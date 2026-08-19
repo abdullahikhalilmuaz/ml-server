@@ -8,7 +8,7 @@ const createStudent = async (req, res) => {
     console.log(studentData);
 
     // Send data to AI model
-    const prediction = await axios.post("https://ai-model-prediction.onrender.com", {
+    const prediction = await axios.post("https://ai-model-prediction.onrender.com/predict", {
       level: studentData.level,
       age: studentData.age,
       cgpa: studentData.cgpa,
